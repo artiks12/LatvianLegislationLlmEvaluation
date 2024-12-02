@@ -1,0 +1,414 @@
+[
+    {
+        "URL": "https://juristavards.lv/doc/285712-arstniecibas-radita-kaitejuma-atlidzinasanas-problematika/",
+        "Tēma": "Pacientu tiesības",
+        "Nosaukums": "Ārstniecības radīta kaitējuma atlīdzināšanas problemātika",
+        "Saturi": [
+            {
+                "Tips": "Anotācija",
+                "Datums": "",
+                "Autori": [],
+                "Saturs": null
+            },
+            {
+                "Tips": "Raksts",
+                "Datums": "2024-08-27",
+                "Autori": [
+                    {
+                        "Vārds": "Mg. iur. Janeta Dzērve-Pavloviča",
+                        "Detaļas": "Rīgas pilsētas tiesas tiesneša palīdze"
+                    }
+                ],
+                "Saturs": "<p id=\"s_1\" class=\"JV_sub saturs\">Ievads</p><p>Cilvēka veselībai kā pamatvērtībai ir neapšaubāma loma valsts, sabiedrības un indivīda izaugsmē,<sup><a name=\"txt_1\" href=\"#ats_1\">1</a></sup> un ārstniecība ir viens no veidiem, kā nodrošināt cilvēka veselības uzturēšanu, taču nereti tieši ārstniecības procesā šai cilvēka pamatvērtībai tiek nodarīts kaitējums. Kā norādījis izdevums <i>The Washington Post</i>, Amerikas Savienotajās Valstīs medicīniskās kļūdas ir trešais izplatītākais nāves cēlonis,<sup><a name=\"txt_2\" href=\"#ats_2\">2</a></sup> savukārt, kā izpētījusi Ekonomiskās sadarbības un attīstības organizācija (OECD,<i> Organisation of Economic Co-operation and Development</i>), pasaules mērogā veselības aprūpes radītais kaitējums ir 14. biežākais nāves cēlonis, kas pielīdzināms kaitējumam, ko rada tādas plaši izplatītas slimības kā malārija un tuberkuloze.<sup><a name=\"txt_3\" href=\"#ats_3\">3</a></sup></p><p>Medicīna ir riskanta nozare, un tajā rezultāts ir atkarīgs no ļoti daudziem savstarpēji korelējošiem faktoriem, vispirms jau iedzimtības, kā arī no pacienta vecuma, dzimuma, veselības stāvokļa kopumā, pacienta organisma reakcijas uz atsevišķiem medicīnas tehnoloģiju komponentiem, pacienta līdzestības u.tml. Šī daudzu faktoru pastāvēšana un ietekme medicīnā uztur pastāvīgu risku, no kura nevar izvairīties.<sup><a name=\"txt_4\" href=\"#ats_4\">4</a></sup></p><p>Arī medicīnas nozarē darbojas princips, ka, ja personai ir tiesības, tad tās rīcībā jābūt tiesību aizsardzības līdzeklim, ar ko tās aizsargāt.<sup><a name=\"txt_5\" href=\"#ats_5\">5</a></sup> Ievērojot Eiropas Cilvēka tiesību un pamatbrīvību aizsardzības konvencijas<sup><a name=\"txt_6\" href=\"#ats_6\">6</a></sup> 2., 8. un 13. pantā, Konvencijas par cilvēktiesību cieņas aizsardzību bioloģijā un medicīnā<sup><a name=\"txt_7\" href=\"#ats_7\">7</a></sup> 24. pantā un Eiropas Parlamenta un Padomes Direktīvas Nr. 2011/24/ES (2011. gada 9. marts) par pacientu tiesību piemērošanu pārrobežu veselības aprūpē<sup><a name=\"txt_8\" href=\"#ats_8\">8</a></sup> 4. un 21. pantā noteikto, Latvija, lai pildītu savas saistības cilvēku veselības aizsardzībā un nodrošinātu pacientiem pieejamas un pārredzamas sūdzību procedūras un mehānismus, gadījumiem, kad sniegtās veselības aprūpes dēļ pacientam ir nodarīts kaitējums, 2013. gada nogalē, par piemēru ņemot Zviedrijas un Dānijas valstu pieredzi, izveidoja Ārstniecības riska fondu (turpmāk – ĀRF). </p><p>Fonds darbojas jau desmit gadus, un šajā laikā Senāta darbā pat vairākas reizes gadā tiek noskaidrotas jaunas judikatūras atziņas lietās par izmaksām no ĀRF, tostarp jautājumos par Pacientu tiesību likuma (turpmāk – PTL) 16. panta pirmajā daļā iekļauto priekšnoteikumu atlīdzības izmaksai identificēšanu un interpretāciju. Raksta ietvaros tiks atklāta kompensācijas saņemšanas par dzīvībai vai veselībai nodarīto kaitējumu problemātika saistībā ar minētajiem priekšnoteikumiem – pacienta dzīvībai vai veselībai nodarīta kaitējuma esamību, ārstniecības personu neprofesionālu rīcību un cēloņsakarību starp kaitējumu un ārstniecības personas veikto darbību vai bezdarbību ārstniecības procesā, sīkāk nepievērošoties ārstniecības izdevumu un apstākļu ārstniecības laikā jautājumiem, jo saistībā ar izdevumu atlīdzināšanu tiesu praksē nav tikusi konstatētā problemātika, bet jautājumi par apstākļiem ārstniecības laikā būtībā tiek analizēti kopā ar iebildumiem par ārstniecības personas rīcību.<sup><a name=\"txt_9\" href=\"#ats_9\">9</a></sup></p><p> </p><p id=\"s_2\" class=\"JV_sub saturs\">1. Kaitējuma pacienta dzīvībai vai veselībai esība kā priekšnoteikums līdzekļu izmaksai no fonda</p><p>Viens no priekšnoteikumiem kaitējuma atlīdzības izmaksai ir pacienta veselībai vai dzīvībai nodarīta kaitējuma konstatēšanas nepieciešamība.<sup class=\"big\"><a name=\"txt_10\" href=\"#ats_10\">10</a></sup> Atskatoties vēsturiski uz likumdevēja apsvērumiem, izvērtējot, kādu kaitējumu atlīdzināt Latvijā, tiesību aktu izstrādes dokumentos norādīts, ka vērā ņemta Dānijas un Zviedrijas valstu pieredze, kur kompensāciju izmaksā gan par mantisku kaitējumu – t.i., ienākumu zaudējumu, pensijas zaudējumu, zaudējumiem, kas saistīti ar ārstēšanu, gan nemantisku kaitējumu – t.i., nodarītām sāpēm, ciešanām, invaliditāti, sakropļojumu un darba nespēju. Ievērojot Latvijas finanšu iespējas un ekonomisko situāciju, likumdevējs tika nolēmis, ka personai, iesniedzot iesniegumu par atlīdzību par dzīvībai vai veselībai nodarīto kaitējumu, būs tiesības saņemt atlīdzību par nodarītu nemantisku kaitējumu un mantisko kaitējumu – nepieciešamajiem ārstniecības izdevumiem konkrētu limitu robežās.</p>"
+            }
+        ],
+        "Abonaments": true
+    },
+    {
+        "URL": "https://juristavards.lv/doc/285502-valsts-valodas-lietojums-pacienta-un-arstniecibas-personas-tiesiskajas-attiecibas/",
+        "Tēma": "Pacientu tiesības",
+        "Nosaukums": "Valsts valodas lietojums pacienta un ārstniecības personas tiesiskajās attiecībās",
+        "Saturi": [
+            {
+                "Tips": "Anotācija",
+                "Datums": "",
+                "Autori": [],
+                "Saturs": "<p>2024. gada 13. jūnijā Saeima galīgajā lasījumā atbalstīja grozījumus Pacientu tiesību likumā, ar kuriem tai skaitā tika stiprināta valsts valodas lietošana ārstniecības personas un pacienta savstarpējā saziņā.<sup><a href=\"#ats_1\" name=\"txt_1\">1</a></sup> Šie grozījumi tika veikti, balstoties uz pēdējo mēnešu laikā konstatētiem izaicinājumiem attiecībā uz pacientu un ārstniecības personu ierobežotu spēju realizēt savas tiesības un īstenot pienākumus ārstniecības procesā.</p>"
+            },
+            {
+                "Tips": "Raksts",
+                "Datums": "2024-07-02",
+                "Autori": [
+                    {
+                        "Vārds": "Asoc. prof. Ph.D Karina Palkova",
+                        "Detaļas": "Rīgas Stradiņu universitātes Sociālo zinātņu fakultātes dekāne, veselības ministra ārštata padomniece pacientu un ārstniecības personu tiesību aizsardzības jautājumos"
+                    },
+                    {
+                        "Vārds": "Ph.D Līga Āboliņa",
+                        "Detaļas": "Veselības ministra padomniece juridiskajos jautājumos"
+                    }
+                ],
+                "Saturs": "<p>Pacientu tiesības un to aizsardzības mehānismi primāri ir atrunāti Pacientu tiesību likumā, kura mērķis atbilstoši 2. pantā noteiktajam ir veicināt labvēlīgas attiecības starp pacientu un veselības aprūpes pakalpojuma sniedzēju, sekmējot pacienta aktīvu līdzdalību savas veselības aprūpē. Vienlaikus Pacientu tiesību likuma mērķis ir arī nodrošināt pacientam iespēju īstenot un aizstāvēt savas tiesības un intereses. Minētais likuma mērķis tiešā veidā korelē ar valsts valodas lietojumu ārstniecības procesā, kur pamatā primāri ir pacienta un ārstniecības personas spēja nodrošināt savstarpēji skaidru komunikāciju. Savukārt komunikācija ir pamats kvalitatīva ārstniecības procesa nodrošināšanai.<sup><a name=\"txt_2\" href=\"#ats_2\">2</a></sup></p><p>Rakstā tiks sniegts skaidrojums par grozījumiem Pacientu tiesību likumā, specifiski sniedzot informāciju par Pacientu tiesību likuma 15. panta jauno redakciju, kurā paredzēts, ka gadījumā, ja pacients neprot valsts valodu un runā tādā valodā, ko ārstniecības persona nesaprot, pacients nodrošina tulkošanu, izņemot gadījumus, kad tas nav iespējams objektīvu iemeslu dēļ. Tas ir raisījis diskusijas, tāpēc šajā rakstā šis jauninājums tiek aplūkots detalizētāk.</p><p> </p><p id=\"s_1\" class=\"JV_sub saturs\">Valsts valodas lietojuma korelācija ar pacienta tiesību īstenošanu un kvalitatīvu un kvalificētu veselības aprūpes pakalpojumu</p><p>Valodas lietojums veselības aprūpē ir būtisks aspekts, kas tieši ietekmē ārstniecības procesu, tā kvalitāti un pacienta drošību. Valoda ir galvenais saziņas līdzeklis, kas nodrošina efektīvu informācijas apmaiņu starp pacientu un ārstniecības personu. Kvalitatīva un precīza informācijas apmaiņa ir būtiska, lai ārstniecības personas varētu sniegt kvalitatīvu un kvalificētu ārstniecību, kā to prasa Pacientu tiesību likums un citi normatīvie akti.</p><p>Pirms analizēt jautājumu par valsts valodas lietošanu ārstniecībā, ir jāpievērš uzmanība Pacientu tiesību likuma mērķim. Grozījumi attiecībā uz valsts valodas lietošanu starp pacientu un ārstniecības personu ir iestrādāti Pacienti tiesību likumā, jo tieši šā likuma mērķis ir veicināt labvēlīgas attiecības starp pacientu un veselības aprūpes pakalpojumu sniedzēju, sekmējot pacienta aktīvu līdzdalību savas veselības aprūpē, kā arī nodrošināt viņam iespēju īstenot un aizstāvēt savas tiesības un intereses.</p>"
+            }
+        ],
+        "Abonaments": true
+    },
+    {
+        "URL": "https://juristavards.lv/doc/284721-ar-politisku-gribu-pacientu-tiesibu-grozisanai-nepietiks/",
+        "Tēma": "Pacientu tiesības",
+        "Nosaukums": "Ar politisku gribu pacientu tiesību grozīšanai nepietiks",
+        "Saturi": [
+            {
+                "Tips": "Anotācija",
+                "Datums": "",
+                "Autori": [],
+                "Saturs": "<p>Šī raksta mērķis ir izteikt viedokli par Saeimas virzītajiem grozījumiem Pacientu tiesību likumā<sup><a href=\"#ats_1\" name=\"txt_1\">1</a></sup> un parādīt gan grozījumos ietverto priekšlikumu nepieciešamību un pamatotību, gan arī tos trūkumus, kas neievēroti un neizlaboti nākotnē sarežģīs pacientu tiesību aizsardzību vai neļaus īstenot pacientu tiesības pietiekami kvalitatīvi.</p>"
+            },
+            {
+                "Tips": "Raksts",
+                "Datums": "2024-02-06",
+                "Autori": [
+                    {
+                        "Vārds": "Dr. iur., MD Solvita Olsena",
+                        "Detaļas": "Latvijas Universitātes Medicīnas fakultātes vadošā pētniece, zvērināta advokāte"
+                    }
+                ],
+                "Saturs": "<p>Katrs jauns veselības ministrs, valdības vadītāji un Saeimas deputāti ik pa laikam, bet īpaši pirms vēlēšanām, sola rūpēties par pacientu tiesību un interešu aizsardzību. Tomēr veselības aprūpes statistikas dati jau ilgstoši rāda, ka veselības aprūpes sasniegumi Latvijā ir būtiski zemāki nekā citās Eiropas Savienības valstīs, mēs zaudējam daudz vairāk cilvēku, arī savus tuviniekus, veselības aprūpes trūkuma un tās zemās kvalitātes dēļ.<sup><a name=\"txt_2\" href=\"#ats_2\">2</a></sup> Medijos regulāri tiek publicēta informācija par notikumiem ārstniecības iestādēs, kuros redzami rupji un nereti arī sistēmiski pacientu tiesību pārkāpumi, tostarp cilvēka cieņas aizskārumi,<sup><a name=\"txt_3\" href=\"#ats_3\">3</a></sup> tuvinieka klātbūtnes nepamatots aizliegums<sup><a name=\"txt_4\" href=\"#ats_4\">4</a></sup> vai pacientu datu aizsardzības pārkāpumi.<sup><a name=\"txt_5\" href=\"#ats_5\">5</a></sup> Pēdējā laikā ir publiskoti vairāki gadījumi, kad tiek ziņots par agresiju, no kuras cieš ne tikai pacienti, piemēram, dzemdību procesā<sup><a name=\"txt_6\" href=\"#ats_6\">6</a></sup> vai atveseļojoties pēc operācijas,<sup><a name=\"txt_7\" href=\"#ats_7\">7</a></sup> bet arī ārstniecības personas,<sup><a name=\"txt_8\" href=\"#ats_8\">8</a></sup> risinot sarežģītas un akūtas situācijas. Ir skaidri redzama nepieciešamība uzlabot pacientu tiesību aizsardzību un panākt, ka veselības aprūpes pakalpojumi tiek sniegti tādā kvalitātē, kas ļauj sasniegt to mērķi – pasargāt cilvēkus no slimībām vai mazināt to sekas. Pacientu tiesību pilnvērtīga ievērošana un aizsardzība ir viens no kvalitatīvas veselības aprūpes stūrakmeņiem. Pacientu tiesības ir cilvēktiesības ārstniecībā, tām ir nozīmīga loma ikvienā demokrātiskā un tiesiskā valstī. Pacients slimības dēļ bieži atrodas īpaši neaizsargātā situācijā, salīdzinot ar ārstniecības personām vai citāda rakstura dzīves situācijām, piemēram, cilvēks kā patērētājs. Tāpēc tiesību ietvaram ir jābūt labi piemērotam īpaši neaizsargāta cilvēka autonomijas, pašnoteikšanās tiesību un privātās dzīves tiesību aizsardzības garantēšanai.</p><p>Lai Latvijā risinātu plaši zināmās problēmas veselības aprūpē, ir nepieciešama politiski atbildīga rīcība ne tikai nepieciešamo finanšu piešķiršanā, bet arī likumdošanas un veselības aprūpes procesu organizācijas jomā. Likumdevējam ir jāizdod kvalitatīvs pacientu tiesību regulējums, bet veselības aprūpes organizētājiem un sniedzējiem ir jānodrošina tiesību īstenošana un aizsardzība katrā ārstniecības procesā vai epizodē. 2009. gadā pieņemtais un vairākkārt grozītais Pacientu tiesību likums (turpmāk – PTL) nosaka pacientu tiesību ietvaru Latvijā, bet satur nepilnīgas un pat tiesiski kļūdainas normas.<sup><a name=\"txt_9\" href=\"#ats_9\">9</a></sup> Ministru kabinets 2023. gada septembrī ir iesniedzis Saeimā Veselības ministrijas sagatavotos priekšlikumus PTL grozījumiem.<sup class=\"big\"><a name=\"txt_10\" href=\"#ats_10\">10</a></sup> Raksta tapšanas brīdī šis likumprojekts ir izskatīts pirmajā lasījumā, par to viedokli sniegušas dažādas institūcijas.<sup class=\"big\"><a name=\"txt_11\" href=\"#ats_11\">11</a></sup></p><p>Jāatgādina, ka pacientu tiesības ir nosakāmas saskaņā ar starptautiskajās un nacionālajās tiesību normās ietvertajiem cilvēktiesību principiem. Likumdevējam ir jāievēro ne tikai Satversmes, bet arī ANO un Eiropas Padomes cilvēktiesību aktu normas. Pacientu tiesību jomā svarīga ir gan Eiropas Padomes Cilvēktiesību un pamatbrīvību aizsardzības konvencija un Eiropas Cilvēktiesību tiesas praksē nostiprinātās atziņas pacientu tiesību jomā,<sup class=\"big\"><a name=\"txt_12\" href=\"#ats_12\">12</a></sup> gan Biomedicīnas konvencija.<sup class=\"big\"><a name=\"txt_13\" href=\"#ats_13\">13</a></sup> Vērtīgas atziņas ir ietvertas vairākās Eiropas Padomes rekomendācijās. Nosakot nepilngadīgu pacientu tiesības, jāievēro bērnu tiesību normas, bet, aizsargājot lemtspējā<sup class=\"big\"><a name=\"txt_14\" href=\"#ats_14\">14</a></sup> ierobežotus pieaugušus pacientus, – ANO Konvencijas par personu ar invaliditāti aizsardzību normas.</p>"
+            }
+        ],
+        "Abonaments": true
+    },
+    {
+        "URL": "https://juristavards.lv/doc/284720-kurp-ved-ieceretie-grozijumi-pacientu-tiesibu-likuma/",
+        "Tēma": "Pacientu tiesības",
+        "Nosaukums": "Kurp ved iecerētie grozījumi Pacientu tiesību likumā",
+        "Saturi": [
+            {
+                "Tips": "Anotācija",
+                "Datums": "",
+                "Autori": [],
+                "Saturs": "<p>Šī raksta mērķis ir sniegt ieskatu likumprojektā \"Grozījumi Pacientu tiesību likumā\" (Nr. 346/Lp14) (turpmāk – Likumprojekts) un pievērst uzmanību atsevišķiem plānotajiem grozījumiem, ņemot vērā par tiem paustos iebildumus un izteiktos priekšlikumos.</p>"
+            },
+            {
+                "Tips": "Raksts",
+                "Datums": "2024-02-06",
+                "Autori": [
+                    {
+                        "Vārds": "LL.D. medicīnas tiesībās Santa Slokenberga",
+                        "Detaļas": "Vecākā lektore administratīvajās tiesībās Upsalas Universitātē Zviedrijā"
+                    }
+                ],
+                "Saturs": "<p>Pašreiz Saeimā notiek darbs pie likumprojekta \"Grozījumi Pacientu tiesību likumā\", un grozījumi tiecas precizēt esošās normas un papildināt likumu ar jaunām normām, nosakot jaunas tiesības un pienākumus, kā arī izveidojot mehānismu, lai nodrošinātu pacientu tiesību ievērošanu. Likumprojekta iesniedzējs ir Ministru kabinets atbilstoši Saeimas kārtības ruļļa 79. panta pirmās daļas 2. punktam, bet tā izstrādātāja – Veselības ministrija.<sup><a name=\"txt_1\" href=\"#ats_1\">1</a></sup></p><p>Saturiski daļa priekšlikumu sakņojas ar veselības ministra 2022. gada 31. janvāra rīkojumu Nr. 15 \"Par darba grupas izveidi pacientu tiesību ievērošanas pilnveidošanai\" izveidotās darba grupas rezultātos, par ko \"Jurista Vārdā\" jau rakstīts iepriekš.<sup><a name=\"txt_2\" href=\"#ats_2\">2</a></sup> Tomēr ar Likumprojektu piedāvātās redakcijas ir Veselības ministrijas precizējums jeb veselības nozares politikas plānotāja vīzija par pacientu tiesību regulējumu. Līdzās šiem grozījumiem, kas zināmā mērā tiecas iedzīvināt darba grupas priekšlikumus, Likumprojekts satur arī citus pacientu tiesību grozījumus.</p><p>Par šo Likumprojektu uz otro lasījumu vairāki veselības nozares dalībnieki ir nosūtījuši vēstules Saeimai, konkrētāk – Sociālo un darba lietu komisijai, kura ir atbildīga par Likumprojekta virzību. Šīs vēstules satur gan iebildumus par rosinātajiem grozījumiem, gan arī priekšlikumus citādām normu redakcijām. Šī raksta mērķis ir sniegt ieskatu Likumprojektā un norādīt uz problēmām atsevišķos plānotajos grozījumos, ņemot vērā paustos iebildumus un izteiktos priekšlikumus.</p><p> </p><p id=\"s_1\" class=\"JV_sub saturs\"><b>1. Ieskats Likumprojektā</b></p><p>Saturiski Saeimai iesniegtais Likumprojekts rosina šādas izmaiņas. Pirmkārt, precizēt ārstējošā ārsta termina skaidrojumu un papildināt likuma terminu uzskaitījumu ar veselības aprūpes pakalpojumu sniedzēja skaidrojumu. Otrkārt, papildināt vispārīgos noteikumus, nosakot priekšnoteikumus, lai notiktu sistēmisks un sistemātisks darbs ar pacientu tiesībām ikvienā ārstniecības iestādē. Treškārt, precizēt tiesību uz informāciju saturu un pienākumus to sakarā. Ceturtkārt, stiprināt pacienta tiesības ārstniecībā gan situācijās, kad iespējama vairāku veidu ārstniecība vai izvēle ir ierobežota, gan arī nosakot pacienta gribai skaidru lomu pacienta ārstniecības stratēģijas izstrādē, gan arī precizēt citu personu klātbūtnes iespējas ārstniecības laikā. Piektkārt, pārskatīt informētās piekrišanas regulējumu un citu personu tiesības lemt par pacienta ārstniecību gadījumos, kad pats pacients nespēj to darīt. Sestkārt, precizēt pacienta tiesības izvēlēties ārstu un ārstniecības iestādi. Septītkārt, pacientu datu aizsardzības panta nosaukumu mainīt atbilstoši tā jēgai – pacienta datu apstrādei – un izdarīt atsevišķus papildinājumus attiecībā uz pacientu datu apstrādi.</p><p>Tāpat arī rosināts pārskatīt un papildināt nepilngadīga pacienta tiesību saturu, kā arī precizēt pacienta pienākumu loku attiecībā uz norēķiniem par veselības aprūpes pakalpojumiem. Papildus visam šim likumdošanas procesa gaitā veselības ministrs Hosams Abu Meri rosinājis arī pienākumu savlaicīgi atteikt plānoto vizīti. Visbeidzot, paredzēts papildināt arī pacienta tiesību un likumisko interešu aizstāvēšanas kārtību, nosakot pienākumu konfliktsituāciju risināt nekavējoties, vēršoties ārstniecības iestādē vai par pacientu tiesību ievērošanu atbildīgajās institūcijās. Deputāte Mairita Lūse lūgusi to precizēt, ka tas gan būtu darāms nevis nekavējoties, bet pēc iespējas ātrāk.</p><p> </p><p id=\"s_2\" class=\"JV_sub saturs\"><b>2. Atsevišķi grozījumi tuvplānā</b></p><p><b>2.1. Tiesības uz ārstniecību</b></p><p><b><i>Spēkā esošais regulējums un Likumprojekts</i></b></p><p>Pašreiz Pacientu tiesību likuma (turpmāk – PTL) 5. panta sestā daļa noteic: \"Ja ārstniecības iespējas ir ierobežotas vai pieļaujama vairāku veidu ārstniecība, pacientam ir tiesības uz ārsta profesionāli izdarītu izvēli, kuras pamatā ir uz pierādījumiem balstīti medicīniskie kritēriji.\"</p><p>Vispārīgi pacientam ir tiesības uz veselības stāvoklim atbilstošu, kvalitatīvu un kvalificētu ārstniecību, un tās ir nostiprinātas PTL 5. panta pirmajā un otrajā daļā. Šo tiesību būtisks aspekts ir ārstniecības kvalitātes standarts, kas noteikts Ārstniecības likuma 9.<sup>1</sup> panta pirmajā daļā.</p>"
+            }
+        ],
+        "Abonaments": true
+    },
+    {
+        "URL": "https://juristavards.lv/doc/282785-evdt-regulas-priekslikums-un-datu-otrreizejas-izmantosanas-likumprojekts/",
+        "Tēma": "Pacientu tiesības",
+        "Nosaukums": "EVDT regulas priekšlikums un Datu otrreizējās izmantošanas likumprojekts",
+        "Saturi": [
+            {
+                "Tips": "Anotācija",
+                "Datums": "",
+                "Autori": [],
+                "Saturs": null
+            },
+            {
+                "Tips": "Raksts",
+                "Datums": "2023-02-14",
+                "Autori": [
+                    {
+                        "Vārds": "LL.D. Santa Slokenberga",
+                        "Detaļas": "Vecākā lektore administratīvajās tiesībās Upsalas universitātē Zviedrijā"
+                    }
+                ],
+                "Saturs": "<p>Veselības dati ir platforma, kur mūsdienās dažādas tiesības un intereses nonāk krustcelēs. No vienas puses, tās ir paša pacienta intereses un tiesības uz privātuma un viņa datu aizsardzību. No otras puses, tā ir citu interese šiem datiem piekļūt un tos izmantot sabiedrības interešu īstenošanai un veicināšanai vai individuāliem mērķiem. Izsenis tie ir bijuši tādi nolūki kā veselības aprūpes sistēmas funkcionēšanas nodrošināšana, piemēram, lai veiktu pakalpojumu apmaksu, tāpat arī veselības aprūpes kvalitātes izvērtēšana un pilnveidošana. Attīstoties zinātnei un tehnoloģijām, un jo īpaši digitalizācijas sniegtajām iespējām un potenciālam ne tikai medicīnā, bet arī citās nozarēs, paplašinās ne tikai iespējas izmantot veselības datus, bet arī interesentu loks, kas datus vēlētos iegūt.</p><p>Tiesiskais regulējums datu ieguvei vienlaikus ir gana strikts un gana vājš. Tā, piemēram, Pacientu tiesību likuma (turpmāk – PTL) 10. pants regulē pacienta datu aizsardzību attiecībā uz veselības aprūpes pakalpojumu sniedzējiem. Izpaušana pieļaujama uz likuma pamata – šā paša 10. panta vai saskaņā ar citu normu – vai ar datu subjekta piekrišanu. PTL 10. pants, lai gan apjomīgs, noteic relatīvi šauru subjektu loku, kas pacienta datus no veselības aprūpes pakalpojumu sniedzēja ir tiesīgi saņemt. Ārpus PTL normu, kas dotu piekļuvi veselības datiem, nav daudz. Tie dati ir klasificējami kā īpašas kategorijas dati; uz tiem attiecas ne vien Vispārīgās datu aizsardzības regulas (turpmāk – VDAR) 6.1. pants – prasība par datu apstrādes likumīgumu, bet arī VDAR 9.1. un 9.2. pants jeb vispārējs aizliegums datus apstrādāt, izņemot, ja izpildās kāds no norādītajiem tiesiskajiem pamatiem, kas apstrādes aizliegumu atceļ. Izņemot gadījumus, kad veselības datu apstrāde notiek ar datu subjekta piekrišanu, un citus retus un šaurus tieši piemērojamus izņēmumus, ko 9.2. pants pieļauj, ir nepieciešams skaidrs tiesiskais pamats nacionālajos vai Eiropas Savienības (turpmāk – ES) tiesību aktos.</p><p>Pašreiz ES līmenī notiek nozares tiesiskā regulējuma attīstība. Eiropas veselības datu telpas (turpmāk – EVDT) regulas priekšlikuma<sup><a name=\"txt_1\" href=\"#ats_1\">1</a></sup> 4. nodaļa ir paredzēta šim konkrētajam nolūkam – apmierināt interesentu vajadzību pēc veselības datiem, regulējot elektronisko veselības datu sekundāru izmantošanu. Paralēli darbam pie tiesiskā regulējuma attīstības ES līmenī arī Latvijā tiek strādāts, lai dažādus datus, to vidū veselības datus, kas iegūti ārstniecības sakarā, izmantotu turpmākai apstrādei. 2022. gada 19. oktobrī Saeimā tika iesniegts likumprojekts \"Datu otrreizējās izmantošanas likums\" (turpmāk – Likumprojekts), un pašreiz tas atrodas otrajā lasījumā.<sup><a name=\"txt_2\" href=\"#ats_2\">2</a></sup></p><p>EVDT regulas priekšlikuma 4. nodaļa ir īsa, bet saturiski apjomīga; tāpat arī Likumprojekts, kaut arī sastāv tikai no 15 pantiem, tas ir gana komplicēts, lai detalizēti ar tiem iepazīstinātu šī raksta ietvaros. Ne tikai katrs no šiem rosinātajiem tiesību aktiem pats par sevi attiecīgajā jomā rada būtiskus jautājumus un neskaidrības, bet arī rodas jautājumi par to eventuālu līdzāspastāvēšanu un nacionālā tiesību akta salāgošanu ar EVDT regulu brīdī, kad tā būs spēkā stājies tiesību avots.</p>"
+            }
+        ],
+        "Abonaments": true
+    },
+    {
+        "URL": "https://juristavards.lv/doc/282784-pacientu-datu-izmantosana-zinatniskaja-petnieciba/",
+        "Tēma": "Pacientu tiesības",
+        "Nosaukums": "Pacientu datu izmantošana zinātniskajā pētniecībā",
+        "Saturi": [
+            {
+                "Tips": "Anotācija",
+                "Datums": "",
+                "Autori": [],
+                "Saturs": "<p>Raksta mērķis ir analizēt normatīvo regulējumu pacientu datu izmantošanai zinātniskos pētījumos Latvijā, identificēt trūkumus un piedāvāt iespējamos risinājumus tāda normatīvā regulējuma nodrošināšanai, kas līdzsvarotu datu subjektu tiesības un sabiedrības intereses.</p>"
+            },
+            {
+                "Tips": "Raksts",
+                "Datums": "2023-02-14",
+                "Autori": [
+                    {
+                        "Vārds": "Dr. sc. soc. Signe Mežinska",
+                        "Detaļas": "Latvijas Universitātes Medicīnas fakultātes asociētā profesore"
+                    }
+                ],
+                "Saturs": "<p>Zinātnieku piekļuve pacientu datiem ir būtisks priekšnoteikums pētījumu veikšanai biomedicīnas jomā. Pacientu dati – veselības un ģenētiskie dati, kā arī cita informācija par personas veselību un dzīvesveidu – ir vērtīgs materiāls zinātniskajai izpētei. Pētījumiem, kas balstīti uz pacientu datu izpēti, ir sena vēsture, un tie sniedz nozīmīgas, uz pierādījumiem balstītas zināšanas par slimību cēloņiem, to ārstēšanu un profilaksi, tādējādi uzlabojot veselības aprūpi. Pētījumos tiek analizēti gan primāri pētījumu mērķiem iegūti dati, gan sekundāri izmantoti dati, kuri ir iegūti pacientu ārstniecības procesā. Zinātniekiem svarīga ir arī iespēja veikt pārrobežu datu apmaiņu, kas nepieciešama starptautisku pētniecības projektu īstenošanai. Dažādu valstu pacientu datu kopīga analīze palīdz nodrošināt datu daudzveidību un pietiekama pētījuma dalībnieku skaita iekļaušanu, piemēram, reto slimību pētījumos.</p><p>Šādai datu apmaiņai Eiropā ir nepieciešams pēc iespējas harmonizēt Eiropas Savienības (turpmāk – ES) dalībvalstu normatīvo regulējumu, nosakot kopīgus standartus un praksi pārrobežu datu apmaiņai, kā arī nodrošinot datu aizsardzības prasībām atbilstošu infrastruktūru un pārvaldības sistēmu. Atšķirīgs normatīvais regulējums ES dalībvalstīs apgrūtina pacientu datu iekļaušanu starptautiskos zinātnei un sabiedrībai nozīmīgos pētījumos. To, piemēram, parāda izaicinājumi Eiropas 1+ miljons genomu iniciatīvas īstenošanas procesā.<sup><a name=\"txt_1\" href=\"#ats_1\">1</a></sup> Šīs iniciatīvas mērķis ir nodrošināt drošu piekļuvi lielam apjomam pacientu ģenētisko un klīnisko datu visā Eiropā, lai uzlabotu pētniecību, personalizētu veselības aprūpi un veselības politikas veidošanu. Tomēr, projektu uzsākot, tika identificētas problēmas, kas apgrūtina projekta mērķa sasniegšanu, jo atšķirīgā regulējuma dēļ ES dalībvalstīs ir sarežģīti izveidot vienotus minimālos standartus pacientu datu iekļaušanai šādā vērienīgā projektā.</p><p>Regulējot pacientu datu izmantošanu zinātniskos pētījumos, dalībvalstu pienākums ir līdzsvarot sabiedrības intereses iegūt jaunas zināšanas ar pacientu un pētījumu dalībnieku tiesību aizsardzību. Eiropas Padomes Konvencijas par cilvēktiesību un cieņas aizsardzību bioloģijā un medicīnā (Ovjedo konvencija, zināma arī kā Biomedicīnas konvencija), kas ir nozīmīgākais juridiski saistošais instruments pacientu tiesību jomā Eiropā, 2. pants nosaka, ka \"pirmajā vietā vienmēr jābūt indivīda interesēm un labklājībai, nevis vienīgi sabiedrības vai zinātnes interesēm\".<sup><a name=\"txt_2\" href=\"#ats_2\">2</a></sup> Konvencijas pusēm ir pienākums nodrošināt tajā nostiprināto tiesību efektīvu aizsardzību. Arī Pasaules Medicīnas asociācijas Helsinku deklarācija,<sup><a name=\"txt_3\" href=\"#ats_3\">3</a></sup> kas nosaka ētikas principus medicīnas pētījumiem ar cilvēku iesaisti, un Taipejas deklarācija,<sup><a name=\"txt_4\" href=\"#ats_4\">4</a></sup> kas nosaka ētiskos principus veselības datubāzēm un biobankām, uzsver individuālu pētījuma dalībnieku un datu subjektu tiesību prioritāti pār zinātnes interesēm un nepieciešamību aizsargāt personu cieņu, autonomiju, privātumu un konfidencialitāti.</p>"
+            }
+        ],
+        "Abonaments": true
+    },
+    {
+        "URL": "https://juristavards.lv/doc/282780-berna-veselibas-dati-un-to-apstrade/",
+        "Tēma": "Pacientu tiesības",
+        "Nosaukums": "Bērna veselības dati un to apstrāde",
+        "Saturi": [
+            {
+                "Tips": "Anotācija",
+                "Datums": "",
+                "Autori": [],
+                "Saturs": "<p>Rakstā tiek apskatītas atsevišķas bērna kā datu subjekta tiesības veselības datu apstrādē, īpašu uzmanību veltot bērna un vecāku tiesību un pienākumu mijiedarbībai jautājumos, kas skar bērna datu aizsardzību veselības aprūpē, un iespējamos izaicinājumus e-vidē.</p>"
+            },
+            {
+                "Tips": "Raksts",
+                "Datums": "2023-02-14",
+                "Autori": [
+                    {
+                        "Vārds": "Mg. iur. Olga Šķerberga",
+                        "Detaļas": "Olaines novada bāriņtiesas locekle"
+                    }
+                ],
+                "Saturs": "<p>Dati par bērnu,<sup><a name=\"txt_1\" href=\"#ats_1\">1</a></sup> viņa attīstību un veselību tiek iegūti un apstrādāti vēl pirms bērna piedzimšanas, piemēram, ultrosonogrāfijas izmeklējumā, kad tiek novērtēta augļa attīstība grūtniecības laikā. Arī pēc piedzimšanas, saņemot veselības aprūpes pakalpojumus, bērna veselības datu iegūšana un apstrāde turpinās. Līdz ar noteikta vecuma un brieduma sasniegšanu un tiesību iegūšanu lemt par savu ārstniecību aktualizējas jautājums par bērna datu privā­tumu, tā robežām un vecāku tiesību un pienākumu apjomu piekļūt bērna veselības datiem.</p><p>Digitālo tehnoloģiju rīku izmantošana datu apstrādē var sniegt ne tikai ievērojamas iespējas veselības pakalpojumu pieejamībā, bet arī vienlaikus radīt izaicinājumus nepilngadīga pacienta tiesību īstenošanā attiecībā uz datu aizsardzību. Veselības datu apstrāde, tostarp e-vidē, ir veicama, līdzsvarojot bērna un vecāku tiesības un pienākumus atbilstoši bērna labākajām interesēm. Rakstā tiek apskatītas atsevišķas bērna kā datu subjekta tiesības veselības datu apstrādē, īpašu uzmanību veltot bērna un vecāku tiesību un pienākumu mijiedarbībai jautājumos, kas skar bērna datu aizsardzību veselības aprūpē, un iespējamos izaicinājumus e-vidē.</p><p> </p><p id=\"s_1\" class=\"JV_sub saturs\">Bērna veselības datu apstrādes tiesiskais ietvars</p><p>Veselības dati<sup><a name=\"txt_2\" href=\"#ats_2\">2</a></sup> ir īpaši aizsargājama datu kategorija. To apstrāde ir pieļaujama, ja pastāv vismaz viens no Vispārīgās datu aizsardzības regulas (turpmāk – VDAR) 6. panta 1. punktā un 9. panta 2. punktā noteiktajiem pamatiem. VDAR uzsvērts, ka personas datiem, kas pēc savas būtības ir īpaši sensitīvi,<sup><a name=\"txt_3\" href=\"#ats_3\">3</a></sup> saistībā ar pamattiesībām un brīvībām pienākas īpaša aizsardzība. Darbības ar datiem ārstniecībā skar tādas pamattiesības kā tiesības uz veselību un tiesības uz privātās dzīves neaizskaramību, un šo darbību sekas var radīt risku bērna cilvēktiesību aizskārumam, piemēram, nepamatota datu ierobežošana vai nekorekta apstrāde var kavēt vai apgrūtināt ārstniecības pakalpojuma saņemšanu bērnam citā valstī vai datu izpaušana trešajām personām var negatīvi ietekmēt bērna privāto dzīvi. Vienlaikus tiesības uz datu aizsardzību nav absolūta prerogatīva. Tās ir jāņem vērā saistībā ar to funkciju sabiedrībā un jālīdzsvaro ar citām pamattiesībām saskaņā ar proporcionalitātes principu.<sup><a name=\"txt_4\" href=\"#ats_4\">4</a></sup> </p><p>Attiecībā uz bērna datu apstrādi VDAR noteic dalībvalstīm piemērot īpašu aizsardzību.<sup><a name=\"txt_5\" href=\"#ats_5\">5</a></sup> Latvijā šādu īpašu aizsardzību attiecībā uz bērna datu privātuma un konfidencialitātes ievērošanu noteic Bērnu tiesību aizsardzības likuma 71. pants. Savukārt konkrēti nepilngadīga pacienta datu aizsardzības nosacījumi ietverti Pacientu tiesību likuma (turpmāk – PTL) 10.</p>"
+            }
+        ],
+        "Abonaments": true
+    },
+    {
+        "URL": "https://juristavards.lv/doc/282779-pacienta-tiesibas-savu-datu-izmantosana/",
+        "Tēma": "Pacientu tiesības",
+        "Nosaukums": "Pacienta tiesības savu datu izmantošanā",
+        "Saturi": [
+            {
+                "Tips": "Anotācija",
+                "Datums": "",
+                "Autori": [],
+                "Saturs": "<p>Šis raksts sniedz ieskatu pacienta tiesībās savu datu izmantošanā un ieskicē atsevišķus problēmjautājumus to īstenošanā, kā arī iepazīstina ar regulas par Eiropas veselības datu telpu priekšlikumā ietvertajām tiesībām pacienta datu aizsardzības stiprināšanā.</p>"
+            },
+            {
+                "Tips": "Raksts",
+                "Datums": "2023-02-14",
+                "Autori": [
+                    {
+                        "Vārds": "MD, Dr. iur. Solvita Olsena",
+                        "Detaļas": "Latvijas Universitātes Medicīnas fakultātes asociētā profesore, vadošā pētniece, zvērināta advokāte"
+                    }
+                ],
+                "Saturs": "<p>Cilvēka cieņa, brīvība, pašnoteikšanās un tiesības uz indivīda privātās dzīves aizsardzību ir cilvēka pamattiesības. Veselības aprūpē tās aizsargā pacientu tiesību nomas. Pacientu tiesības nosaka dažādu personu – pacientu, ārstniecības iestāžu, valsts iestāžu un citu – tiesības un pienākumus, arī pacienta datu aizsardzībai un izmantošanai.</p><p>Pacienta tiesības brīvi pieņemt lēmumus par dažādiem veselības aprūpes jautājumiem, arī lemt par savu datu izmantošanu, ir noteiktas Biomedicīnas konvencijā, Pacientu tiesību likumā (turpmāk – PTL) un citās normās. Pacienta kā datu subjekta tiesības savu datu izmantošanā ir nostiprinātas Vispārīgajā datu aizsardzības regulā (turpmāk – VDAR).</p><p>Cilvēka veselības dati ir īpaša personas datu grupa. Šiem datiem ir ievērojams apjoms un liela cilvēciskā, sabiedriskā un ekonomiskā vērtība. Pēdējās desmitgadēs ir notikusi strauja pāreja no papīra formā glabātiem datiem uz elektroniskiem veselības datiem gan individuālas ārstēšanas nodrošināšanai, gan daudzu citu veselības aprūpes mērķu īstenošanai. Nākotnē elektronisko pacientu datu aprite un izmantošana tikai pieaugs. 2022. gada maijā publicēts regulas par Eiropas veselības datu telpu (turpmāk – EVDT regula) priekšlikums.<sup><a name=\"txt_1\" href=\"#ats_1\">1</a></sup> Tās mērķis ir dot pacientiem lielāku kontroli pār saviem elektroniskajiem pacienta datiem un plašākas piekļuves iespējas.<sup><a name=\"txt_2\" href=\"#ats_2\">2</a></sup> Regula precīzāk noteiks veselības datu aizsardzības un izmantošanas prasības, pacienta tiesības un citu personu pienākumus veselības datu izmantošanai, kā arī regulēs otrreizēju veselības datu izmantošanu noteiktiem mērķiem.</p><p> </p><p id=\"s_1\" class=\"JV_sub saturs\">Tiesības zināt, kādi dati tiek vākti un kā dati tiek apstrādāti</p><p>Pacienta tiesības savu datu izmantošanā ir iespējams īstenot tikai tad, ja pacients ir informēts par datu apstrādi, zina savas tiesības un to īstenošanas mehānismus. PTL 9. panta otrās daļas norma paredz pacienta tiesības saņemt informāciju par viņa medicīniskajos dokumentos iekļautās informācijas izmantošanu saskaņā ar šajā likumā un VDAR 15. pantā noteikto.</p><p>Lai pacienta informētību un zināšanas nodrošinātu, ārstniecības iestādei kā datu pārzinim ir pienākums kodolīgā, pārredzamā, saprotamā un viegli pieejamā veidā sniegt pacientiem informāciju par pacientu datu apstrādi ārstniecības iestādē (VDAR 12.1. pants). Ārstniecības iestādei jānodrošina pacientam tiesības saņemt informāciju par apstrādes nolūkiem, par apstrādājamo personas datu kategorijām, par datu saņēmējiem vai saņēmēju kategorijām, ja personas dati ir izpausti vai tie tiks izpausti.</p>"
+            }
+        ],
+        "Abonaments": true
+    },
+    {
+        "URL": "https://juristavards.lv/doc/282626-informeta-piekrisana-aktualie-tiesibu-jautajumi/",
+        "Tēma": "Pacientu tiesības",
+        "Nosaukums": "Informētā piekrišana: aktuālie tiesību jautājumi",
+        "Saturi": [
+            {
+                "Tips": "Anotācija",
+                "Datums": "",
+                "Autori": [],
+                "Saturs": null
+            },
+            {
+                "Tips": "Raksts",
+                "Datums": "2023-01-17",
+                "Autori": [
+                    {
+                        "Vārds": "Dr. iur. Aldis Lieljuksis",
+                        "Detaļas": "Rīgas Stradiņa universitātes Juridiskās fakultātes asociētais profesors"
+                    }
+                ],
+                "Saturs": "<p id=\"s_1\" class=\"JV_sub saturs\"><b>Ievads</b></p><p>Šajā rakstā tiek apskatīti tiesiskie jautājumi saistībā ar pacienta informēto piekrišanu. Juridiskas dabas jautājumi saistībā ar pacienta informēto piekrišanu Latvijā kļūst arvien aktuālāki, par to liecina Senāta nolēmumi, kā arī nesen izdotā grāmata \"Patient Autonomy and Criminal Law\", kurā divdesmit Eiropas valstu autori analizē jautājumu par pacienta tiesību aizsardzību cilvēka autonomijas aspektā krimināltiesībās, nobeigumā rosinot paredzēt krimināltiesībās speciālo normu par ārstniecību bez informētās piekrišanas.</p><p>Atbilstoši Pacientu tiesību likuma 6. panta pirmajai daļai ārstniecība ir pieļaujama, ja pacients devis tai informēto piekrišanu. Citiem vārdiem, informētā piekrišana ir priekšnoteikums tam, lai uzsāktu ārstniecību. Informētā piekrišana ir līdzeklis, ar kuru tiek īstenota pacienta autonomija un pašnoteikšanās veselības aprūpē.<sup><a name=\"txt_1\" href=\"#ats_1\">1</a></sup> Personas autonomijas aizsardzība paredzēta starptautiskos tiesību aktos,<sup><a name=\"txt_2\" href=\"#ats_2\">2</a></sup> kā arī Satversmes 96. pantā noteikts, ka ikvienam ir tiesības uz privātās dzīves, mājokļa un korespondences neaizskaramību. Satversmes tiesa spriedumā norāda, ka \"tiesības uz privāto dzīvi ietver visdažādāko indivīda tiesību aspektus. Tās aizsargā indivīda fizisko un garīgo integritāti, godu un cieņu, vārda un identitātes izmantošanu, personas datus un skar citus ar privāto dzīvi saistītus aspektus\".<sup><a name=\"txt_3\" href=\"#ats_3\">3</a></sup> Atkarībā no faktiskiem un juridiskiem apstākļiem tiesvedības saistībā ar informēto piekrišanu risināmas civiltiesiskā, administratīvā procesa vai krimināltiesiskā kārtībā.</p><p> </p><p id=\"s_2\" class=\"JV_sub saturs\"><b>Vēsturisks ieskats pacientu tiesību aizsardzībā krimināltiesībās Latvijā</b></p><p>Pašreizējos apstākļos, kad informētā piekrišana galvenokārt saistās ar atsaucēm uz pēckara laikā pieņemtiem starptautiskiem tiesību aktiem, kā arī Latvijas Republikas Satversmes VIII nodaļas \"Cilvēka pamattiesības\" normām, Eiropas Cilvēktiesību tiesas nolēmumiem un Latvijas Republikas Augstākās tiesas Senāta spriedumiem, var rasties aplams priekšstats, ka prasība pēc pacienta informētās piekrišanas un atbildība par tās neesamību apstākļos, kad tādai jābūt, ir radusies mūsdienās un tikai tagad tiek attīstīta. Šādu priekšstatu par informētās piekrišanas kā indivīda autonomijas izpausmi un vienu no ētikas pamatprincipiem vienīgi mūsdienīgo izcelsmi kliedē kaut vai modernizētais, bet tomēr Hipokrata (ap 460.</p>"
+            }
+        ],
+        "Abonaments": true
+    },
+    {
+        "URL": "https://juristavards.lv/doc/282249-gramata-par-pacienta-tiesibu-aizsardzibu/",
+        "Tēma": "Pacientu tiesības",
+        "Nosaukums": "Grāmata par pacienta tiesību aizsardzību",
+        "Saturi": [
+            {
+                "Tips": "Anotācija",
+                "Datums": "",
+                "Autori": [],
+                "Saturs": null
+            },
+            {
+                "Tips": "Raksts",
+                "Datums": "2022-11-08",
+                "Autori": [
+                    {
+                        "Vārds": "Dr. iur. Aldis Lieljuksis",
+                        "Detaļas": "RSU Juridiskās fakultātes asociētais profesors, Grāmatas 10. nodaļas \"Patient autonomy and criminal law: A Latvian perspective\" autors"
+                    }
+                ],
+                "Saturs": "<table border=\"0\" width=\"10\" class=\"mk_table\" cellpadding=\"5\" align=\"left\">\r\n\t<tr>\r\n\t\t<td>\r\n\t\t<img border=\"0\" src=\"/wwwraksti//JV/2022/45/BILDES/GRAMATA_280.JPG\" width=\"280\" height=\"411\">\n</td>\r\n\t</tr>\r\n<p>Pacientu autonomija ir ne tikai filozofisks un ētisks jautājums, bet arī ārkārtīgi svarīgs juridisks jautājums. Satversmes 96. pantā paredzētās tiesības uz privātās dzīves neaizskaramību ietver tiesības uz personas autonomiju un brīvu izvēli, tāpēc ārstniecība bez informētas piekrišanas personām, kuru brīva izvēle nav ierobežota ar likumu, ir šo tiesību pārkāpums.</p>\n</table>"
+            }
+        ],
+        "Abonaments": true
+    },
+    {
+        "URL": "https://juristavards.lv/doc/281755-jaunas-eras-sakums-pacientu-tiesibu-aizsardziba/",
+        "Tēma": "Pacientu tiesības",
+        "Nosaukums": "Jaunas ēras sākums pacientu tiesību aizsardzībā",
+        "Saturi": [
+            {
+                "Tips": "Anotācija",
+                "Datums": "",
+                "Autori": [],
+                "Saturs": null
+            },
+            {
+                "Tips": "Raksts",
+                "Datums": "2022-08-09",
+                "Autori": [
+                    {
+                        "Vārds": "LL.D. Santa Slokenberga",
+                        "Detaļas": "Vecākā lektore administratīvajās tiesībās Upsalas universitātē"
+                    }
+                ],
+                "Saturs": "<p>Tikai retais nav dzirdējis par samilzušajiem veselības nozares izaicinājumiem. Kāds ar to ir saskāries personīgi. Garas rindas, lai saņemtu no valsts budžeta līdzekļiem apmaksātus plānveida veselības aprūpes pakalpojumus, vai arī nepieciešamība tos apmaksāt pašiem, jo valsts konkrētu pakalpojumu izmaksas nesedz.<sup><a name=\"txt_1\" href=\"#ats_1\">1</a></sup> Ne vienmēr laipna un cieņpilna pakalpojuma sniedzēja attieksme.<sup><a name=\"txt_2\" href=\"#ats_2\">2</a></sup> Ne vienmēr saņemta pietiekama informācija, kas ir pamats izpratnei par to, kādi veselības izaicinājumi pacientu piemeklējuši un kāda ir plānotā ārstniecība.<sup><a name=\"txt_3\" href=\"#ats_3\">3</a></sup> Ārstniecības process, kurā pacients pats līdzdarbojas, bet ne līdz galam saprot, kas tieši katrā brīdī tiek darīts, ar kādu mērķi, kādām metodēm, vai ir pieejamas alternatīvas, kas būtu labāk savienojamas ar pacienta individualitāti, kādi ir paredzamie riski un sekas.<sup><a name=\"txt_4\" href=\"#ats_4\">4</a></sup> Reizumis, kad kaut kas nav vedies gluži tā, kā paredzēts, tas atklājas daudz vēlāk, apmeklējot jau citu ārstu, kaut profesionālim tas jau bija acīmredzams uzreiz pēc manipulācijas.<sup><a name=\"txt_5\" href=\"#ats_5\">5</a></sup> Minētie piemēri ir daži no izaicinājumiem veselības aprūpē, ar ko mēdz saskarties pacienti. Tomēr tie vienlaikus ir tādi izaicinājumi, kas met ēnu uz to lielo daudzumu pozitīvo pieredžu, kam pamatā ir uzcītīgs un profesionāls ārstniecības personu darbs un iejūtība pret pacientu.</p><p>2019. gadā autoru kolektīvs nodeva lasītājiem grāmatu \"Pacientu tiesību likuma komentāri\". Grāmatas ievadā, uzrunājot lasītāju izdevuma zinātniskās redaktores lomā, nācās pretstatīt uzmeistaroto – un uz to brīdi jau deviņus gadus \"nēsāto\" – likumu Dūdara meistarībai, gatavojot švītīgu vesti Aleksim, un brīdināt par nepieņemamo situāciju.<sup><a name=\"txt_6\" href=\"#ats_6\">6</a></sup> Ambīcijas likumdevējam – līdzīgi kā Dūdaram vīzija par Alekša vesti – bija brangas.<sup><a name=\"txt_7\" href=\"#ats_7\">7</a></sup> Tiekšanās radīt mehānismu, lai efektīvi īstenotu un aizstāvētu pacienta tiesības un veicinātu labvēlīgas attiecības ārstniecībā,<sup><a name=\"txt_8\" href=\"#ats_8\">8</a></sup> ir uzteicama. Tomēr ar mērķa nospraušanu vien apstākļos, kad ne visas likuma normas un mehānismi ir veidoti tā, lai šo mērķi sasniegtu, nepietiek. Ir nepieciešams ne vien problemātiskās normas sakārtot, radot priekšnosacījumus tiesību aizskārumu ārstniecībā novēršanai, bet arī ieviest skaidrus pasākumus, lai pacientu tiesības iedzīvinātu praksē ikvienā ārstniecības situācijā, un to pamatoti var prasīt no tiesiskas valsts. Ne tikvien deklarēt tiesības, bet arī nodrošināt to praktisku īstenošanu.<sup><a name=\"txt_9\" href=\"#ats_9\">9</a></sup> Likumdevējam gan prasmīga skrodera meistarība iztrūka, un šie pamata, bet tik ļoti būtiskie, priekšnosacījumi jēgpilnai pacientu tiesību aizsardzībai netika izpildīti.</p><p>No brīdinājuma signāla par samilzušajām problēmām pacientu tiesību aizsardzībā līdz nozares lūzuma punktam pagāja nepilni trīs gadi. 2021. gada izskaņā pacientu tiesību nihilismu izgaismoja virkne spilgtu problēmsituāciju,<sup class=\"big\"><a name=\"txt_10\" href=\"#ats_10\">10</a></sup> attiecībā uz vismaz daļu no kurām, noprotams, pašreiz vēl noris kriminālprocess.<sup class=\"big\"><a name=\"txt_11\" href=\"#ats_11\">11</a></sup> Kamēr nevainīguma prezumpcija un profesionālās ētikas pamati liek atturēties no dziļām pārdomām par konkrēto situāciju, medicīnas tiesību juristam skaidrs ir viens – pacienta, kurš pats ir spējīgs lemt, ķermenis ir teju neaizskarams. Neviena medicīniska iejaukšanās nav pieļaujama, iekams no pacienta ir saņemta informētā piekrišana.<sup class=\"big\"><a name=\"txt_12\" href=\"#ats_12\">12</a></sup> Pirms informētās piekrišanas pacientam ir jāsaņem visaptveroša informācija gan par mērķi, gan arī par riskiem, sekām un izmantojamām metodēm. Jebkurai darbībai ārstniecībā ir jābūt pieņemamai pacientam. Tā ir daļa no tiesībām uz veselības aizsardzību,<sup class=\"big\"><a name=\"txt_13\" href=\"#ats_13\">13</a></sup> un vienlaikus tā ir arī daļa no pašnoteikšanās tiesībām pār savu ķermeni. Tādējādi jebkura darbība, kas veikta bez pacienta piekrišanas apstākļos, kad nav cita tiesiska pamata veikt ārstniecību, ir pacienta integritātes aizskārums. Tas ir nevis formāls tiesību normu – ārstniecību reglamentējošo normatīvo aktu – pārkāpums, bet cilvēka cieņas aizskārums. Tas ir klaji pretēji medicīnas tiesību un ētikas sūtībai<sup class=\"big\"><a name=\"txt_14\" href=\"#ats_14\">14</a></sup> un tam, ko pamatoti varētu sagaidīt no ārstniecības personām.</p><p>Nozares lūzuma punkts noveda pie ledus sakustēšanās. Ar mērķi stiprināt pacientu tiesību ievērošanu un uzraudzību, kā arī lai pilnveidotu nozares uzraudzības iestādes – Veselības inspekcijas – funkcijas attiecībā uz ārstniecības personām saistošo normatīvo aktu izpildi pacientu tiesību jomā, Veselības ministrija izveidoja darba grupu, kurai cita starpā noteikti šādi būtiskākie uzdevumi: izvērtēt gan pacientu tiesību un pienākumu regulējumu, gan arī ārstniecības personu profesionālo pienākumu regulējumu un administratīvās atbildības jautājumus, kā arī sniegt priekšlikumus regulējuma pilnveidošanai.<sup class=\"big\"><a name=\"txt_15\" href=\"#ats_15\">15</a></sup> Šādā sakarā darba grupai tika uzdots sniegt priekšlikumus efektīvai pacientu tiesību aizsardzības nodrošināšanai un ārstniecības personu pienākumu izpildei pacientu tiesību jomā, kā arī kārtības uzraudzībai, īpašu uzmanību pievēršot arī ētikas un komunikācijas pārkāpumiem. Tika apvienoti ierēdņi, ieinteresētās puses un pieaicināti eksperti Veselības inspekcijas Juridiskā departamenta vadītājas Lauras Šābertes vadībā. To vidū – Latvijas Ārstu biedrības, Latvijas Jauno ārstu asociācijas pārstāvji, Latvijas Pacientu organizāciju tīkla pārstāve, Veselības, Tieslietu ministrijas un Veselības inspekcijas pārstāvji.</p>"
+            }
+        ],
+        "Abonaments": true
+    },
+    {
+        "URL": "https://juristavards.lv/doc/281683-nepilngadigs-pacients-estetiskas-medicinas-krustugunis/",
+        "Tēma": "Pacientu tiesības",
+        "Nosaukums": "Nepilngadīgs pacients estētiskās medicīnas krustugunīs",
+        "Saturi": [
+            {
+                "Tips": "Anotācija",
+                "Datums": "",
+                "Autori": [],
+                "Saturs": "<p>Mūsdienu medicīnas sasniegumi vairs nav saistīti tikai ar slimību profilaksi, diagnostiku, ārstēšanu, rehabilitāciju vai pacientu aprūpi. Proti, nav sasaistīti ar slimību uzveikšanu un cilvēka fizisko labklājību. Medicīna ir izgājusi ārpus nepieciešamības robežām, un tās sniegtās iespējas ir saistītas ar tādām kategorijām kā estētika, kā dabas dotā ķermeņa pilnveidošana ar medicīniskām metodēm, kas risina cilvēka ārējā izskata problēmas, piemēram, sejas, ķermeņa nepilnības. Estētiskā medicīna ir tikpat pieejama un arī izmantojama kā, piemēram, neatliekamā medicīna.<sup><a href=\"#ats_1\" name=\"txt_1\">1</a></sup></p>"
+            },
+            {
+                "Tips": "Raksts",
+                "Datums": "2022-07-19",
+                "Autori": [
+                    {
+                        "Vārds": "Dr. iur. Inga Kudeikina",
+                        "Detaļas": "Rīgas Stradiņa universitātes Juridiskās fakultātes docente"
+                    },
+                    {
+                        "Vārds": "PhD Karina Palkova",
+                        "Detaļas": "Rīgas Stradiņa universitātes Juridiskās fakultātes docente"
+                    }
+                ],
+                "Saturs": "<p>Ir acīmredzams, ka attiecībā uz pilngadīgām personām nepastāv šaubas par estētiskās medicīnas izmantošanas iespējamību. Pilngadīga, rīcībspējīga persona ir tiesīga rīkoties ar savu ķermeni robežās, ko pieļauj tiesiskais regulējums. Kad pacients ir nepilngadīgs un vēlas pilnveidot savu ķermeni, izmantojot medicīnisku manipulāciju, atbilde nav tik viennozīmīga. Kādas ir bērna tiesības izmantot estētiskās medicīnas pakalpojumus? Raksta nosaukums nav izvēlēts nejauši. Bērns estētiskajā medicīnā tiešām atrodas krustugunīs, kad aplūkojami ne tikai tiesiska rakstura, bet arī ētiskas dabas jautājumi, kad bērna tiesības ietekmē viņa vecāku vai aizbildņu uzskati un materiālais stāvoklis, kad ārstam ir jāizvērtē ne tikai manipulācijas medicīniskās indikācijas, bet arī tās lietderīgums. Vienā rakstā nav iespējams aptvert visus jautājumus, kas skar nepilngadīgā pacienta tiesisko stāvokli estētiskajā medicīnā, raksta mērķis ir rosināt diskusiju un kā pirmās analizēt nepilngadīgas personas tiesības saņemt estētiskās medicīnas pakalpojumus kopsakarā ar estētiskās medicīnas saturu.</p>"
+            }
+        ],
+        "Abonaments": true
+    },
+    {
+        "URL": "https://juristavards.lv/doc/280898-bezjedzigais-mediciniska-rakstura-piespiedu-lidzeklis-starp-psihiatriju-un-klinisko-kriminologiju/",
+        "Tēma": "Pacientu tiesības",
+        "Nosaukums": "Bezjēdzīgais medicīniska rakstura piespiedu līdzeklis – starp psihiatriju un klīnisko kriminoloģiju",
+        "Saturi": [
+            {
+                "Tips": "Anotācija",
+                "Datums": "",
+                "Autori": [],
+                "Saturs": "<p>Raksta autori piedāvā atskatīties vēsturē un atrast zaudēto medicīniska rakstura piespiedu līdzekļu (turpmāk – MRPL) jēgu un būtību, kā arī, izmantojot gadījumu analīzes metodi, piedāvā risinājumus šiem problēmjautājumiem.<sup><a href=\"#ats_1\" name=\"txt_1\">1</a></sup></p>"
+            },
+            {
+                "Tips": "Raksts",
+                "Datums": "2022-03-15",
+                "Autori": [
+                    {
+                        "Vārds": "Marina Loseviča",
+                        "Detaļas": "Ārste psihiatre Rīgas Psihiatrijas un narkoloģijas centrā, Latvijas Universitātes Medicīnas fakultātes pētniece"
+                    },
+                    {
+                        "Vārds": "Aleksandrs Losevičs",
+                        "Detaļas": "Ārsts psihiatrs Rīgas Psihiatrijas un narkoloģijas centrā"
+                    }
+                ],
+                "Saturs": "<p id=\"s_1\" class=\"JV_sub saturs\"><b>Ievads</b></p><p><b>Piespiedu pasākumi pret psihiski slimajiem.</b> Garīgi atpalikušu un personu ar psihiskiem traucējumiem un saslimšanām tiesību un interešu aizsardzībai pastāv divi tiesību institūti: rīcībspēja un pieskaitāmība. Pirmā mērķis ir aizsargāt personas materiālās tiesības, bet otra – nepakļaut krimināltiesiskai vajāšanai un sodam bez vainas. No pieskaitāmības ir atvasinātas sabiedriskās bīstamības un piespiedu mēru koncepcijas.</p><p>Vēsturiski Rietumu valstu tiesībās, vērtējot personas pieskaitāmību, dominēja tāds kritērijs kā apsūdzētā/ekspertējamā spēja saprast savas rīcības prettiesisko raksturu nodarījuma izdarīšanas brīdī. Krievijas tiesību sistēmā pieskaitāmības pamatā bija personas gribas brīvība.</p><p>Sākot ar 19. gadsimtu, Latvijas teritorijā tiesiskais regulējums<sup><a name=\"txt_2\" href=\"#ats_2\">2</a></sup> paredzēja piespiedu mērus psihiski slimajiem, kuri nodarījuši nopietnus likuma pārkāpumus: medicīniskus (ja traucējumi ir izārstējami, persona jāievieto slimnīcā, nodrošinot uzraudzību) un izolācijas mērus (ja traucējumi stabili, personas jānodod drošās patversmēs vai drošā privātā uzraudzībā).<sup><a name=\"txt_3\" href=\"#ats_3\">3</a></sup> Respektīvi, piespiedu mēru juridiskais mērķis (sabiedrības drošība, atkārtota nodarījuma prevencija) jānodrošina neatkarīgi no to realizācijas vietas (slēgta tipa iestādē vai personai dzīvojot sabiedrībā).</p><p>Papildus tam Sodu likumu 39. pantā parādījās psihiski slimas/plānprātīgas personas sabiedriskās bīstamības netieša definīcija kā viens no piespiedu mēru piemērošanas kritērijiem – \"ja personas atstāšanu bez īpašas uzraudzības tiesa uzskata par bīstamu\".<sup><a name=\"txt_4\" href=\"#ats_4\">4</a></sup> Latvijas brīvvalsts pirmajā krimināllikumā bija noteikts, ka sabiedrības aizsardzības līdzekļus tiesa atceļ, ja pēc pārbaudīšanas atzīst, ka persona, pret kuru tie izlietoti, nav vairs bīstama.<sup><a name=\"txt_5\" href=\"#ats_5\">5</a></sup> Respektīvi, personas vajadzība pēc uzraudzības transformējās pašas personas īpašībā – bīstamībā.</p><p>Prof. N. Tagancevs norāda uz šādiem sodu veidiem: pamatsodi, papildsodi, sodu aizvietojošie mēri. Mūsu raksta ietvaros ir vērts pieminēt sodu aizvietojošus mērus, ko piemēroja gan vainīgajām personām, gan maziem bērniem – kā līdzekli, kas droši ved uz labošanos (ievietošanu pāraudzināšanas patversmēs vai klosteros). Ja tos piemēroja juridiskās atbildības vecumu nesasniegušajiem, šie mēri līdzinājās psihiski slimajiem piemērojamiem drošības mēriem. Nosakot to ilgumu, ieteicams ievērot samērīguma principu.<sup><a name=\"txt_6\" href=\"#ats_6\">6</a></sup></p><p><b>Izpratne par noziegumu kā par slimības izpausmi.</b> 19. gadsimta beigās parādījās vairākas teorijas, kas mēģināja izskaidrot noziedzību.</p>"
+            }
+        ],
+        "Abonaments": true
+    },
+    {
+        "URL": "https://juristavards.lv/doc/280897-nebrivpratiga-hospitalizacija-un-arstesana-no-psihiatra-skatpunkta/",
+        "Tēma": "Pacientu tiesības",
+        "Nosaukums": "Nebrīvprātīga hospitalizācija un ārstēšana – no psihiatra skatpunkta",
+        "Saturi": [
+            {
+                "Tips": "Anotācija",
+                "Datums": "",
+                "Autori": [],
+                "Saturs": "<p>Nebrīvprātīgi ārstējamo pacientu tiesību aizsardzība prasa sevišķu uzmanību un nepieciešamību balansēt pacientu tiesību ievērošanu ar sabiedrības drošības prasībām. Nozīmīgu virzību šo pacientu tiesību aizsardzības jomā un klīniskā praksē pieprasa Apvienoto Nāciju Organizācijas Konvencijas par personu ar invaliditāti tiesībām<sup><a href=\"#ats_1\" name=\"txt_1\">1</a></sup> normu izpilde. Konvencijas dalībvalstīm, kāda ir arī Latvija, ir pienākums grozīt pastāvošo tiesisko regulējumu un izveidot tādu klīnisko praksi, kas izpilda konvencijā noteiktās prasības pacientu aizsardzībai.</p>"
+            },
+            {
+                "Tips": "Raksts",
+                "Datums": "2022-03-15",
+                "Autori": [
+                    {
+                        "Vārds": "MD Karīna Konstantinova",
+                        "Detaļas": "Ārste psihiatre"
+                    }
+                ],
+                "Saturs": "<p id=\"s_1\" class=\"JV_sub saturs\"><b>Kritēriju daudzveidība un skaidru pierādījumu trūkums</b></p><p>Personu ar psihiskām slimībām aizsardzības principi<sup><a name=\"txt_2\" href=\"#ats_2\">2</a></sup> nosaka, ka nebrīvprātīgu hospitalizāciju var apsvērt, ja psihiskie traucējumi ir smagi un personas spriestspēja ir traucēta, un šo traucējumu neārstēšana var izraisīt nopietnu veselības stāvokļa pasliktināšanos, un ārstēšana ir iespējama tikai stacionārā. Šis princips parasti ietver vairāku faktoru esamību; pirmkārt, slimībai jābūt smagai (kas ir definīcijas jautājums); otrkārt, jāpierāda, ka pastāv spriestspējas pasliktināšanās (jautājums par lemtspēju); treškārt, ir jābūt pamatotām aizdomām, ka personas neārstēšana novedīs pie nopietnas stāvokļa pasliktināšanās.<sup><a name=\"txt_3\" href=\"#ats_3\">3</a></sup></p><p>Eiropas Psihiatru asociācijas komiteja norāda, ka nebrīvprātīgas hospitalizācijas prakse un rādītāji būtiski atšķiras starp Eiropas valstīm un dažkārt pat vienas valsts robežās.</p>"
+            }
+        ],
+        "Abonaments": true
+    },
+    {
+        "URL": "https://juristavards.lv/doc/280894-atbalsta-persona-lemumu-pienemsana-pakalpojuma-izveides-un-sniegsanas-pieredze-latvija/",
+        "Tēma": "Pacientu tiesības",
+        "Nosaukums": "Atbalsta persona lēmumu pieņemšanā: pakalpojuma izveides un sniegšanas pieredze Latvijā",
+        "Saturi": [
+            {
+                "Tips": "Anotācija",
+                "Datums": "",
+                "Autori": [],
+                "Saturs": "<p>Raksta mērķis ir sniegt ieskatu atbalsta personas lēmumu pieņemšanā pakalpojumā (turpmāk – APLP pakalpojums), kurš tika veidots saskaņā ar ANO Konvencijas par personu ar invaliditāti tiesībām (turpmāk – ANO Konvencija) 12. panta principiem. Pakalpojumu Latvijā pēdējo piecu gadu laikā ir izmantojuši jau vairāk nekā 400 cilvēki ar garīga rakstura traucējumiem.</p>"
+            },
+            {
+                "Tips": "Raksts",
+                "Datums": "2022-03-15",
+                "Autori": [
+                    {
+                        "Vārds": "Mg. phil. Ieva Leimane-Veldmeijere",
+                        "Detaļas": "Biedrības \"Resursu centrs cilvēkiem ar garīgiem traucējumiem \"ZELDA\"\" direktore"
+                    }
+                ],
+                "Saturs": "<p id=\"s_1\" class=\"JV_sub saturs\"><b>APLP pakalpojuma izveides priekšvēsture</b></p><p>APLP pakalpojuma izveides nepieciešamība izriet no Latvijas starptautiskajām saistībām attiecībā uz vienlīdzīgu tiesībspējas un rīcībspējas nodrošināšanu visām personām ar invaliditāti. Saskaņā ar ANO Konvenciju visiem cilvēkiem ar invaliditāti ir vienlīdzīgas tiesības uz pilnu rīcībspēju un tiesībspēju. Lai visi cilvēki neatkarīgi no invaliditātes smaguma pakāpes varētu šīs tiesības īstenot, valstij jāveic \"nepieciešamie pasākumi, lai personām ar invaliditāti nodrošinātu tā atbalsta pieejamību, kas tām varētu būt nepieciešams, īstenojot savu rīcībspēju\",<sup><a name=\"txt_1\" href=\"#ats_1\">1</a></sup> tai skaitā jānodrošina atbalsts lēmumu pieņemšanā.</p><p>Šobrīd ir pagājuši jau 12 gadi, kopš Latvija ir ratificējusi ANO Konvenciju – ir attīstījusies izpratne par ANO Konvencijā ietverto paradigmas maiņu attieksmē pret cilvēkiem ar invaliditāti. Daudzas valstis, aktīvi meklējot risinājumus 12. panta ieviešanai, ir reformējušas rīcībspējas institūta regulējumu, plāno to darīt vai arī ir īstenojušas pilotprojektus, lai testētu, kā rīcībspējas ierobežošanai alternatīvi mehānismi, piemēram, atbalstītā lēmumu pieņemšana, darbojas praksē.</p><p>Savukārt ANO Personu ar invaliditāti tiesību komiteja (turpmāk – ANO Komiteja) ir publicējusi Vispārējo komentāru Nr. 1 (2014), sniedzot padziļinātu 12. pantā ietverto principu skaidrojumu, turklāt nepārprotami uzsverot, ka \"dalībvalstu pienākums aizstāt aizvietotās lēmumu pieņemšanas sistēmu ietver gan aizvietotās lēmumu pieņemšanas sistēmas atcelšanu, gan atbalstītās lēmumu pieņemšanas alternatīvu izstrādi\".<sup><a name=\"txt_2\" href=\"#ats_2\">2</a></sup> Kā šīs alternatīvas rīcībspējas ierobežošanai izstrādāt un ieviest dzīvē, ir atstāts katras dalībvalsts ziņā, līdz ar to, iepazīstot citu valstu pieredzi, sastopami dažādi risinājumi. Vairākas valstis (piemēram, Čehija un Izraēla), reformējot līdzšinējo rīcībspējas un aizgādnības regulējumu, tomēr ir izvēlējušās saglabāt iespēju noteiktos gadījumos rīcībspēju ierobežot, bet līdztekus ieviešot arī alternatīvas, piemēram, atbalstīto lēmumu pieņemšanu, nākotnes pilnvarojumu, tiesas izdotu pilnvarojumu personas ar garīga rakstura traucējumiem pārstāvībai. Savukārt Peru, veicot reformu, pilnībā atteicās no rīcībspējas ierobežošanas, aizvietojot to ar alternatīviem mehānismiem.</p><p>Kopš 2013. gada Latvijā ir mainīta kārtība, kādā personai var ierobežot rīcībspēju. Kaut gan likumdevēja ieskatā rīcībspējas institūta reforma bija uzskatāma par pabeigtu līdz ar 2012.</p>"
+            }
+        ],
+        "Abonaments": true
+    },
+    {
+        "URL": "https://juristavards.lv/doc/280891-lemtspejas-un-ricibspejas-institutu-noskirsanas-nepieciesamiba-latvijas-tiesibas/",
+        "Tēma": "Pacientu tiesības",
+        "Nosaukums": "Lemtspējas un rīcībspējas institūtu nošķiršanas nepieciešamība Latvijas tiesībās",
+        "Saturi": [
+            {
+                "Tips": "Anotācija",
+                "Datums": "",
+                "Autori": [],
+                "Saturs": null
+            },
+            {
+                "Tips": "Raksts",
+                "Datums": "2022-03-15",
+                "Autori": [
+                    {
+                        "Vārds": "Mg. iur. Laura Kadile",
+                        "Detaļas": "Latvijas Universitātes Medicīnas fakultātes pētniece, pasniedzēja, Latvijas Universitātes Juridiskās fakultātes doktorante"
+                    }
+                ],
+                "Saturs": "<p id=\"s_1\" class=\"JV_sub saturs\"><b>Ievads</b></p><p>Civiltiesību kursos Latvijas augstskolu tiesību zinātnes studiju programmās tradicionāli tiek aplūkots rīcībspējas institūts, kas ietver sevī darījumspēju un deliktspēju. Tomēr augstskolu programmās netiek aplūkots lemtspējas institūts, kas <i>a priori</i>, vismaz tulkojot to gramatiski, ietver sevī zināmas nozīmīgas īpašības, kuras normālos apstākļos piemīt tiesību subjektam. Vai lemtspējas ir atšķirīgas tiesību subjektam piemītošas spējas? Vai tās jāņem vērā, sniedzot gribas izpaudumu noteiktu tiesisko seku iestāšanās nepieciešamībai? Un vai lemtspējas un rīcībspējas institūtiem ir kopīgas pazīmes, kas var tikt ņemtas vērā, tostarp noslēdzot tiesiskos darījumus un noskaidrojot to tiesiskās sekas, piemēram, gadījumos, kad speciālais tiesību subjekts – pacients – atrodas ārstniecības iestādē?</p><p>Šī raksta mērķis ir noskaidrot, vai lēmumu pieņemšana var tikt vērtēta tikai caur rīcībspējas institūtu kā tiesību subjektam piemītošo spēju prizmu un vai šādas spējas jāvērtē, ieviešot Latvijas tiesībās pilnībā jaunu koncepciju, proti, lemtspēju, kas saistīta ar personas spēju pieņemt lēmumu. Lai šo mērķi sasniegtu, nepieciešams aplūkot lemtspējas un rīcībspējas jēdzienu nozīmi un to regulējumu nacionālā un starptautiskā līmenī.</p><p> </p><p id=\"s_2\" class=\"JV_sub saturs\"><b>1. Lēmumu pieņemšanas spēju regulējums Civillikumā</b></p><p>Aplūkojot Civillikuma regulējumu, redzams, ka lemtspējas jēdziens Civillikumā nav tieši minēts. Tomēr, neskatoties uz to, ka Civillikuma regulējumā nav atrodami tādi termini kā \"lemtspēja\" un \"lemtspējas institūts\", atsevišķas tiesību normas Civillikumā regulē tiesiski nozīmīgas spējas, ar kādām jābūt apveltītiem tiesību subjektiem, lai tie patstāvīgi spētu noslēgt tiesiskos darījumus un piedalīties civiltiesiskajā apgrozībā.</p><p>Pirmkārt, šādas spējas ir minētas Civillikuma sadaļā \"Darījuma dalībnieki\". Civillikuma 1405. pants noteic, ka, \"lai darījumam būtu tiesīgs spēks, ir vajadzīgs, lai tā dalībniekiem būtu tiesībspēja un rīcībspēja šā darījuma taisīšanai; pretējā gadījumā darījums nav spēkā\".<sup><a name=\"txt_1\" href=\"#ats_1\">1</a></sup> Tātad Civillikuma 1405. pants noteiktas spējas saista kā priekšnoteikumu un obligātu sastāvdaļu kā tiesiska darījuma noslēgšanai, tā arī tiesiska darījuma spēkā esamībai. Civillikums paredz tiesību normas, kuras regulē vai kurās ir minēts tiesībspējas un rīcībspējas jēdziens kā priekšnoteikums šīs normas piemērošanai, attiecīgi Civillikuma 8., 358., 358.<sup>1</sup>, 364., 1408., 1409. pants. Atsevišķas tiesību normas ietvertas arī Civilprocesa likumā un citās tiesību normās. Autore var secināt, ka tiesiskais regulējums Latvijā paredz regulējumu noteiktu spēju vērtēšanai. Raksta turpinājumā autore sīkāk aplūkos rīcībspējas institūtu un tā saturu.</p><p> </p><p id=\"s_3\" class=\"JV_sub saturs\"><b>2. Rīcībspējas institūta regulējums</b></p><p><b>2.1. Vispārīgs apskats</b></p><p>Latvijas Republikas tiesību sistēmā tiesībspēja un rīcībspēja ir divi atšķirīgi tiesību institūti, kas tiek nodalīti. Tiesībspēja ir spēja būt par civilo tiesību nesēju (subjektu), kas fiziskai personai piemīt kopš dzimšanas brīža. Rīcībspēja ir uzskatāma par likumā noteiktu personu juridisku spēju patstāvīgi veikt tiesiskas juridiskas darbības un būt juridiski atbildīgam par tiesību pārkāpumu.</p>"
+            }
+        ],
+        "Abonaments": true
+    }
+]
