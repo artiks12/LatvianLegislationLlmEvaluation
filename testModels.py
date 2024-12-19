@@ -4,6 +4,7 @@ from os.path import isfile, join
 import json
 from pyquery import PyQuery as pq
 import ollama
+import re
 
 def WriteFile():
     pass
@@ -14,6 +15,7 @@ def ReadQuestionsFromFolder(path: str):
     # onlyfiles = [f for f in listdir(path) if isfile(join(path, f))]
     onlyfiles = ['dati_2024_11.json']
     questions = []
+    gold = []
 
     count = 0
     for file in onlyfiles:
@@ -21,28 +23,29 @@ def ReadQuestionsFromFolder(path: str):
         with open(fullPath, encoding='utf-8') as f:
             entries: list = json.load(f)
             count += len(entries)
-            temp = [pq(entry['Saturi'][0]['Saturs']).text().replace('\n',' ') for entry in entries]
+            temp = [re.sub(r'(\\n)+', ' ', pq(entry['Saturi'][0]['Saturs']).text()) for entry in entries]
             questions.extend(temp)
-    return questions
+            temp = [re.sub(r'(\\n)+', ' ', pq(entry['Saturi'][1]['Saturs']).text())  for entry in entries]
+            gold.extend(temp)
+    return questions, gold
 
 
-questions = ReadQuestionsFromFolder('lvportals')
+questions, gold = ReadQuestionsFromFolder('lvportals')
 
-# with open('test.txt', 'wt', encoding='utf-8') as f:
-#     f.write('\n'.join(questions))
-
-model = 'fl0id/teuken-7b-instruct-commercial-v0.4'
+model = 'llama3-chatqa'
 
 results = {
     'model': model,
+    'params': 8,
     'Qs&As':[]
 }
-for question in questions:
-    answer = ollama.generate(model=model, prompt=question)
+for i in range(len(questions)):
+    answer = ollama.generate(model=model, prompt=questions[i])
 
     results['Qs&As'].append({
-        'question': question,
-        'answer': answer.response
+        'question': questions[i],
+        'answer': answer.response,
+        'gold': gold[i]
     })
 
 with open('modelTests/' + f'results_{model}.json', 'wt', encoding='utf-8') as f:
