@@ -3,33 +3,35 @@ from os import listdir
 from os.path import isfile, join
 import json
 
-def GetInstructions(path: str, file):
-    if not os.path.exists(path):
-        os.makedirs(path)
-    model = ''
+lengths = []
 
-    fullPath = path + '/' + file
-    with open(fullPath, encoding='utf-8') as f:
-        data = json.load(f)
-    
-    model = data['model'] + ';' + str(data['params']) + 'b'
+def GetLabel(key,i):
+    if key == 'question': return 'Jautājums:'
+    return f'{i}. Atbilde:'
 
-    instructions = []
+instructions = []
 
-    for d in data['Qs&As']:
-        instruction = f'''Dots jautājums un divas atbildes. Cik juridiski pareizas ir sniegtās atbildes attiecībā uz Latvijas Republikas likumdošanu? Sniedz katrai atbildei vērtējumu no 0 līdz 100 un neko vairāk.
-Jautājums: {d['question']}
-1. atbilde: {d['gold']}
-2. atbilde: {d['answer']}
-\n'''
+with open('combined_responses.json', encoding='utf-8') as f:
+    data = json.load(f)
+
+for d in data:
+    instruction = f'Dots jautājums un vairākas atbildes. Cik juridiski pareizas ir sniegtās atbildes attiecībā uz Latvijas Republikas likumdošanu? Sniedz katrai atbildei vērtējumu no 0 līdz 100. Izdrukā tikai vērtējumus.\n'
+    i = 0
+    for type in data[d].keys():
+        if d == '0': print(type)
+        label = GetLabel(type, i)
+        text = data[d][type].replace('\n',' ').replace('\r',' ')
+        instruction += f'{label} {text}\n'
+        i += 1
+    instruction += '\n'
+    lengths.append(len(instruction))
+    if (len(instruction) < 24000):
         instructions.append(instruction)
-    
-    return model, instructions
 
-path = 'modelTests'
+instructions = sorted(instructions, key=len)
 
-onlyfiles = [f for f in listdir(path) if isfile(join(path, f))]
-for file in onlyfiles:
-    model, instructions = GetInstructions(path, file)
-    with open(f'chatGptInstructions/instructions_{model}.txt', 'wt', encoding='utf-8') as f:
-        f.writelines(instructions)
+with open(f'chatGptInstructions.txt', 'wt', encoding='utf-8') as f:
+    f.writelines(instructions)
+
+# print(sorted(lengths))
+# print(len(lengths),len(instructions))

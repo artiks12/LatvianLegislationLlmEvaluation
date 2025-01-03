@@ -1,5 +1,5 @@
 from rouge_metric import PyRouge
-from bert_score import BERTScorer
+from bert_score import BERTScorer, score
 import os
 from os import listdir
 from os.path import isfile, join
@@ -52,7 +52,7 @@ def GetROUGEforSeparateSentences(hyps, refs):
                 print(i, finalScores)
 
 
-path = 'modelTests'
+path = 'modelResponses'
 
 onlyfiles = [f for f in listdir(path) if isfile(join(path, f))]
 # onlyfiles = ['results_llama3.2.json']
@@ -63,20 +63,20 @@ bert = BERTScorer(lang='lv')
 for file in onlyfiles:
     hyps, refsROUGE, refsBERT, model = GetHypothesisAndReference(path, file)
     print(model)
-    # ROUGEscores = rouge.evaluate(hyps, refsROUGE)
-    # FixRougeScores(ROUGEscores)
-    # P_bert, R_bert, F1_bert = bert.score(hyps,refsBERT)
-    # result = {
-    #     'model': model,
-    #     'ROUGE': ROUGEscores,
-    #     'BERTScore': {
-    #         'p': round(P_bert.mean().item(),4),
-    #         'r': round(R_bert.mean().item(),4),
-    #         'f': round(F1_bert.mean().item(),4)
-    #     }
-    # }
-
-    # with open(f'scores/scores_{model}.json', 'wt', encoding='utf-8') as f:
-    #     json.dump(result, f, ensure_ascii=False, indent=4)
-    GetROUGEforSeparateSentences(hyps, refsROUGE)
+    ROUGEscores = rouge.evaluate(hyps, refsROUGE)
+    FixRougeScores(ROUGEscores)
+    P_bert, R_bert, F1_bert = score(hyps, refsBERT, lang='lv',verbose=True)
+    result = {
+        'model': model,
+        'ROUGE': ROUGEscores,
+        'BERTScore': {
+            'p': round(P_bert.mean().item(),4),
+            'r': round(R_bert.mean().item(),4),
+            'f': round(F1_bert.mean().item(),4)
+        }
+    }
+    model = model.replace(':','_').replace('/',';')
+    with open(f'scores/scores_{model}.json', 'wt', encoding='utf-8') as f:
+        json.dump(result, f, ensure_ascii=False, indent=4)
+    # GetROUGEforSeparateSentences(hyps, refsROUGE)
     

@@ -1,0 +1,1114 @@
+{
+    "model": "Gemini-2.0-Flash-Experimental",
+    "params": 0,
+    "Qs&As": [
+        {
+            "question": "Labdien! Agrāk ieturēja noteikus % no bruto summas, saglabājot pusi no minimālās algas. Tagad ietur noteiktos % no starpības starp neto summu un minimālo saglabājamo. Tātad, ja man nebūtu ieturējumu, tad no 740 eiro es saņemtu 507,64 eiro. Tagad no 507,64 eiro atņem obligāto neaiztiekamo 350 eiro, paliek 157,64 eiro, no šī aprēķina 30%, kā noteikts izpildrakstā, 47,29 eiro, un man uz rokas līdz ar to paliek 460,35 (507,64–47,29).\nSaņemot algas ieskaitījumu 460,35 eiro, man vēl papildus tika noņemti 110,35 eiro tiesu izpildītājam.\nVai tas tā var būt? Vai tas ir likumīgi?\nPaldies.",
+            "answer": "Nē, tas, visticamāk, nav likumīgi. Saskaņā ar Civilprocesa likuma 594. pantu, ieturējumi no darba samaksas notiek, ņemot vērā minimālo mēnešalgu (no 2024. gada 1. janvāra – 700 eiro) un apgādājamo skaitu. No summas, kas pārsniedz minimālo algu, ietur 30%. Ja jūsu neto alga ir 507,64 eiro, kas ir mazāk par minimālo algu, ieturējumiem nevajadzētu notikt vispār, izņemot atsevišķus gadījumus, kas noteikti likumā (piemēram, uzturlīdzekļi). Papildu 110,35 eiro ieturēšana ir pretrunā ar likumu. Jums nekavējoties jāsazinās ar tiesu izpildītāju un jāpieprasa paskaidrojums par ieturējumu pamatojumu un, ja nepieciešams, jāiesniedz sūdzība par tiesu izpildītāja darbībām."
+        },
+        {
+            "question": "Labdien!\nKā grozījumi regulējumā par parādu piedziņu no š. g. 1. oktobra attiecas uz nodokļu parāda piedziņu, ko veic VID patstāvīgi? Vai arī VID ir jārīkojas atbilstoši šajā regulējumā noteiktajam un jāsaglabā noteiktā ienākumu daļa (50% no minimālās algas un 60–70% no pārējiem ienākumiem)?",
+            "answer": "Jā, grozījumi regulējumā par parādu piedziņu, kas stājās spēkā no 2024. gada 1. oktobra, attiecas arī uz nodokļu parāda piedziņu, ko veic Valsts ieņēmumu dienests (VID) patstāvīgi. Tas nozīmē, ka VID, veicot ieturējumus no parādnieka darba algas vai tai pielīdzinātiem ienākumiem, ir jārīkojas atbilstoši Civilprocesa likuma 594. pantā noteiktajai jaunajai kārtībai.  Konkrētāk, VID ir jānodrošina, ka parādniekam tiek saglabāta noteikta ienākumu daļa, no kuras ieturējumus neveic. Šī summa ir 50% no minimālās mēnešalgas (no 2024. gada 1. janvāra – 700 eiro), kā arī papildus 15% no minimālās mēnešalgas par katru apgādībā esošu nepilngadīgo bērnu. No summas, kas pārsniedz šo minimālo ienākumu līmeni, ieturējumi var tikt veikti, ievērojot likumā noteiktos ierobežojumus (parasti 30% no summas, kas pārsniedz minimālo algu).  Tātad, atbilde ir apstiprinoša: VID ir jāievēro šajā regulējumā noteiktie ierobežojumi un jānodrošina parādniekam minimālo ienākumu saglabāšana arī tad, ja tas veic nodokļu parāda piedziņu patstāvīgi. Šī prasība izriet no Civilprocesa likuma, kas ir saistošs visām valsts iestādēm, tai skaitā VID."
+        },
+        {
+            "question": "Vai pēc 2024. gada 1. oktobra tiesu izpildītāji atbloķēs arī bankas kontus?",
+            "answer": "Atbilde ir niansēta. Automātiska visu bankas kontu atbloķēšana pēc 2024. gada 1. oktobra nenotiks.  Grozījumi Civilprocesa likumā, kas stājās spēkā 2024. gada 1. oktobrī, paredz izmaiņas ieturējumu veikšanas kārtībā no parādnieka ienākumiem, nodrošinot lielāku neaizskaramā minimuma saglabāšanu. Tomēr šie grozījumi tieši neattiecas uz bankas kontu bloķēšanas atcelšanu.  Konts tiek bloķēts ar tiesu izpildītāja rīkojumu, pamatojoties uz izpildu dokumentu. Lai atbloķētu kontu, ir nepieciešams tiesu izpildītāja lēmums par piedziņas atcelšanu vai izbeigšanu, vai arī par konta atbloķēšanu.  Tātad, lai konts tiktu atbloķēts pēc 2024. gada 1. oktobra, ir nepieciešams vērsties pie konkrētā tiesu izpildītāja, kura lietvedībā atrodas izpildu lieta, ar lūgumu izvērtēt situāciju un pieņemt lēmumu par konta atbloķēšanu. Tiesu izpildītājs izvērtēs, vai jaunie grozījumi ietekmē konkrēto izpildu lietu un vai ir pamats konta atbloķēšanai (piemēram, ja ieturējumi vairs nav veicami saskaņā ar jauno kārtību).  Vienkāršāk sakot:  Automātiska atbloķēšana nenotiks. Jāsazinās ar tiesu izpildītāju. Tiesu izpildītājs izvērtēs situāciju un lems par atbloķēšanu. Papildus informācija: Ja parādnieks uzskata, ka tiesu izpildītāja darbības ir prettiesiskas, viņam ir tiesības tās apstrīdēt likumā noteiktajā kārtībā."
+        },
+        {
+            "question": "Sveiki! Ja man ir nodokļu parāds, un, piemēram, lieta nonāks pie tiesu izpildītāja, vai tad ieturēšana notiks tāpat, kā citiem parādiem, kas tagad ir pieņemts no 1. oktobra, vai VID ietur kaut kā savādāk? Īpašumu man nav. Kopīgo īpašumu ar vīru mums arī nav. Vīram ir tikai atsevišķais īpašums.",
+            "answer": "Jā, ja nodokļu parāds nonāks pie tiesu izpildītāja, ieturēšana no jūsu ienākumiem notiks tāpat kā citos gadījumos, kas ir pieņemti pēc 2024. gada 1. oktobra, ievērojot Civilprocesa likuma 594. pantā noteiktās izmaiņas. Tas nozīmē, ka tiks ņemts vērā neaizskaramais minimums (50% no minimālās mēnešalgas un papildus 15% par katru apgādībā esošu nepilngadīgu bērnu), un ieturējumi tiks veikti no summas, kas pārsniedz šo minimumu, ievērojot likumā noteiktos ierobežojumus (parasti 30% no summas, kas pārsniedz minimālo algu).  Fakts, ka jums nav īpašuma vai kopīpašuma ar vīru, bet viņam ir atsevišķs īpašums, šajā gadījumā nav būtisks. Piedziņa tiks vērsta tikai pret jūsu ienākumiem, nevis pret jūsu vīra īpašumu."
+        },
+        {
+            "question": "Mums pieder dārza māja, kas atrodas Rīgas rajonā. Atkritumus no šīs teritorijas izvedam tur, kur esam deklarēti un kur maksājam par atkritumu apsaimniekošanu. Taču vietējās pašvaldības uzņēmums katru gadu izraksta rēķinus par atkritumu izvešanu, taču faktiski konkrēto pakalpojumu nekad nav sniedzis. Vai šādi rēķini ir likumīgi?",
+            "answer": "Nē, šādi rēķini nav likumīgi, ja vien nav noslēgts līgums par atkritumu apsaimniekošanu konkrētajam īpašumam (dārza mājai) un pakalpojums faktiski netiek sniegts.  Saskaņā ar Atkritumu apsaimniekošanas likuma 16. panta pirmo daļu, atkritumu radītājiem ir pienākums slēgt līgumu ar pašvaldības izvēlēto atkritumu apsaimniekotāju. Tomēr tas nenozīmē, ka jāmaksā par pakalpojumu, kas netiek sniegts.  Būtiskākie aspekti:  Līguma esamība: Ja ar pašvaldības uzņēmumu nav noslēgts līgums par atkritumu apsaimniekošanu konkrētajai dārza mājai, rēķinu izrakstīšana ir nepamatota. Faktisks pakalpojuma sniegšana: Pat ja līgums ir noslēgts, bet atkritumu izvešana no konkrētā īpašuma faktiski nenotiek, maksājums nav pamatots. Pašvaldības saistošie noteikumi: Iesaku iepazīties ar konkrētās pašvaldības (Rīgas rajona) saistošajiem noteikumiem par atkritumu apsaimniekošanu. Tajos var būt precizēti nosacījumi par atkritumu apsaimniekošanas pienākumiem un maksājumiem. Ko darīt šādā situācijā:  Pārbaudiet, vai ir noslēgts līgums: Pārliecinieties, vai ar pašvaldības uzņēmumu ir noslēgts rakstisks līgums par atkritumu apsaimniekošanu jūsu dārza mājai. Sazinieties ar pašvaldības uzņēmumu: Ja līguma nav vai pakalpojums netiek sniegts, rakstiski vērsieties pie pašvaldības uzņēmuma ar pretenziju par nepamatoti izrakstītajiem rēķiniem. Pieprasiet rēķinu anulēšanu. Vērsieties pašvaldībā: Ja sarunas ar uzņēmumu nedod rezultātus, vērsieties ar sūdzību attiecīgajā pašvaldībā, kas atbild par atkritumu apsaimniekošanas organizēšanu. Svarīgi ir saglabāt visus saņemtos rēķinus un citus dokumentus, kas saistīti ar šo situāciju."
+        },
+        {
+            "question": "Esam mājas būvniecības procesā (Dienvidkurzemes novadā), un pēc topogrāfiskās uzmērīšanas atklājies, ka īpašumā ir viena ieplaka un viens uzkalniņš. Vai zemes līdzināšanas darbiem vajag speciālu atļauju vai projektu? Nevaru atrast nekādus noteikumus, kas šo jautājumu skaidrotu. Un vai taisnība, ka savā īpašumā nevaru likt vairākus iebraucamos vārtus?",
+            "answer": "Atbilde ir daļēja un atkarīga no vairākiem faktoriem:  Par zemes līdzināšanu:  Vispārīgi, vienkāršai zemes līdzināšanai, kas būtiski nemaina reljefu un neietekmē apkārtējo vidi, atsevišķa atļauja vai projekts nav nepieciešams. Tomēr ir vairāki \"bet\":  Būvniecības iecere: Ja zemes līdzināšana ir daļa no būvniecības ieceres, tad šie darbi var būt iekļauti būvprojektā un atsevišķa atļauja nav nepieciešama, jo to aptver būvatļauja. Aizsargjoslas un īpaši noteikumi: Ja īpašums atrodas aizsargjoslā (piemēram, pie ūdenstilpnēm, mežiem, ceļiem), var būt spēkā īpaši noteikumi, kas ierobežo zemes darbus un prasa saskaņošanu. Tāpat arī vietējās pašvaldības teritorijas plānojumā var būt noteiktas prasības reljefa izmaiņām. Būtiskas reljefa izmaiņas: Ja plānotās izmaiņas ir ievērojamas un var ietekmēt apkārtējo vidi (piemēram, gruntsūdeņu līmeni, noteci), var būt nepieciešams veikt ietekmes uz vidi sākotnējo izvērtējumu vai pat saņemt atļauju no Vides pārraudzības valsts biroja. Meliorācija: Ja ieplaka ir saistīta ar meliorācijas sistēmām, izmaiņas tajās ir jāsaskaņo ar attiecīgajām institūcijām. Ko darīt:  Sazinieties ar Dienvidkurzemes novada būvvaldi: Visdrošāk ir sazināties ar vietējo būvvaldi un precizēt, vai konkrētajā gadījumā ir nepieciešamas kādas atļaujas vai saskaņojumi. Viņi varēs sniegt precīzu informāciju, ņemot vērā jūsu īpašuma atrašanās vietu un plānoto darbu apjomu. Pārbaudiet teritorijas plānojumu: Iepazīstieties ar Dienvidkurzemes novada teritorijas plānojumu, kas publiski pieejams pašvaldības mājaslapā. Tajā var būt noteiktas prasības reljefa izmaiņām. Par iebraucamajiem vārtiem:  Parasti privātīpašumā nav tiešu ierobežojumu vairāku iebraucamo vārtu skaitam, ja vien tie atbilst būvnormatīviem un teritorijas plānojumam. Tomēr arī šeit ir nianses:  Sarkanās līnijas: Vārtiem nevajadzētu atrasties uz sarkanajām līnijām (robežām ar publisko teritoriju). Ceļu satiksmes drošība: Vārtu izvietojumam jānodrošina ceļu satiksmes drošība un tas nedrīkst apgrūtināt satiksmi. Teritorijas plānojums: Pašvaldības teritorijas plānojumā var būt noteiktas prasības par žogu un vārtu izvietojumu. Ko darīt:  Sazinieties ar Dienvidkurzemes novada būvvaldi: Lai izvairītos no neskaidrībām, vislabāk ir konsultēties ar vietējo būvvaldi par konkrēto vārtu izvietojumu. Kopsavilkums: Lai izvairītos no problēmām nākotnē, ieteicams konsultēties ar Dienvidkurzemes novada būvvaldi gan par zemes līdzināšanas darbiem, gan par iebraucamo vārtu izvietojumu. Viņi sniegs precīzu informāciju, kas attiecas uz jūsu konkrēto situāciju."
+        },
+        {
+            "question": "Sveiki! Vēlētos saprast, kad pēc BKA jāatsāk darba gaitas. Darbnespējas lapa B (pēcdzemdību) beigsies 01.12.2024. Tad 02.12.2024. sāksies BKA, un es to pieteicu uz 19 mēnešiem. Nenododamo daļu izvēlējos izmantot uzreiz pēc BKA. Vai ir pareizi, ka man jāatgriežas darbā 01.05.2026.?",
+            "answer": "Nē, 01.05.2026. nav pareizs datums. Aprēķināsim precīzi:  BKA sākums: 02.12.2024. BKA ilgums: 19 mēneši. Lai aprēķinātu BKA beigu datumu, skaitām 19 mēnešus no 02.12.2024.:  Pēc 12 mēnešiem (1 gada) būs 02.12.2025. Atlikušie 7 mēneši: Janvāris: 02.01.2026. Februāris: 02.02.2026. Marts: 02.03.2026. Aprīlis: 02.04.2026. Maijs: 02.05.2026. Jūnijs: 02.06.2026. Jūlijs: 02.07.2026. Tātad, BKA beigsies 02.07.2026.  Jūs minējāt \"nenododamo daļu\". Iespējams, ar to tiek domāta daļa no Bērna kopšanas atvaļinājuma, kuru nevar nodot otram vecākam. Ja šī \"nenododamā daļa\" ir iekļauta jūsu pieteiktajos 19 mēnešos, tad papildus laiks pēc 02.07.2026. nav paredzēts.  Secinājums: Ja BKA ir pieteikts uz 19 mēnešiem, sākot no 02.12.2024., tad jums jāatgriežas darbā 02.07.2026.  Svarīgi:  Pārbaudiet savu iesniegumu: Pārliecinieties, kāds datums ir norādīts jūsu iesniegumā darba devējam par BKA piešķiršanu. Iesniegumā norādītais termiņš ir noteicošais. Sazinieties ar darba devēju: Lai precizētu atgriešanās datumu un izvairītos no pārpratumiem, ieteicams sazināties ar savu darba devēju vai personāla daļu. Ceru, ka šis precīzais aprēķins jums palīdzēs!"
+        },
+        {
+            "question": "Labdien! Darbiniekam ir noteikta minimālā alga, ko aprēķina saskaņā ar darba grafiku, proporcionāli nostrādātajām stundām. Novembrī darbinieks ir nostrādājis desmit darba dienas, un pārējo laiku ir neattaisnoti darba kavējumi. Ar darbinieku tiks izbeigtas darba tiesiskās attiecības. Vai darba devējs minimālās iemaksas aprēķina un veic proporcionāli faktiski nostrādātajām dienām un neskaita mēneša dienas, kurās bija neattaisnoti kavējumi, vai tomēr ir jāaprēķina par pilnu mēnesi?",
+            "answer": "Darba devējam minimālās valsts sociālās apdrošināšanas obligātās iemaksas (turpmāk – minimālās iemaksas) ir jāaprēķina par pilnu mēnesi, pat ja darbinieks nav nostrādājis pilnu mēnesi neattaisnotu kavējumu dēļ.  Saskaņā ar likumu \"Par valsts sociālo apdrošināšanu\" 14. panta 3. prim daļu, ja darbinieka mēneša ienākumi ir mazāki par valstī noteikto minimālo mēnešalgu, darba devējam ir pienākums veikt minimālās iemaksas no minimālās mēnešalgas. Šis pienākums neattiecas tikai uz noteiktiem izņēmumiem, kas šajā gadījumā, visticamāk, nav piemērojami (piemēram, personas ar I vai II grupas invaliditāti, pensionāri, personas, kas sasniegušas vecumu, kas dod tiesības uz valsts vecuma pensiju, u.c.). Neattaisnoti darba kavējumi nav pamats, lai neveiktu minimālās iemaksas.  Tātad, neatkarīgi no tā, ka darbinieks novembrī ir nostrādājis tikai desmit dienas un pārējā laikā bijuši neattaisnoti kavējumi, darba devējam ir jāaprēķina un jāveic minimālās iemaksas no pilnas minimālās mēnešalgas par novembri. Darba samaksa darbiniekam, protams, tiks aprēķināta proporcionāli nostrādātajam laikam, bet minimālās iemaksas jāveic par pilnu mēnesi."
+        },
+        {
+            "question": "Esmu nodarbināta pamatdarbā uz pusslodzi ar papildu darbu šajā pašā iestādē projektos. Nebeidzoties pilnam bērna kopšanas atvaļinājumam, vēlos ātrāk atgriezties darbā finansiālu apsvērumu dēļ, bet nevēlos atgriezties pamatdarbā, bet gan tikai projektos, jo tā var veiksmīgāk savienot darba un privāto dzīvi. Darba devējs ir gatavs vienoties ar mani par darbu tikai projektos, bet informē, ka tādējādi es zaudēšu savas tiesības uz pamatdarbu, jo darbinieks, kurš strādā manā vietā uz manas prombūtnes laiku, kļūs par pastāvīgu darbinieku. Vai otrs darbinieks nevar tikt atbrīvots no darba brīdī, kad man pienākas atgriezties pēc pilna bērna kopšanas atvaļinājuma? Kā es varu aizstāvēt savas tiesības?",
+            "answer": ""
+        },
+        {
+            "question": "Vai izglītības iestādes bibliotekārs, kuram ir bibliotekāram atbilstoša izglītība, bet nav pedagoģiskās izglītības, arī skaitās pedagogs ar tiesībām uz astoņu nedēļu ilgu atvaļinājumu? Izglītības iestādes bibliotekārs ir iekļauts Pedagogu profesiju un amatu sarakstā, kaut arī Noteikumi par pedagogiem nepieciešamo izglītību un profesionālo kvalifikāciju un tās pilnveidi vairs nenosaka izglītības iestādes bibliotekāram nepieciešamo izglītību, un tagad to nosaka Bibliotēku likums. Tāpat interesē, kā atšķiras amati izglītības iestādes bibliotekāram (2622 07) un izglītības iestādes bibliotekāram (ceturtā un trešā līmeņa kvalifikācija) (3433 03), ja abi ir minēti Pedagogu profesiju un amatu sarakstā?",
+            "answer": ""
+        },
+        {
+            "question": "Kur var izmantot mājas uzkrājuma fonda naudu? Kas organizē mājas grāmatvedību, ja nav mājas vecākā, kuram nav nekādu ienākumu par darbu (un likums to neparedz)? Neviens negrib šo darbu veikt, un namu pārvalde nestrādā. Visu kārto namu apsaimniekotājs, bet viņš praktiski neko nedara. Mājai nav saimnieka, tā ir pamesta.",
+            "answer": ""
+        },
+        {
+            "question": "Vai Latvijā ir atļauta bērza tāss vākšana no augošiem kokiem? Vai atļauta bērza tāss vākšana no vētrā nogāztiem kokiem?",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! 2022. gada nogalē biedrība kopsapulcē nobalsoja par dzīvojamās mājas renovāciju. 50% no projektā paredzētās izmaksu summas biedrība saņēma kā grantu, bet 50% no nepieciešamās summas paņēma bankā kā kredītu. No bankas aizņemtās summas 80% tika izmantoti izmaksām, kas attiecināmas uz katru dzīvojamās platības kvadrātmetru, proti, mājas kopējās izmaksas, bet 20% no summas tika izmantoti konkrētiem dzīvokļiem (lodžiju iestiklošanai, veco iekšējo logu nomaiņai, projektam neatbilstošu apkures radiatoru nomaiņai), respektīvi, dzīvokļu papildizmaksas. Uz sešiem dzīvokļiem attiecas tikai mājas kopējās izmaksas, bet 36 dzīvokļiem ir mājas kopējās izmaksas + papildizmaksas. Dzīvojamo māju apkalpojošā kompānija aprēķina visiem īpašniekiem vienādu ikmēneša kredīta atmaksas summu, ņemot vērā tikai dzīvokļa platību, bet neņemot vērā, ka uz dzīvojamo platību attiecināmās izmaksas ir dažādas. Apkalpojošajai kompānijai tika nosūtīta vēstule ar lūgumu pārskatīt kredīta atmaksas apmēru dzīvokļiem, bet tā tika ignorēta. Vai tas ir likumīgi, ka sešiem dzīvokļiem jāapmaksā citu dzīvokļu kapitālais remonts, kaut arī kredītu ņēma biedrība? Kā mums rīkoties tālāk?",
+            "answer": ""
+        },
+        {
+            "question": "Brālim pieder zeme (0,35 ha), man pieder dzīvojamā māja un saimniecības ēka uz šīs zemes. Brālim par uzturlīdzekļu nemaksāšanu tiks rīkota īpašuma atsavināšanas izsole. Vai man kā ēku īpašniekam ir kādas pirmpirkuma tiesības, un vai šādu izsoli vispār var rīkot, nesazinoties ar ēku īpašnieku? Paldies!",
+            "answer": ""
+        },
+        {
+            "question": "Vai pašvaldība savos iekšējos normatīvajos aktos var paredzēt pedagogam atvaļinājuma pabalstu?",
+            "answer": ""
+        },
+        {
+            "question": "Mani interesē manas tiesības mantot. Mamma ar tēti bija laulāti. Kopā nodzīvoja 20 gadus. Pirms diviem gadiem tētis mantoja dzīvokli, un tas tika reģistrēts uz viņa vārda. Nesen nomira mamma. Man ar tēvu labas attiecības nav bijušas, jo kā mazu bērnu izmeta mani no mājām. Vai man ir kādas tiesības uz dzīvokļa daļu pēc mammas nāves?",
+            "answer": ""
+        },
+        {
+            "question": "Vai māsas palīgs (reģistrēta ārstniecības persona) var veikt lāzerepilāciju citiem, izejot atblistošos lāzerepilācijas kursus? Vai ir kādi noteikumi, kas stingri regulē, kurš ir vai nav tiesīgs veikt šo vai citus aparātpakalpojumus (piemēram, aparātmasāžu)?",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Mans bērns apmeklē pašvaldības bērnudārzu Rīgā, kur esam deklarēti, un saņem pašvaldības finansējumu. Vai līdzfinansējums saglabājas, ja abiem vecākiem deklarētā dzīvesvieta mainās uz citu pašvaldību (šajā gadījumā – Siguldu), bet bērns paliek deklarēts Rīgas adresē?",
+            "answer": ""
+        },
+        {
+            "question": "Es vēlos vadīt mūzikas/folkloras interešu izglītības pulciņu. Man ir augstākā izglītība (akadēmiskais humanitāro zinātņu bakalaura grāds mākslās) un izieti 72 stundu pedagoģiskie kursi. Studiju programmā esmu apguvusi šādus kursus: Pasaules mūzikas vēsture 2 KP; Latvijas mūzikas vēsture 2 KP; Folklora 2 KP. Vai es drīkstu strādāt par interešu izglītības mūzikas skolotāju valsts iestādēs, piemēram, pirmsskolā vai skolā?",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Manai dzīvesbiedrei tagad sāksies pēdējais studiju semestris, līdz ar to jūlijā beigsies uzturēšanās atļaujas Latvijā termiņš. Vai, ņemot vērā Latvijas likumus, ir iespējams pagarināt/piešķirt jaunu uzturēšanās atļauju manai dzīvesbiedrei, pamatojoties uz mūsu attiecību statusu? Pats esmu Latvijas pilsonis. Esam nelaulāts pāris, kas attiecības uzsāka 2023. gada novembrī (ir pierādāmas sarakstes, foto u. c.), kā arī 2024. gada maijā uzsākām kopdzīvi (īres līgumā esmu iekļauts tikai es, bet ir pierādāms, ka rēķinus maksājam kopīgi). Paralēli studijām minētā persona Latvijā ir algots darbinieks.",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Man ir profesionālā bakalaura grāds sociālajā darbā (sociālais darbinieks). Gribu uzsākt darbu skolā kā sociālais pedagogs. Vēlos uzzināt, kāda papildu izglītība man jāiegūst, lai varu strādāt skolās vai bērnudārzos par sociālo pedagogu ar jau iegūto bakalaura grādu sociālajā darbā.",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! PII darbiniekiem ir jāiziet pirmās palīdzības apmācības. Kursi notiek 8 stundas. Mūsu darba laiks ir maiņās. Lai apmeklētu kursus, jālūdz kolēģei strādāt manā vietā un pēc kursiem šis laiks ir jāatstrādā. Vai darba devējam par to ir jādod apmaksāta brīvdiena? Paldies!",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Vēlos iet atvaļinājumā no 23.12.2024. līdz 05.01.2025. (ieskaitot). Tā arī iesniegumā darba devējam norādīju. Darba devējs apgalvo, ka šādā gadījumā mans atvaļinājums pagarinās par piecām svētku dienām un pirmā darba diena pēc atvaļinājuma būs 11.01.2025. Kā man pareizi noformēt iesniegumu, lai pirmā darba diena pēc atvaļinājumā būtu 06.01.2025.? Cik atvaļinājuma dienu man tiks apmaksātas? Man ir summētais darba laiks. Strādāju saskaņā ar grafiku. Ja grafikā iekrīt, tad strādāju arī brīvdienās un svētku dienās. Tā kā darba devējs zina, ka būšu atvaļinājumā, šā perioda darba grafikā neesmu iekļauta. Decembrī darba dienas mums netiek pārceltas.\nPaldies!",
+            "answer": ""
+        },
+        {
+            "question": "Vai es kā uzņēmuma preču piegādātājs drīkstu pieņemt no klienta tā saukto “tējas naudu” (iepriekš neatrunātu, tā nav klientam norādīta kā samaksa vai atlīdzība par manis paveikto) par to, ka esmu palīdzējis izkraut atvesto preci, ja uzņēmuma iekšējās kārtības noteikumi to aizliedz? Ja drīkstu, tad būtu pateicīgs par skaidrojumu ar atsaucēm uz likumu.",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Vai man pienākas trīs papildatvaļinājuma dienas, ja trešais bērns piedzimst mēnesi pirms individuālā atvaļinājuma aprēķina gada? Individuālais gads ir no 01.09.2023. līdz 31.08.2024., tajā pienākas viena papildatvaļinājuma diena. Trešais bērns piedzims 02.08.2024. Vai par šo periodu man jau ir tiesības pieprasīt trīs papildatvaļinājuma dienas?",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Jautājums par manas privātmājas kanalizācijas sistēmas pieslēgšanu pie pilsētas kanalizācijas tīkla. Man ir līgums ar namsaimnieku, bet kanalizācijas caurules atrodas uz kaimiņa zemes. Vai viņš var man aizliegt izmantot pilsētas kanalizāciju?",
+            "answer": ""
+        },
+        {
+            "question": "Sveiki! Strādāju starptautiskā uzņēmumā, kura klients ir citā valstī, piemēram, Polijā. Mums ar kolēģiem 19. novembra rītā jāierodas Varšavā uz darba tikšanos. Vadība informēja, ka 19. novembra rītā nav reisa, lai nokļūtu uz sapulci laikus, tāpēc visi izlidosim 18. novembra vakarā. Lidojums, nakšņošana, brokastis un transports, iesniedzot čekus, Varšavā tiek apmaksāts. Es dzīvoju Jaunciemā, un parasti arī taksometra izdevumi no dzīvesvietas līdz lidostai un atpakaļ tiek apmaksāti. Kā man būtu jāuzskaita laiks par 18. novembri? Vai ceļā uz lidostu (aptuveni 1 h) pavadītais laiks, lidojums (1 h) un ceļš uz viesnīcu Varšavā skaitās darba laiks? Es biju plānojusi pieprasīt dienasnaudu, bet kā ir ar “darba laiku”?",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Mans dēls ir Latvijas pilsonis, bet viņa meitene ir no Baltkrievijas. Meitenei bija uzturēšanās atļauja. Viņi abi bija iesnieguši dzimtsarakstu nodaļā pieteikumu laulības reģistrācijai, un bija noteikta laulības noslēgšanas diena. Bet vienu dienu pirms laulības noslēgšanas darbiniece no dzimtsarakstu nodaļas instagramā uzrakstīja manam dēlam, ka reģistrācija nenotiks, jo meitenei ir atcelta uzturēšanās atļauja. Nav saprotams, kā tas var būt, ka uzturēšanās atļauja laulības pieteikšanas dienā bija, bet dienu pirms reģistrācijas tiek paziņots, ka atļauja ir anulēta un kāzas jāatceļ. Turklāt informācija par reģistrācijas atcelšanu tika sniegta instagramā, nevis oficiāli. Ja meitenei uzturēšanās atļauja ir anulēta un viņai jādodas prom, un dēls pārcēla kāzas, ko darīt? Kā viņiem tagad apprecēties Latvijā? Šeit viņai bija darbs, viņa maksāja nodokļus.",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Vēlos uzzināt, kā tiks veikti ieturējumi, ja ir vairāki kreditori, kuriem nevaru samaksāt, un ja lietas nodotas tiesai. Cik lielu summu no manis var atvilkt? Kā notiks parādu atmaksa katram kreditoram?",
+            "answer": ""
+        },
+        {
+            "question": "Cik daudz parādu piedzinēji var noņemt no pensijas, kas ir mazāka kā 600 eiro mēnesī?",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Palīdziet, lūdzu, saprast, kādi būs ieturējumi no darba algas, ja pie darba devēja ir tiesu izpildītāja izpildraksts. Ieturējumi ir par kredītiem, divas izpildlietas, alga (neto) ir 1700 eiro. Paldies!",
+            "answer": ""
+        },
+        {
+            "question": "Sveiki! 2008. gada finanšu krīzes laikā tika ņemts kredīts mājas būvniecībai. Nespējot tālāk maksāt, īpašums tika atsavināts, pārdots izsolē. Dēls bija kredīta galvotājs. Stājoties spēkā likumam 2022. gadā, kredīts tika norakstīts 100% apjomā, jo atbildām visiem vajadzīgajiem kritērijiem. Savukārt dēlam tas tika uzlikts Latvijas Bankas kredītu reģistrā kā parāds 100% apmērā. To viņš uzzināja, aizbraucot un izņemot izziņu. Viņa bankā parāds neuzrādās. Vai tas ir likumīgi, ja bankā tas ir 100% norakstīts? Nekādas vēstules vai paziņojumi šo divu gadu laikā dēlam nav sūtīti. Vai ir vajadzīgs tiesas lēmums, lai banka varētu prasīt kredītu atmaksāt? Vai šajā gadījumā ir noilgums vai laika periods brīdinājuma vēstulēm?",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Kādos gadījumos tiek atsūtīts izpildraksts par algas daļas ieturēšanu? Es katru mēnesi maksāju tiesu izpildītājam norunāto summu, nekavējot grafiku, bet darbavietā saņēmu vēstuli, ka tiks ieturēta daļa algas. Vai ir iespēja kaut kur redzēt aktuālo parādu summu?",
+            "answer": ""
+        },
+        {
+            "question": "Kam ziņot, ja ir konstatēts, ka veikals apzināti krāpjas ar cenām? PTAC jau ir ziņots, bet nekas nav mainījies. Vai iesniegt iesniegumu policijai, lai tā veic kontrolpirkumu? “Elvi” “Alkoletā”, Liepājā (Ed. Tisē ielā 71 a), preces cena pie plaukta norādīta 0,89 eiro, savukārt cena kasē – 1,55 eiro. Tas ir gandrīz uz pusi vairāk. Citai precei rakstīta cena, ja pērk 4 gab., – 0,75 eiro, pie kases 1 eiro, kā pērkot 1–3 gab. Cenas nesaprotami norādītas arī saldējumiem. Pie kases maksājot, neviens vecāks bērnam neteiks: “Nē, šo mēs te nepirksim.” Uzskatu, ka tā ir tīša krāpniecība/apzināta darbība, jo jebkurai precei, kurai cena ir virs 10 eiro, tā ir norādīta pareizi, jo tā ir summa, no kuras cilvēki sāk sekot līdzi. Vai man pašam jāsēž pie veikala, kamēr apzinu pietiekami apkrāptos, lai veidotu class action lawsuit (nezinu, kā to sauc latviešu valodā)? Īpašnieki/vadība to zina, jo visas kasieres ir informētas, kā rīkoties. Piemēram, atbilde ir šāda: “Oi, es nospiedu garām atlaides podziņai.”",
+            "answer": ""
+        },
+        {
+            "question": "Man pieder 1/21 domājamā daļa no ceļa. Saņēmu vēstuli, ka tiks izsolītas 2/21 domājamās daļas, to palaidu garām, jo tad nebija aktuāli. Izsole notika bez rezultāta, tagad notiks atkārtota izsole, un es vēlos šīs daļas iegūt. Kādas ir manas tiesības? Vai varu pretendēt uz pirmpirkuma tiesībām? Ja varu, tad kas ir jādara?",
+            "answer": ""
+        },
+        {
+            "question": "Vai 2017. gadā bija iespējams vienpusēji atcelt dāvinājuma līgumu? Esmu pazaudējis dāvinājuma līguma oriģinālu. Kur var dabūt kopiju?",
+            "answer": ""
+        },
+        {
+            "question": "Vai ir jādeklarē bankas izsniegts patēriņa kredīts 8000 eiro apmērā?",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Esmu iegādājusies dzīvokli Rīgā. Pēc nepilna gada no “Rīgas namu pārvaldnieka” saņēmu iespaidīgu rēķinu par atkritumu izvešanu. Izrādās, ka manā īpašumā bez manis ir deklarētas vēl divas personas. Vai dzīvokļa pārdevējs ir rīkojies godprātīgi, mani par to neinformējot?",
+            "answer": ""
+        },
+        {
+            "question": "Sveiki! Manam civilvīram ir hipotēka, kas maksāšanas problēmu dēļ tika nodota tiesai, un īpašums tiks pārdots izsolē. Vai pastāv iespēja, ka es īpašumu (tas ir, hipotēku ar viņa esošo saistību apmēru) varu nopirkt, ja viņš tam piekrīt?",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! No š. g. janvāra līdz augusta vidum saņēmu darba algu, no kuras tika nomaksāts iedzīvotāju ienākuma nodoklis. Sakarā ar grūtniecību kopš augusta vidus nestrādāju (atrados pirmsdzemdību un pēcdzemdību atvaļinājumā; no decembra beigām būšu bērna kopšanas atvaļinājumā). Ar bērna dzimšanas dienu vīrs mani ir pievienojis EDS kā apgādājamo. Kurš no mums – es vai vīrs – gada ienākumu deklarācijā par 2024. taksācijas gadu varēs iesniegt manus medicīnas čekus, kas izdoti uz mana vārda pēc bērna dzimšanas? T. i., es pati, ņemot vērā, ka lielāko daļu taksācijas gada biju iedzīvotāju ienākuma nodokļa maksātāja, vai arī mans vīrs, jo kopš bērna piedzimšanas esmu viņa apgādībā? Paldies!",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Esmu sociālais darbinieks, strādāju ar ģimenēm, kurās ir bērni, un man ir amatpersonas statuss. Vai šādam sociālajam darbiniekam vajag arī amatpersonas statusu? Pirms amata maiņas sociālajā dienestā strādāju amatā, kurā bija nepieciešams būt amatpersonai, jo pieņēmu lēmumus par pabalsta piešķiršanu un to apmēru.",
+            "answer": ""
+        },
+        {
+            "question": "Sveiki! Bankā ir izveidots kopīgs konts, kurā divas personas (nav laulātas vai ar radniecīgu saiti) katru mēnesi pārskaita naudu kopīgiem izdevumiem. Vai nauda virs 1425 eiro tiks aplikta ar nodokli? Konts ir uz viena cilvēka vārda, tomēr abas personas ir atzīmētas kā lietotāji ar pilnu piekļuvi un katram ir pieejama karte uz sava vārda. Paldies!",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Pirms kāda laika tika iesākta zemes privatizācija, bet process līdz galam nebija pabeigts. Kad pēc kāda laika privatizāciju atsāku, secināju, ka diemžēl dokumenti ir nozaudēti. Vērsos zemesgrāmatā, tur man apgalvoja, ka varu pieprasīt un saņemt dokumentu kopijas no arhīviem, jo arī tām ir juridisks spēks. Izskrēju visas iestādes, saņēmu kopijas utt. Dokumenti tika aizsūtīti uz tiesu. Diemžēl bija atteikums, jo nebija oriģinālo dokumentu. Ko man darīt?",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Vai jau ir pieejamas ES invaliditātes kartes? Vai mana invaliditātes apliecība būs jāapmaina pret ES invaliditātes karti? Vai arī man nekas nav jādara, un ES invaliditātes karti atsūtīs pa pastu?",
+            "answer": ""
+        },
+        {
+            "question": "Esmu Latvijas Republikas pilsonis, dienēju padomju armijā no 1982. līdz 1984. gadam, tad no 1984. līdz 1986. gadam virsdienests (Afganistāna). Iesaukums bija no Liepājas, bet karaklausības apliecība nozaudēta. Kā man pierādīt dienestu padomju armijā?",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Tiek izskatīta iespēja veidot e-komercijas veikalu, izmantojot platformu “Supliful”. Tajā tiktu tirgoti uztura bagātinātāji, kuri tiek ražoti ASV un pārdoti tikai ASV robežās. Kā šajā gadījumā jārīkojas ar nodokļiem un uzņēmuma reģistrēšanu, ja viss notiek tiešsaistē un par ražošanu un pasūtījumu izpildi pilnībā atbild “Supliful” platforma? E-komercijas veikals tikai pārdod preci un samaksā par to “Supliful”. Vai visam jānotiek Latvijas robežās? Vai arī jāreģistrē uzņēmums ASV?",
+            "answer": ""
+        },
+        {
+            "question": "Vēlos noskaidrot, kā tiek noteikts, vai pacients ir bijis pakļauts diskriminācijai, un kā šādu faktu var pierādīt reālajā dzīvē. Pacientu tiesību likuma 3. panta 2. daļā noteikts, ka ir aizliegta atšķirīga attieksme atkarībā no personas rases, etniskās izcelsmes, ādas krāsas, dzimuma, vecuma, invaliditātes, veselības stāvokļa, reliģiskās, politiskās vai citas pārliecības, nacionālās vai sociālās izcelsmes, mantiskā vai ģimenes stāvokļa vai citiem apstākļiem. Kā ir iespējams konstatēt, vai izturēšanās pret pacientu ir bijusi nevienlīdzīga, aizskaroša vai diskriminējoša, balstoties uz kādu no minētajiem faktoriem, piemēram, veselības stāvokli vai vecumu? Vai nepietiekama veselības aprūpe stacionārā vecāka gadagājuma cilvēkam var tikt uzskatīta par diskrimināciju? Vai ģimenes ārsta nepietiekama aprūpe vai nepietiekama nosūtījumu izsniegšana pie speciālistiem var tikt kvalificēta kā diskriminējoša attieksme? Vai arī gadījumā, ja ārsts izturas pret pacientu ar acīmredzamiem psihiskiem traucējumiem tāpat kā pret cilvēku bez šādām problēmām, neņemot vērā iespējamās grūtības izpildīt ārsta norādījumus, tas var tikt vērtēts kā diskriminācija? Vai ir paredzēts sods saistībā ar diskriminējošu attieksmi pret pacientu?",
+            "answer": ""
+        },
+        {
+            "question": "Pasūtīju preci internetveikalā ar bezmaksas piegādi. Izmantojot 14 dienu atteikuma tiesības, atgriezu preci. Preces atpakaļnosūtīšanas izdevumus sedzu es. Tirgotājs atskaitīja no atmaksājamās summas piegādes izmaksas. Vai tirgotājam ir tiesības ieturēt piegādes izmaksas, ja sākumā piegāde bija bez maksas?",
+            "answer": ""
+        },
+        {
+            "question": "Esmu BKA, un drīz jāatgriežas darbā, bet šajā darbavietā neplānoju palikt. Vai pēc BKA man ir jāatstrādā viens mēnesis?",
+            "answer": ""
+        },
+        {
+            "question": "Darba likuma 158. pants: par darba līguma nenoslēgšanu rakstveida formā piemēro naudas sodu darba devējam: fiziskajai personai – no četrpadsmit līdz septiņdesmit naudas soda vienībām, bet juridiskajai personai – no simt četrdesmit līdz septiņsimt divdesmit naudas soda vienībām. Vai individuālais komersants ir fiziska vai juridiska persona?",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Kur vērsties, ja bērnu māte, kopš viņai ir jauns dzīvesbiedrs, mani vairāk nelaiž pie bērniem viņu dzīvesvietā? Vēlos ar bērniem pavadīt vienu dienu nedēļā bērnu dzīvesvietā, kur viņiem ir visas ērtības, mantas utt.",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! 20.06.2024. uzsāku darba attiecības valsts pārvaldē. Pēc nostrādātiem 6 mēnešiem man ir nepieciešams paņemt vienu atvaļinājuma dienu, kas būtu 23.12.2024. (atbilstoši pārceltajām darba dienām – 14.12.2024.). Lūgums skaidrot, kāds datums jānorāda atvaļinājuma iesniegumā: 23. vai 14. decembris?",
+            "answer": ""
+        },
+        {
+            "question": "Esmu iegādājies dzīvokli jaunajā projektā, sešstāvu ēkā ar ugunsdrošu evakuācijas ceļu caur kāpņu telpu līdz 1. stāvam. Mēs dzīvojam 6. stāvā, kur kāpņu telpā ir kāpnes, kas ved uz jumta lūku, kura arī ir ugunsdroša. Vai lūkai, tas ir, izejai uz jumtu, nevajadzētu būt slēgtai? Pastāv bažas, ka vienu dienu mani bērni var uzkāpt uz jumta un notikt nelaime. Man apgalvo, ka tas ir nepieciešams, lai ugunsdzēsēji varētu netraucēti tikt uz jumta, bet kā ar pārējo laiku? Vai jebkurš drīkst pa kāpnēm uzkāpt un darīt ko grib?",
+            "answer": ""
+        },
+        {
+            "question": "Mātei ir grūtniecības un dzemdību atvaļinājums (pēcdzemdību B slimības lapa). Vai par šo periodu viņai pienākas papildatvaļinājuma diena par bērnu?",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Interesē jautājums, vai man pienākas atlaišanas kompensācija un apmaksa par neizņemto ikgadējo atvaļinājumu un, ja pienākas, kur es varu vērsties, ja tā nav izmaksāta. Kamēr biju BKA, uzņēmums, kurā strādāju, tika slēgts (statuss ir izslēgts no PVN maksātāju reģistra). Par to nebiju informēta, nebiju ne atlaista, ne pārcelta uz citu uzņēmumu. Uz lūgumiem mani atbrīvot no darba valdes loceklis tā arī nebija atbildējis pozitīvi, tādēļ vērsos VID, lai viņi mani atbrīvo. Pēc visas noteiktās procedūras šobrīd jau esmu atbrīvota, bet ir jautājums par kompensācijām. Paldies!",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Vai diabētiķus uzņem dienestam Zemessardzē?",
+            "answer": ""
+        },
+        {
+            "question": "Dzīvokļa īpašnieki no mājas kopējiem uzkrājumiem maksā atalgojumu mājas vecākajam. Vai tad, ja mājas vecākais arī pats ir dzīvokļa īpašnieks, viņam ir jāveic iemaksas savam atalgojumam vai arī viņš var tikt atbrīvots no šī maksājuma? Vai ar kopsapulces lēmumu mājas vecāko var atbrīvot no attiecīgās iemaksas veikšanas, sadalot šo daļu uz pārējiem dzīvokļu īpašniekiem?",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Vēlējos noskaidrot, vai mantiniekiem ir pienākums noslēgt zemes pirkuma līgumu, ja mantojuma atstājējs bija noslēdzis priekšlīgumu šādā situācijā. Proti, 2020. g. zemes īpašnieks noslēdza zemes pirkuma priekšlīgumu ar potenciālo zemes pircēju. Priekšlīgumu ierakstīja zemesgrāmatā. 2021. g. zemes īpašnieks nomira un atklājās mantojums. Vai mantiniekiem ir pienākums noslēgt zemes pirkuma līgumu ar personu, ar kuru mantojuma atstājējs bija noslēdzis priekšlīgumu?",
+            "answer": ""
+        },
+        {
+            "question": "Sveicināti! Daudzdzīvokļu mājā ir dzīvokļu īpašnieku kopība, kura dzīvokļu īpašnieku kopsapulcē ir ievēlējusi piecus dzīvokļu īpašnieku kopības pilnvarniekus, kas pārstāv kopību esošo remontdarbu saskaņošanā un interešu sarunās ar mājas pārvaldnieku (juridisko personu). Dzīvokļu īpašnieku biedrība (Dzīks jeb Dzīb) līdz šim minētajai kopībai nav nodibināta. Tomēr dzīvokļu īpašnieku aptaujā tika nobalsots par biedrības dibināšanu. Domstarpības un pretrunas sākās brīdī, kad biedrības nodibināšanai tika apspriesti piedāvātie biedrības statūti, kuri nepieciešami biedrības reģistrēšanai Uzņēmumu reģistrā. Daļa dzīvokļu īpašnieku uzskatīja, ka par jaundibināmās biedrības biedriem drīkst būt tikai un vienīgi konkrētā nekustamā īpašuma dzīvokļu īpašnieki, argumentējot to ar biedrības nosaukuma saturu, jo tā esot “dzīvokļu īpašnieku biedrība”. Otra daļa dzīvokļu īpašnieku, izlasot Biedrību un nodibinājumu likumu, uzskata, ka biedrību dibina tās mērķa saturam, tas ir, tajā apvieno personas, kuras vēlas uzlabot, remontēt un pārvaldīt konkrēto nekustamo īpašumu. Šis priekšnosacījums (mērķis) tiktu ierakstīts dibināmās biedrības statūtu projektā, tāpēc nosaukuma saturam nav noraidoša iemesla pret tām personām, kuras vēlas darboties minētā mērķa sasniegšanai un kuras nav zemesgrāmatā ierakstītie dzīvokļu īpašnieki, bet ir viņu bērni, mazbērni, laulātie, māsas, brāļi vai citādi ģimeniski saistītie. Nereti “ģimeniski saistītie” arī faktiski dzīvo dzīvokļu īpašumos, kuri atrodas dibināmās biedrības daudzdzīvokļu mājā, un aktīvi iesaistās namīpašuma atjaunošanas procesos. Tieši “ar dzīvokļa īpašnieku ģimeniski saistītās” personas pašreiz ir vairāki dzīvokļu īpašnieku kopības ievēlētie pilnvarnieki, kuri aktīvi ir darbojušies un turpmāk grib darboties namīpašuma attīstības jautājumos arī pēc biedrības nodibināšanas. Dzīvokļu īpašnieku kopība gribētu pilnvarniekus ievēlēt un redzēt jaundibināmās biedrības valdē. Tomēr, iespējams, var veidoties tiesiskas pretrunas, jo biedrības valdi ievēlē no biedrības biedru vidus, tas ir, biedru sapulcē (Biedrību un nodibinājuma likuma 34. panta 1. daļa (biedrības augstākā institūcija ir biedru sapulce) un 35. panta 2. daļa (biedru sapulces kompetence ir valdes un revīzijas institūciju locekļu ievēlēšana un atsaukšana, ja statūtos šādas tiesības nav piešķirtas citai pārvaldes institūcijai)). Ja jaundibināmās biedrības statūtos ieraksta, ka biedrības biedri ir tikai un vienīgi dzīvokļu īpašnieki, tad erudītākie (izglītotākie) un aktīvākie namīpašuma interešu pārstāvji, kuri līdz šim dzīvokļu īpašnieku kopības kopsapulcēs ir piedalījušies un rezultatīvi darbojušies uz dzīvokļa īpašnieka izsniegtās pilnvaras pamata, faktiski tiek izstumti no biedrības biedru vidus un nevar piedalīties biedrības mērķa sasniegšanā.\nPareizam tiesiskajam regulējumam attiecībā uz iepriekš minēto situāciju nepieciešamas speciālista atbildes uz šādiem jautājumiem:\n1. Vai nosaukums “dzīvokļu īpašnieku biedrība” uzliek par pienākumu un rada tiesisku pamatojumu tās dibinātājiem un biedriem šāda nosaukuma biedrībā uzņemt tikai un vienīgi attiecīgā nekustamā īpašuma dzīvokļu un nedzīvojamo telpu īpašniekus? Kāds Latvijas Republikas tiesību akts, pants to nosaka un regulē?\n2. Vai dzīvokļu īpašnieku biedrības biedru kopsapulce ir tiesīga dzīvokļu īpašnieku biedrības valdē ievēlēt personas, kuras nav tiešie dzīvokļu īpašnieki, bet faktiski ir biedrības statūtos (mērķī) definētā namīpašuma dzīvokļu īpašumu īrnieki, pilnvarnieki un/vai ģimenes locekļi jeb t. s. “ģimeniski saistītie”?\n3. Ja kāds no dzīvokļu īpašnieku biedrības dibinātājiem vai potenciālajiem biedriem ir juridiskā persona (piemēram, SIA), kurai pieder dzīvokļa īpašums nekustamajā īpašumā, kas ir biedrības statūtos (mērķī) definētā namīpašuma dzīvoklis, piedaloties dibinātāju vai biedru kopsapulcē, ir tiesīgs savu pārstāvību pilnvarot ar vienkāršu (notariāli neapliecinātu) pilnvaru, vai juridiskās personas pārstāvībai (pilnvarniekam) ir nepieciešama Uzņēmumu reģistrā ierakstīta/reģistrēta prokūra?\n4. Vai dzīvokļu īpašnieku kopības kopsapulci var tiesiski uzskatīt par “citu pārvaldes institūciju”, par kuru minēts Biedrību un nodibinājumu likuma 35. panta 2. daļā (biedru sapulces kompetence ir valdes un revīzijas institūciju locekļu ievēlēšana un atsaukšana, ja statūtos šādas tiesības nav piešķirtas citai pārvaldes institūcijai)?",
+            "answer": ""
+        },
+        {
+            "question": "Nomainīju dzīvoklī ūdens skaitītājus. Dzīvokļu īpašnieku biedrībai elektroniski iesniedzu ieskenētu aktu, kā arī akta kopiju papīra veidā. Biedrība pieprasa iesniegt akta oriģinālu, jo citādi iesniegtais akts netiks pieņemts. Vai tiešām jāiesniedz vienīgais akta oriģināls?",
+            "answer": ""
+        },
+        {
+            "question": "Labvakar! Tētis savu īpašuma daļu man nodeva pirms septiņiem gadiem. Tagad viņš ir miris. Vai viņa otrā meita varētu pieprasīt savu daļu no īpašuma? Vai īpašuma aktiem ir noteikts laika ierobežojums?",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Mūsu daudzdzīvokļu māju (78 dzīvokļi) apsaimnieko biedrība. Pēc deviņu gadu ilgas apsaimniekošanas apsaimniekotājs vēlas doties prom. Par savu aiziešanu apsaimniekotājs paziņoja kopsapulcē, kurā piedalījās ne vairāk kā 15 cilvēki, starp kuriem bija arī īrnieki. Sapulcē netika veikts balsojums, bet apsaimniekotājs, neraugoties uz to, ir apņēmības pilns aiziet. Apsaimniekotājs kategoriski atsakās uzrādīt dzīvokļu īpašniekiem gada atskaites (atskaites netiek uzrādītas jau kopš pirmā apsaimniekošanas gada). Apsaimniekotājs vēlas, lai māju pārņemtu SIA. Apsaimniekotājs vēlas nodot māju bez dzīvokļu īpašnieku balsojuma un dokumentu iesniegšanas reģistrā. Apsaimniekotājs māju vēlas nodot caur notāru (par to sapulcē netika balsots). Ko darīt šajā situācijā, ja apsaimniekotājs atsakās rīkoties likumā paredzētajā kārtībā?",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Bērna vecāki ir šķīrušies pie notāra, bērns dzīvo pie mātes, un pēc vienošanās bērns pie tēva nenāk. Tēvs maksā uzturlīdzekļus, skolas pusdienu naudu un sedz citas bērna vajadzības. Bērna mamma nemāca bērnu, bērns skolu neapmeklē pienācīgi, nepilda uzdevumus, arī ģimenes ārsta norādījumus īpaši nepilda. Bērna tēvs jau tika izsaukts uz skolu. Vai tēvs var vērsties tiesā, lai bērna dzīvesvietu noteiktu pie tēva?",
+            "answer": ""
+        },
+        {
+            "question": "Kā pareizi rīkoties personai, kura privatizētam īpašumam nav nokārtojusi zemesgrāmatu? Veicot dzīvokļa privatizāciju, par šo faktu netika izsniegts dokuments. Patlaban pašvaldība pieprasa uzrādīt dokumentus vai arī izliks pensionāru no dzīvokļa.",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Vēlos sākt ražot grilu un malkas krāšņu iekurināmo, līdzīgi kā var nopirkt veikalā esošos sausā spirta klucīšus. Produkta sastāvā būs koka skaidas un bišu vasks. Vai ir reglamenti vai normatīvi, pēc kuriem man jāvadās Latvijā, jo Eiropā ir standarts EN 1860-3? Vai jāveic produkta pārbaudes, piemēram, laboratorijās? Vai jāveic sertifikācijas, pirms produktu pārdodu? Vai ir iestāde, kas minētos jautājumus varētu precizēt? Paldies!",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Decembrī vēlos uzņēmumā rīkot tādu kā Adventes kalendāra izlozi. Darbojos publiskā vietā ar bērniem. Doma ir izveidot nelielas dāvaniņas un sanumurēt, tad katru dienu pirmais bērns, kurš atnāks, varēs izlozēt numuriņu no trauka un saņemt dāvanu ar tādu ciparu, kādu izlozēja. Vai man šādai darbībai ir jāpieprasa loterijas reģistrācijas numurs? Vai es šādu izlozi varu publiskot uzņēmuma feisbuka lapā? Vienas dāvanas vērtība būs līdz 10 eiro. Tā kā dāvanas saņēmējs būs bērns, tad īsti neizpratu nolikumu par loteriju reģistrēšanu. Paldies.",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Ja man, piemēram, ir naudas laimests no “Latvijas Loto” un naudas summa ir ap 100 000 eiro, un man ir bankas konts Lietuvā, vai man Latvijā ir jāmaksā nodokļi par laimēto summu, ja laimests ieskaitīts Lietuvas bankas kontā, bet pats esmu Latvijas pilsonis?",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! No šī gada 3. maija esmu uz darbnespējas lapas. Man sagatavoja dokumentus invaliditātei, turpinu tālāk ārstēties. 24. oktobrī iesniegums tika reģistrēts, šodien, 22. novembrī, zvana ģimenes ārsts, ka būtu laiks sniegt atbildi, jo viņam jāzina, kas notiks tālāk. Sanāk, ka oktobrī vēl neesmu saņēmusi pabalstu, jo ārsts nenoslēdza darbnespējas lapu. Nav zināms, vai par novembri pabalstu izmaksās. Kā būt? Ar VDEĀVK nevaru sazināties, telefons vai nu ir aizņemts, vai neatbild. Sēdēt neziņā ir apnicis, ārstēties un dzīvot arī par kaut ko vajag.",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Rīgā grausta statuss ir noteikts, šķiet, 1200 ēkām. Dome liek sakārtot Eizenšteina mājas fasādi, kas maksā milzīgu naudu. Bet vecās mājas “iekšas” ar visiem stāvvadiem un atsevišķiem sapuvušajiem bēniņu pārsegumiem taču paliek! Lai to visu savestu kārtībā, ir jābūt miljonāram. Kāds ir Rīgas pašvaldības viedoklis par to: fasāde būs kārtībā, bet pārējais? Un tad noņems grausta statusu un paaugstinātu NĪN likmi, bet kanalizācija tāpat nedaudz smirdēs un ūdens uz trešo stāvu reizēm pienāks švaki. Tad vismaz vajadzētu plānot kārtīgu atbalstu šādām vēsturiskām mājām, nevis visu likt darīt iedzīvotājiem. Kad Rīgas domē būs nopietnākas māju renovācijas programmas?",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Manam tēvam pieder īpašums, uz kura atrodas dzīvojamā māja un saimniecības ēka, abas ēkas ir nepabeigtas būvniecības stadijā. 2000. gadā Valmieras rajona būvvalde viņam izsniedza izziņu, kurā par minētajām ēkām norādīts: “Projekts apstiprināts noteiktā kārtībā 1987. gada 11. maijā, viņš ir likumīgs būvētājs.” Tēvs vēlas nodot ēkas ekspluatācijā. Valmieras novada būvvalde, lai atjaunotu (vai izsniegtu jaunu) būvatļauju, no mana tēva prasa vai nu uzrādīt veco projektu, kas ne viņam, ne vietējās pašvaldības arhīvā nav pieejams, vai pasūtīt jaunu projektu, kas maksā vairākus tūkstošus eiro. Vai būvvalde šajā situācijā rīkojas likumīgi, ņemot vērā, ka būvniecība ir likumīgi uzsākta pirms aptuveni 35 gadiem, saskaņā ar tālaika likumiskajām prasībām, ko pati būvvalde 2000. gadā ir apstiprinājusi ar izziņu? Vai būvvaldei nav pienākuma atjaunot viņa pieprasīto būvatļauju attiecīgo ēku būvniecības procesa pabeigšanai?",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Biedrība, kas ir mūsu trīs daudzdzīvokļu ēku, vienas viendzīvokļa ēkas, divu garāžu ēku pārvaldnieks, piedāvā dzīvokļu īpašnieku kopībai pieteikties pašvaldības zemes atsavināšanai zem mūsu privatizētajām mājām. Kas, kad un kā ir jādara man kā dzīvokļa un domājamo daļu citās ēkās uz pašvaldības zemesgabala nomniekam, lai process notiktu korekti un mēs kā kopīpašnieki iegūtu atbilstošo zemesgabala daļu kā mūsu katra īpašuma sastāvdaļu?",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Pie tūroperatora oktobra sākumā iegādājos ceļojumu uz Ēģipti. Attiecīgi darbavietā saskaņoju atvaļinājumu. Nedēļu pirms lidojuma tūroperators paziņo, ka atlidošanas laiks ir pārcelts par 6 stundām, respektīvi, iepriekš bija paredzēts ielidot Rīgā 28.11. plkst. 01.05, bet tagad ielidošana pārcelta uz tā paša datuma plkst. 07.15. Diemžēl darbā vairs nevaru paņemt vēl vienu papildu atvaļinājuma dienu vai kaut ko mainīt, kas būtībā nozīmē to, ka jāatceļ ceļojums. Vai tad, ja šī ir reisa pārcelšana (nevis standarta kavēšanās), ir iespējams pieprasīt kompensāciju saskaņā ar Aviopasažieru EC regulu Nr. 261/2004? Tūroperators, protams, apgalvo, ka šāds apstāklis nav no tā atkarīgs.",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Vēršos pie jums, jo ir grūti interpretēt Dzīvokļa īpašuma likuma 3. un 4. pantā norādīto informāciju. Deviņstāvu ēka noslēdza līgumu par uzkopšanas darbiem kāpņu telpās. Neizpratni raisa palīgtelpa jeb laukums, kas ar durvīm norobežots no kāpņu zonas. Palīgtelpā atrodas ieejas uz dzīvokļiem, kā arī lifts. Lūdzu sniegt bez likumā norādītās informācijas skaidrojumu, kura kāpņu telpas daļa tehniskajam darbiniekam jāuzkopj. Šobrīd tehniskais darbinieks atsakās tīrīt esošo laukumu pie dzīvokļa durvīm. Liels paldies par pretimnākšanu!",
+            "answer": ""
+        },
+        {
+            "question": "Ja es vēlos iegādāties lietotu auto, kura vērtība ir 15 000 eiro, vai par to varu maksāt skaidrā naudā?",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! 2018. gadā es uzrakstīju iesniegumu domei, ka vēlos nomāt zemi malkas novietnei. Zemesgabalam ir piešķirts kadastra numurs, un es par to maksāju NĪN. Tagad būvvalde atsūtīja ziņu, ka vēlas saņemt no manis dokumentus par būvniecību. Sākot šo lietu risināt, izrādījās, ka tā ir brīva fonda zeme, kas pieder valstij. Rakstot iesniegumu domei, mani par to neinformēja. Kā es, parasts cilvēks, par to vispār varētu zināt? Man uz šī 24,5 kvadrātmetru zemesgabaliņa ir uzcelta malkas novietne. Sazinoties ar darbinieci, kura domē ir atbildīga par nekustamo īpašumu jautājumiem, es vaicāju, ko man tagad darīt, ja ir izveidojusies tāda situācija. Saņēmu atbildi neko nopietnu nebūvēt, lai gadījumā, ja valsts vēlēsies izmantot šo zemes pleķīti, man tas būs jāatbrīvo, bet par to mani iepriekš brīdinās. Kā man rīkoties šajā gadījumā?",
+            "answer": ""
+        },
+        {
+            "question": "Vai dzīvojamās mājas kopsapulces protokolā, vācot parakstus no dzīvokļu īpašniekiem, ir jānorāda dzīvokļa numurs, vārds, uzvārds? Paraksti tiek vākti, lai apmaksātu tarakānu indēšanas pakalpojumu no mājas uzkrājumu naudas. Nav skaidrs, vai protokola forma arī tiks mainīta. Samaksa, ko prasa no katra dzīvokļa, ir 15 eiro, un tā ir pārāk liela.",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! 2024. gada septembrī iegādājos OCTA polisi uz vienu gadu, t. i., līdz 2025. gada septembrim. No 2024. gada oktobra man tika noteikta 2. invaliditātes grupa. Cilvēkiem ar 2. grupas invaliditāti ir par 40% samazināta civiltiesiskās atbildības obligātās apdrošināšanas (OCTA) prēmijas maksa. Vai es varu vērsties pie apdrošinātāja un lūgt pārmaksātās summas atmaksu? Paldies.",
+            "answer": ""
+        },
+        {
+            "question": "Ja biedrībai pieder īpašums, vai ikviens tās biedrs konkrētajā īpašumā var izmantot medību tiesības un medīt nelimitētos dzīvniekus atbilstoši medību noteikumiem?",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Ir vairāki kredītu parādi/kavējumi, kurus vairs nespēju segt, un trīs gadu laikā, sakārtojot savus kontus, plānoju uzsākt maksātnespēju. Mēneša maksājums kredītiem sasniedz 1300 eiro, bet oficiālā alga neto – 1200 eiro. Paralēli kredītu summas samazinās minimāli. Pieļauju, ka vairāki kredīti tiks nodoti tiesu izpildītājam, kurš attiecīgi veiks piedziņu uz algu un tai pielīdzinātajiem ienākumiem. Manā apgādībā ir divi nepilngadīgi bērni, kuru tēvs katru mēnesi uz manu kontu skaita 420 eiro (minimālie uzturlīdzekļi). Vai piedziņu var veikt arī uz 420 eiro? Kā pareizāk rīkoties, lai tiesu izpildītājs nebloķētu kontu, ja tas ir mans vienīgais konts, kurā saņemu gan darba samaksu, gan uzturlīdzekļus un bērnu sociālo pabalstu? Paldies!",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Es kā darbinieks diezgan ilgu laiku neesmu izmantojis atvaļinājumu, ir sakrāts ap 60 dienu, un es plānoju izbeigt darba attiecības. Vai pastāv iespēja, ka daļa no tām tiks zaudēta, vai tomēr saņemšu kompensāciju par visām neizmantotajām dienām? Man apgādībā ir trīs bērni, nodokļu grāmatiņa tika iesniegta uzņēmumā.",
+            "answer": ""
+        },
+        {
+            "question": "Vai invalīds, kurš no mājokļa departamenta īrē sociālo dzīvokli, bet dažu personīgu iemeslu dēļ vairs nevar tur dzīvot un izbeidz līgumu, un pats atrod sev citu dzīvokli īrēšanai no saimnieka, var vērsties sociālajā dienestā ar prasību mājokļa pabalstam? Vai iepriekšējā dzīvesvieta sociālajā dzīvoklī var būt iemesls atteikt mājokļa pabalstu? Tagad māte, kura ir invalīde, īrē dzīvokli no saimnieka un saņem mājokļa pabalstu. Taču viņa saņēma piedāvājumu no mājokļu departamenta aplūkot sociālo dzīvokli. Ja viņa noslēgs līgumu un pārcelsies dzīvot piedāvātajā sociālajā dzīvoklī, vai, no tā pēc laika atsakoties, viņa varēs saņemt pabalstu, īrējot no saimnieka?",
+            "answer": ""
+        },
+        {
+            "question": "Cik procentu apmērā jāmaksā nodoklis, pārdodot īpašumu, ja īpašums ir lauksaimniecības zeme, kas pieder 20 gadu?",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Vēlos zināt, vai NĪN samazināto likmi dzīvoklim piemēro arī gadījumā, ja vienīgā tajā deklarētā persona to norādījusi kā papildu adresi?",
+            "answer": ""
+        },
+        {
+            "question": "Vai bezdarbnieka pabalsta aprēķinā ņem vērā visus strādātos darbus pēdējo 12 mēnešu laikā? Piemēram, strādāju divos darbos, un abi tika izbeigti pēc abpusējas vienošanās. Vai pabalsta aprēķinā tiks ņemti vērā ienākumi no abiem darbiem?",
+            "answer": ""
+        },
+        {
+            "question": "Ja man ir darbnespējas lapa un tās laikā nomirst māte, vai man ir tiesības darba devējam pieprasīt divas brīvas dienas bēru organizēšanai?",
+            "answer": ""
+        },
+        {
+            "question": "Vai SIA ir īpašums? Kāda veida īpašums ir SIA – kustamais vai nekustamais?",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Vai es varu apmaksāt izrakstītus rēķinus par savas draudzenes privātmājas būvniecību? Ja es to daru, vai uzbūvētā māja, nododot to ekspluatācijā, tiks reģistrēta kā kopīpašums? Paldies jau iepriekš.",
+            "answer": ""
+        },
+        {
+            "question": "Jautājums par elektronisko sakaru līdzekļu izvietošanu. Dzīvoju deviņstāvu dzīvojamajā mājā, kurā visi dzīvokļi ir privātīpašumā, apsaimniekotājs ir kooperatīvā sabiedrība. Kāpņu telpā, blakus elektrības sadales skapim, atrodas skapis, kurā redzami vairāki desmiti kabeļu (vadu). Arī uz mājas jumta atrodas daudz kabeļu, vadu. Tikai daži no tiem ir marķēti. Maksu par sava īpašuma izmantošanu nesaņemam, kaut arī firmas pelna! Kooperatīvā apgalvo, ka likums vairs neparedzot maksu par mūsu īpašuma izmantošanu (iepriekšējos gados firmas maksāja). Firmas brīvi staigā pa koplietošanas telpām, jumtu. Vai mājas īpašniekiem ir tiesības pieprasīt firmām nomas maksu par mājas koplietošanas īpašuma izmantošanu? Vai par to var lemt dzīvokļu īpašnieki? Kas kontrolē elektronisko sakaru pakalpojumu sniedzējus?",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Esmu iegādājusies nekustamo īpašumu daudzdzīvokļu mājā, kuru apsaimnieko īpašnieku biedrība. Līgums starp mani un biedrību nav noslēgts, tātad nesaprotu maksājumu par komunālajiem pakalpojumiem apmēru. Rēķini par pakalpojumiem tiek sūtīti neregulāri, nesaprotami (piemēram, oktobrī atsūta rēķinu par jūniju, jūliju). Proti, man izraksta rēķinu par laiku, kad vēl nebiju konkrētā dzīvokļa īpašniece. Mājā regulāri ir problēmas ar ūdens padevi (avārijas situācijas), par ko netiek brīdināts utt. Ar pārvaldnieci ir ļoti grūti komunicēt, viņa telefona sarunas laikā visu noliedz, uz e-pastiem neatbild. Kā rīkoties šajā situācijā? Vai viņai ir tiesības izrakstīt rēķinus, kā arī aprēķināt līgumsodu par kavētajiem maksājumiem, ja līgums nav noslēgts?",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Ar 01.11.2024. stājušās spēkā izmaiņas Dzīvokļa īpašuma likumā. 19.1 pantā noteikts, ka atkārtota kopsapulce ir lemttiesīga, ja reģistrētie dzīvokļu īpašnieki pārstāv vairāk nekā vienu trešdaļu no visiem dzīvokļu īpašumiem. Savukārt minētā likuma 16. panta 3. apakšpunktā norādīts: dzīvokļu īpašnieku kopības lēmums ir saistošs ikvienam dzīvokļa īpašniekam un ir pieņemts, ja “par” balsojuši dzīvokļu īpašnieki, kas pārstāv vairāk nekā pusi no dzīvojamā mājā esošajiem dzīvokļu īpašumiem. Vai likumdevējs nav pieļāvis “brāķi”, negrozot vai nepapildinot šo punktu? Vai nav sanācis tā, ka atkārtota kopsapulce ar vairāk nekā vienu trešdaļu ir lemttiesīga, taču, ņemot vērā negrozīto 16. pantu, tās lēmumi nav saistoši ikvienam dzīvokļa īpašniekam?",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Vai pieņemtie Dzīvokļa īpašuma likuma grozījumi par īpašnieku sapulcēm un lēmumiem ir attiecināmi arī uz kopīpašumiem? Paldies!",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Man pieder māja, kas atrodas uz cita īpašnieka zemes. Es maksāju piespiedu zemes nomas maksu. Vai es varu izīrēt savu māju citai personai?",
+            "answer": ""
+        },
+        {
+            "question": "Sveiki! Kur meklēt informāciju par bērna drošību bērnudārzā? Vai bērnudārza ārdurvīm, dārza vārtiņu durvīm ir jābūt aizslēgtām? Vai jebkurš drīkst ienākt bērnudārza teritorijā? Vai ir pietiekami dārza vārtiem uzstādīt tikai krampīti, ko ikviens var attaisīt? Jau iepriekš pateicos par atbildi!",
+            "answer": ""
+        },
+        {
+            "question": "2014. gadā bija tiesas spriedums, ka bērna tēvam jāmaksā uzturlīdzekļi, ja pareizi atceros – 150 eiro. Lieta gadiem stāv pie tiesu izpildītāja. Uzturlīdzekļus izmaksā UGF. Taču šobrīd minimālie uzturlīdzekļi ir 210 eiro. Vai man jāvēršas tiesā ar lūgumu palielināt maksājumus, lai pēc tam arī tiesu izpildītājs var sākt piedzīt lielāku summu? Ja ir jāvēršas tiesā, tad kāds iesniegums man jāraksta?",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Lūdzu sniegt informāciju, vai pašvaldībām nomas maksas aprēķināšanai būs jāizmanto fiskālā vai universālā vērtība. Nomāju no pašvaldības starpgabalu, kuram pašlaik nomas maksa ir 1,5% apmērā no kadastrālās vērtības.",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! 2006. gada decembrī noslēdzu pirkuma līgumu par zemes vienības (lauksaimniecības zemes) atdalīšanu un pārdošanu no sev piederošā nekustamā īpašuma. Pirkuma līgumā bija ietverts punkts, ka līgumslēdzēji vienojas apgrūtināt pārdevējam piederošo nekustamo īpašumu, nodibinot tam braucamā ceļa servitūtu par labu pircēja nekustamajam īpašumam, jo pircēja nekustamajam īpašumam apkārt ir pārdevēja nekustamais īpašums. Pārdevēja zemesgrāmatā ceļa servitūts ir ierakstīts atzīmes veidā. Pircējs izteica vēlēšanos, ka grib pats savu ceļu uz savu nekustamo īpašumu. Vienojāmies, ka no pārdevēja nekustamā īpašuma tiks atdalīta lauksaimniecības zemes vienība, kura robežojas ar iebrauktuvi pārdevēja nekustamajā īpašumā no pašvaldības ceļa, apmaiņā pret līdzvērtīgas zemes vienības platības atdalīšanu no pircēja nekustamā īpašuma. Tā kā pircējs cēla nekustamo īpašumu ēkas, dzima bērniņi, maiņu līdz galam neizdarījām. Pircējs nokļūšanu savā īpašumā veica pa servitūta ceļu, kas zemesgrāmatas nodalījumā ir kā atzīme. 2022. gada augustā pircējs sev piederošo nekustamo īpašumu pārdeva citam (tekstā – īpašnieks 1), kur pirkuma līgumā ir iekļauts punkts, ka īpašniekam 1 ir zināms nekustamā īpašuma faktiskais stāvoklis. Pārdošanas brīdī īpašnieka 1 nekustamajam īpašumam apkārt vairs nav pārdevēja nekustamā īpašuma, tas robežojas vēl ar citai personai piederošu nekustamo īpašumu, kur personas īpašums robežojas ar vietējai pašvaldībai piederošo ceļu. Savukārt īpašnieks 1 2024. gada septembrī rajona tiesā iesniedza prasības pieteikumu par ceļa servitūta nodibināšanu un tā ierakstīšanu zemesgrāmatā, lai gan īpašniekam 1 bija zināma pārdevēja un pircēja zemes vienību maiņa. Pārdevējam ar īpašnieku 1 2024. gada jūlijā par to bija saruna un uz vietas maināmo zemes vienību aptuveno robežu apskate. Vai pārdevējs (es) varu nepiekrist ceļa servitūta nodibināšanai un ierakstīšanai zemesgrāmatā?",
+            "answer": ""
+        },
+        {
+            "question": "Kur atrast un kā iesniegt e-iesniegumu vecuma pensijas pārrēķinam?",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Vai es no sava individuālā komersanta konta drīkstu aizdot naudu savam SIA? Gribu aizdot 10 000 eiro.",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Noteiktā laikposmā man ir nepieciešams 2–3 reizes mēnesī apmeklēt ārstu. Vizīšu grafiks ir saplānots. Tās notiek darba dienās. Vēlējos noskaidrot, ja šī gada periodā jau esmu izmantojusi daļu ikgadējā atvaļinājuma, tas ir, divas nedēļas bez pārtraukuma, vai juridiski ir iespējams vienoties ar darba devēju, ka dienas, kas nepieciešamas ārsta vizītei, tiek ņemtas no atlikušā atvaļinājuma dienām? Darba devējs ir pašvaldības iestāde.",
+            "answer": ""
+        },
+        {
+            "question": "Esmu dzimusi 1966. gada septembrī, esmu daudzbērnu māte, man ir pieci bērni. Vai man ir tiesības uz priekšlaicīgu pensiju?",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Vai ārstam un māsai ir paredzēta atbildība gadījumā, ja pacienta stacionārajā kartē tiek ierakstīta nepatiesa vai maldinoša informācija? Saņemot savu pacienta karti, es konstatēju pakalpojumus, procedūras un medikamentus, kurus neesmu saņēmusi. Kā man rīkoties?",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Esmu saņēmusi brīdinājumu par maksājumu saistību piespiedu izpildīšanu, kur bija norādīts, ka man jāveic pilnas summas maksājums pieteicējam 14 dienu laikā no brīdinājuma izsniegšanas dienas. Brīdinājums tika izrakstīts 07.11., taču es to saņēmu 12.11., summa, kas jāatmaksā, ir 3600 eiro. Kad sazinājos ar pieprasītāju, lai vienotos par to, ka veikšu maksājumu pa daļām, saņēmu atteikumu. Atbildēja, ka viņiem ir noteikts termiņš 14 dienas. Esmu gatava maksāt labprātīgi, bet pa daļām, taču diemžēl saņēmu atteikumu. Vai parādniekam ir kādas tiesības šādos gadījumos?",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Mēs ar vīru laulības laikā esam iegādājušies dzīvokļus. Uz vīra vārda zemesgrāmatā ir ierakstīti trīs dzīvokļi, savukārt uz mana vārda zemesgrāmatā ir ierakstīti divi dzīvokļi. Tos katrs uz sava vārda atsevišķi izīrējam. Esam deklarējušies VID kā saimnieciskās darbības veicēji, kā arī katru gadu deklarācijā esam norādījuši ieņēmumus un katrs atsevišķi esam arī nomaksājuši nodokļus. Vai es kā sieva varu uz sava vārda izīrēt dzīvokļus, kas zemesgrāmatā ierakstīti uz vīra vārda, kā arī ienākumus par izīrēšanu saņemt uz savu kontu, jo vīrs negrib nodarboties ar izīrēšanu? Kopdzīves laikā visus ieņēmumus un izdevumus esam rēķinājuši kopā. Vai vīram būtu jāuzraksta piekrišana par dzīvokļu izīrēšanu, norādot, ka ieņēmumi par dzīvokļiem jāieskaita sievas kontā? Vai piekrišana jāiekļauj kādā no punktiem īres līgumā? Paldies!",
+            "answer": ""
+        },
+        {
+            "question": "Mūsu privatizētajā daudzdzīvokļu mājā pārvaldnieks izsludināja aptauju mājas pārstāvja ievēlēšanai no 5. līdz 20. novembrim. Aptaujas paziņojums un anketa tika nosūtīts tikai e-pastā. Šodien ir 10. novembris, bet priekštelpās vai citās redzamās vietās sludinājumu nav, anketas nav nodrošinātas, vairāki dzīvokļu īpašnieki par aptauju nezina. Anketu vākšanu paredzēts veikt ar e-parakstu vai iemetot anketas pastkastītē, kurai var piekļūt tikai viens no kandidātiem un viņa sieva. Ne visi iedzīvotāji izmanto e-pastu, vēl retāk ir printeris, tikai nedaudziem ir e-paraksts. Vai aptaujas organizētājam (šajā gadījumā – pārvaldniekam) visiem dzīvokļu īpašniekiem būtu jānodrošina rakstveida (tas ir, drukātas uz papīra) paziņojumu un anketas veidlapas? Vai ir noteikumi par objektīvu balsu skaitīšanu? No kura brīža aptauja tiek uzskatīta par sāktu – no paziņojumā norādītā datuma vai no brīža, kad dzīvokļu īpašnieki faktiski ir saņēmuši paziņojumu un anketas? Aptaujas anketā paredzētas ļoti plašas organizatoriskās, tehniskās un finansiālās pilnvaras ievēlētajam mājas pārstāvim, kas gandrīz pilnībā izslēdz dzīvokļu īpašnieku turpmāku līdzdalību mājas pārvaldīšanā. Vai ir noteikumi vai ierobežojumi mājas pārstāvja pilnvarām?",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Vai ir iespējams izvēlēties pirmās instances tiesu, vai arī tā tiek noteikta atbilstoši personas deklarētajai dzīvesvietai? Vai pastāv izņēmumi vai īpaši gadījumi, kad persona var izvēlēties tiesu, piemēram, ņemot vērā, vai tā ir civillieta, administratīvā vai krimināllieta?",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Nav pilnībā skaidrs kapitāla pieauguma nodoklis mūsu situācijā. Esam ģimene un dažādu apstākļu dēļ esam uzbūvējuši nelielu māju uz sev piederošā zemesgabala, būvniecības izmaksas ir aptuveni 50 000 eiro. Māja tika ierakstīta zemesgrāmatā 19.08.2022. Jau mājas būvniecības laikā zinājām, ka to izmantojam kā pagaidu dzīvesvietu un nākotnē plānojam iegādāties zemi, uz kuras būvēt pastāvīgo ģimenes māju. 13.09.2024. mēs iegādājāmies zemesgabalu, uz kura būvēt nākamo māju. Iegādes cena bija 105 000 eiro. Lai uzbūvētu pastāvīgo māju, plānojam pārdot esošo māju ar zemi par 180 000 eiro. Esošo māju pārdosim 25.09.2025. par 180 000 eiro, kas ir vairāk nekā gadu pēc zemesgabala iegādes, bet mazāk nekā piecus gadus, kopš māja tika uzbūvēta un mēs dzīvojam tajā. Šajā brīdī mums būs divi īpašumi – māja, kurā dzīvojam, un zemesgabals, ko iegādājāmies 13.09.2024. un uz kura plānojam celt pastāvīgo māju. Teorētiski mēs esam ieguvuši māju par 50 000 eiro un pārdevuši par 180 000 eiro, veidojot 130 000 eiro starpību. Nākamās mājas būvniecībā tuvākā gada laikā pēc pagaidu mājas pārdošanas plānojam ieguldīt 100 000 eiro, savukārt zemi iegādājāmies vairāk nekā pirms gada par 105 000 eiro. Kā tādā gadījumā pareizi aprēķināt kapitāla pieauguma nodokli? Skatos uz konkrēto punktu, bet nav skaidrs, vai tas attiecas uz mums: “Ir vienīgais zemesgrāmatā reģistrētais nekustamais īpašums, no kura gūtais ienākums tiek ieguldīts funkcionāli līdzīgā nekustamajā īpašumā 12 mēnešu laikā pirms vai pēc nekustamā īpašuma atsavināšanas.” Pirmkārt, nesaprotu, kā var ieguldīt funkcionāli līdzīgā īpašumā pirms vienīgā īpašuma atsavināšanas, jo, ieguldot citā īpašumā, jau ir divi īpašumi un vairs nevar atsavināt vienīgo. Otrkārt, ir norādīts termiņš, ka ieguldījumi jāveic 12 mēnešu laikā pēc atsavināšanas, bet nav minēts, cik mēnešu pirms atsavināšanas var ieguldīt. Nav arī skaidrs, ja es māju pārdodu vairāk nekā gadu pēc zemesgabala iegādes, pieņemot, ka ieguldīt var 12 mēnešus pirms atsavināšanas, zemes iegādes izdevumus (105 000 eiro) varu attiecināt uz ieguldījumu līdzīgā vienīgajā īpašumā. Ja zemi būšu iegādājies vairāk nekā 12 mēnešus pirms esošās mājas pārdošanas un pārdošanas brīdī būs divi īpašumi, tas neļauj arī 100 000 eiro, kas ir mājas būvniecības izmaksas, iekļaut ieguldījumos līdzīgā īpašumā.",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Privātpersona ir aizdevusi lielu naudas summu citai privātpersonai SIA uzņēmējdarbības uzsākšanai. Savstarpēji tika parakstīts līgums par aizdevuma atmaksas kārtību, kur tika norādīts aizdevuma atmaksas konts, kas pieder fiziskajai personai. Aizņēmējs ik mēnesi veic pārskaitījumu aizdevuma atmaksai, maksājuma mērķī norādot “SIA x aizdevuma atmaksa”. Vai saņēmējam/aizdevējam šī summa ir jādeklarē? Vai par atpakaļ saņemto naudu jāmaksā nodoklis, ņemot vērā, ka aizdevējs negūst it nekādu peļņu, saņemot atpakaļ aizdoto naudas summu, bet tādā gadījumā vien zaudē, jo papildus jārēķinās ar nodokli?",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Šobrīd mēģinu saprast, kā fizisko mantojuma daļu ietekmēs tas, ja es no vecākiem mantoju pilnībā visu, piemēram, personīgo automašīnu, dzīvokli un juridisko firmu SIA, kurai ir nodokļu parāds. Ja es nespēšu segt firmas nodokļu parādu, es taču varu firmai veikt bankrota procedūru? Firmas papīros fiziskā manta nekādi nefigurē un nav apgrūtināta.",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Esmu uzteikusi darbu. Darba devējs izdeva rīkojumu par darba tiesisko attiecību izbeigšanu. Personāla speciāliste man lika rīkojumu parakstīt, taču man vienu eksemplāru neizsniedza. Viņa teica, ka man tas nepienākas. Vai tiešām tā ir? Manuprāt, visiem rīkojumiem, kas saistīti ar mani, jābūt arī man.",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Pirms 20 gadiem iegādājos dzīvokli privātmājā, kurā ir četri dzīvokļi. Šogad tika veikta dzīvokļa pārbūve. Projektētāja, taisot pārbūves projektu, norādīja, ka mūsu dzīvoklim ir nelikumīgi ierīkotas ieejas durvis. Respektīvi, visus šos gadus esam izmantojuši mazu daļu no koplietošanas koridora kā privāto koridoru. Gribam veikt nelikumīgās būvniecības legalizēšanu. Visi kaimiņi ir informēti un nepretendē uz šo telpu, kas ir nepilni 2 m². Ir izsnieguši pilnvaras par būvniecības ieceres īstenošanu. Tāpat ir izstrādāts projekts, būvvalde ir noteikusi būvdarbu izpildes nosacījumus. Nosacījumi ir absurdi. Tie paredz veikt fiktīvu darījumu, piesaistīt SIA vai IK ar būvdarbu vadītāju, abiem jābūt izsniegtām OCTA, man jāslēdz līgums par darbu izpildi. Būvvalde ir informēta, ka durvis iebūvētas pirms vairāk nekā 20 gadiem, bet vienalga uzstāj uz fiktīvām darbībām. Vai pastāv iespēja legalizēt nelikumīgo būvniecību, neveicot fiktīvas darbības?",
+            "answer": ""
+        },
+        {
+            "question": "Sakiet, lūdzu, vai laikā, kad jaunietis atrodas valsts aizsardzības dienestā (11 mēneši), saglabājot darba vietu, tiek saglabāts arī atvaļinājuma periods? Vai arī to uzskata par bezalgas atvaļinājumu?",
+            "answer": ""
+        },
+        {
+            "question": "Sveiki! Pašreiz atrodos BKA, bet tuvojas brīdis, kad jāatgriežas darba vietā. Biju uz tikšanos ar darba devēja pārstāvi. Mani informēja, ka tiks izveidots līgums ar jaunu stundas likmi, kura ir mazāka, nekā pirms es devos BKA, pamatojoties uz to, ka vairs neesot vietas, kur pirms tam strādāju, tikai vīrieši tagad varot strādāt konkrētajā pozīcijā. Man piedāvā iet uz citu nodaļu, kur saņemšu mazāku likmi nekā iepriekš. Darbs ir maiņās, diena un nakts. Vai darba devējs drīkst samazināt man iepriekš nolīgto stundas likmi? Ko varu darīt, lai to nepieļautu?",
+            "answer": ""
+        },
+        {
+            "question": "SIA ir noslēgts darba līgums ar fiktīvu personu, kurai maksā darba algu, bet faktiski darbs netiek veikts. Kādas institūcijas kompetencē ietilpst minētā pārkāpuma kontrole? Vai ir noteikta atbildība par šāda veida pārkāpumiem?",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Es strādāju algotu darbu, bet paralēli vēlos uzsākt savu uzņēmējdarbību. Spēkā esošajā darba līgumā ietverts šāds punkts: “Darbiniekam bez Darba devēja iepriekšējas rakstiskas piekrišanas nav tiesību veikt blakus darbu šajā līgumā nolīgtā darba laika ietvaros. Lai aizsargātu Darba devēju no tādas Darbinieka darbības, kas var radīt konkurenci Darba devēja komercdarbībai, Darbiniekam ir aizliegts veikt jebkādu blakus darbu, individuālo saimniecisko vai profesionālo darbību vai komercdarbību vai citādi tieši vai netieši iesaistīties citas fiziskas vai juridiskas personas vai personu apvienības darbībā, kas ir tāda pati vai līdzīga Darba devēja komercdarbībai. Blakus darba vai konkurences ierobežojumu pārkāpšana jebkurā gadījumā tiks atzīta par būtisku darba līguma pārkāpumu.” Darba devēja komercdarbība tiek veikta šādos darbības veidos: ķīmisko vielu vairumtirdzniecība (46.75) un metālizstrādājumu cauruļu, apkures iekārtu un to piederumu vairumtirdzniecība (46.74). Plānotā biznesa veids būtu mēbeļu ražošana (31.0). Esošajā darba vietā darba laiks ir no pirmdienas līdz piektdienai, no plkst. 8.00 līdz 17.00. Darbs uzņēmumā notiktu ārpus minētā darba laika. Vai man ar pašreizējo darba devēju jāsaskaņo savas uzņēmējdarbības uzsākšana?",
+            "answer": ""
+        },
+        {
+            "question": "Vai likums nosaka, no cik daudz īpašnieku jāveido kooperatīvā sabiedrība? Ja nekustamajā īpašumā ir trīs īpašnieki, katram savs īpašums, vai obligāti visiem dzīvokļu īpašniekiem jāveido kooperatīvā sabiedrība?",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Sakarā ar Dienvidu tilta projektu šogad tika izzāģēta plaša meža platība. Līdz ar to pie meža esošo māju teritorijās ir ievērojams žurku populācijas pieaugums un aktivitāte. Vai šādā situācijā tiks veikti kādi žurku ierobežošanas pasākumi? Vai ir kāda iestāde, kurai var ziņot par šo problēmu un lūgt palīdzību? Paldies!",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Šobrīd atrodos bērna kopšanas atvaļinājumā, kas beigtos ar 2025. gada 19. maiju, kad jāatgriežas darbā. Taču esmu stāvoklī, un, ņemot vērā prognozējamo bērniņa dzimšanas datumu, es “jaunajā” grūtniecības atvaļinājumā došos, pirms man jāatgriežas darbā: 2025. gada 11. maijā. Tātad es darbā nemaz neatgriezīšos. Kā tiks aprēķināti visi mani pabalsti: maternitātes pabalsts, kas ir divi lielie maksājumi, un ikmēneša vecāku pabalsts? Paldies!",
+            "answer": ""
+        },
+        {
+            "question": "Strādāju Islandē. Tur maksāju visus nodokļus. Esmu Latvijas rezidente. Naudu vajadzības gadījumā konvertēju uz savu bankas “Citadele” kontu. Nupat saņēmu vēstuli no VID. Vai man vēlreiz jāmaksā nodokļi? Kā man tagad rīkoties?",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Vai darba likumdošana paredz, ka viens cilvēks var strādāt divās darba vietās uz pilnu slodzi? Paldies par atbildi!",
+            "answer": ""
+        },
+        {
+            "question": "Vēlos doties vienu nedēļu atvaļinājumā 2024. gada decembrī. Atvaļinājuma sākuma datums ir 27. decembris. Kurā datumā beidzas atvaļinājums ar visām pārceltajām brīvajām dienām (sarkanajiem datumiem)?",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Strādāju valsts iestādē, nolīgts piecu dienu darba laiks (no pirmdienas līdz piektdienai). Man pienākas viena nedēļa atvaļinājuma, uzrakstīju iesniegumu no pirmdienas (18. novembra) līdz nedēļas beigām, plus viena diena klāt pie atvaļinājuma par 18. novembri. Darba devējs norāda, ka iesniegums ir nekorekts, jāraksta no 19. novembra. Vai, strādājot valsts un pašvaldību iestādēs, atvaļinājumu nevar sākt ar valstī noteikto svētku dienu? Paldies!",
+            "answer": ""
+        },
+        {
+            "question": "Sveiki! Es uzņēmumam no fiziskas personas vēlos iegādāties auto. Vai par auto iegādi ar fizisku personu ir iespējams norēķināties  skaidrā naudā, izņemot naudu no uzņēmuma konta? Auto vērtība nepārsniedz 4000 eiro.",
+            "answer": ""
+        },
+        {
+            "question": "Plānoju no 16.12.2024. uz divām nedēļām doties atvaļinājumā. Iestādes sistēma rāda, ka atvaļinājums šajā gadījumā ir līdz 03.01.2025. Grāmatvedība papildus norāda, ka ir apmaksājamas tikai deviņas darba dienas un 14.12.2024. man ir jāierodas darbā, kaut arī 23.12.2024. ir mana atvaļinājuma diena. Kā ir pareizi konkrētajā situācijā?",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Kur es pati varu redzēt atlūguma iemeslu sistēmā: pēc paša vēlēšanās vai pušu vienošanās?",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Jēkabpils novadā pirms diviem gadiem dega dzīvoklis, nodega gan durvis, gan arī logi. Māja ir apdzīvota, tajā nav centrālās apkures, bet ir alternatīvā apkure. Izdegušais dzīvoklis tāds ir joprojām un mājai rada lieku mitrumu, apgrūtina pārējos iedzīvotājus, dzīvokļos ir ļoti vēss. Pašvaldība atsakās kaut ko darīt lietas labā, atrunājas, ka nav līdzekļu. Ko iesakāt darīt?",
+            "answer": ""
+        },
+        {
+            "question": "Esmu godīgi veicis ātro kredītu atmaksu, bet ir sanācis tā, ka šobrīd ar to netieku galā slimības dēļ, taču aizdevēji to nesaprot. Kā man pareizi rīkoties? Zinu, ka paņemtos ātros kredītus atmaksāšu. Runa ir par nesamērīgiem soda procentiem. Paldies!",
+            "answer": ""
+        },
+        {
+            "question": "Vai darba devējs redz, kur tiek lietota veselības apdrošināšana?",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Pāris stundu pēc darba laika beigām, atrodoties mājās, guvu traumu, pēc kuras man iestājās ilgstoša darbnespēja, un nokļuvu slimnīcā. Ārsti norādīja, ka nelaimes gadījuma cēlonis bijis ilgstošs stress, naktsmaiņas vairākus gadus un liela fiziskā slodze, kā arī apliecināja, ka trauma varēja rasties jebkurā brīdī un tikai sagadīšanās dēļ tas notika mājās. Vai ārstu fakti, ka traumas cēlonis bija darba specifika, varētu būt pamats uzskatīt, ka trauma notikusi, pildot darba pienākumus?",
+            "answer": ""
+        },
+        {
+            "question": "Sveiki! “Ja ir iestājies lietošanas maksas samaksas nokavējums, parādnieks zemes īpašniekam atlīdzina katra kavētā maksājuma atgūšanas izdevumus 30 eiro apmērā, ja vien zemes īpašnieks pats nav vainojams nokavējumā. Izdevumu atlīdzināšana neatbrīvo parādnieku no pienākuma atlīdzināt zemes īpašniekam radušos zaudējumus, ciktāl tie pārsniedz minētos izdevumus.” Vai tas nozīmē, ka nākamajā rēķinā tiek iekļauti papildu 30 eiro kā sods, jo laikus nesamaksāju?",
+            "answer": ""
+        },
+        {
+            "question": "Cilvēks ir uzturlīdzekļu parādnieks. Pašlaik ir grūtības ar veselību, izrādās onkoloģiska slimība.\nVai ir iespējams uz laiku saņemt parāda atmaksas brīvdienas?",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Jautājums par uzturlīdzekļiem, ko tēvs ik mēnesi bērnam nelabprāt maksā. Jau sākot maksāt ikmēneša uzturlīdzekļus, no bērna tēva izskanēja brīdinājums: “Tāpat visu atgūšu atpakaļ, būs jāatmaksā.” Tā viņš teica pēc konsultācijas ar savu juristu. Kā šī situācija ir risināma, pie kādiem apstākļiem un kādā kārtībā, un vai vispār tā notiek dzīvē? Proti, apgalvojums, ja tiks maksāti uzturlīdzekļi, tēvs vecumdienās var juridiski “piespiest” bērnu viņu uzturēt. Kā jūs detalizēti komentētu šādu uzstādījumu? Pateicos!",
+            "answer": ""
+        },
+        {
+            "question": "Dzīvokļu īpašnieku kooperatīvās sabiedrības priekšsēdētājs aicina balsot par jautājumu, vai ir nepieciešams veikt iekšējo revīziju. Motivācija, ka ir jau veikts audits. Tās ir līdzīgas, bet dažādas lietas. Vai ir veids, kā likt veikt iekšējo revīziju, ja ir aizdomas par naudas izšķērdēšanu?",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Pirms 6 gadiem ar bijušo vīru/bērna tēvu noslēdzu vienošanos pie notāra par minimālo uzturlīdzekļu maksāšanu. Bērna tēvs par bērnu neliekas ne zinis un uzturlīdzekļus nav maksājis. Pēc pieciem mēnešiem iesniedzu iesniegumu Uzturlīdzekļu garantiju fondam ar lūgumu veikt uzturlīdzekļu izmaksu no valsts budžeta. Ņemot vērā šībrīža augstās cenas, lielās izmaksas par audiologopēdu un psihologu, un ārpus izglītības iestādes apmeklētajām sporta nodarbībām (rēķinot tikai šos izdevumus par sporta nodarbībām un medicīniskajiem pakalpojumiem, ik mēnesi sanāk maksāt ap 300 eiro), vēlos noskaidrot:\nVai man ir tiesības iesniegt tiesā prasību, lai bērna tēvs sedz starpību starp attiecīgajā gadā noteikto minimālo uzturlīdzekļu apmēru un UGF izmaksāto?\nJa uz pirmo jautājumu atbilde ir pozitīva, tad kā pareizi noformulēt prasību (parāda piedziņa)?\nVai Latvijā ir bijusi šāda tiesu prakse, un, ja jā, vai var palūgt atsauci uz kādu nolēmumu?\n\nJā, zinu, ka man ir tiesības un es noteikti uzvarētu tiesā, ja iesniegtu prasību par uzturlīdzekļu apmēra palielināšanu, bet nevēlos spert šo soli, negribu, lai bērns pēc tam būtu “parādā” šim cilvēkam, proti, lai bērnam nebūtu pienākums uzturēt šo cilvēku vecumdienās.",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Ja bērna tēvs valstī noteiktos ikmēneša uzturlīdzekļus vairākus gadus maksā mazākā apmērā, vai ilgtermiņā starpība starp viņa maksāto un valsts noteikto minimumu veido parādu? Tiesas sprieduma par uzturlīdzekļu piedziņu nav, tā ir summa, kas mēnesī tiek pārskaitīta no viņa puses, bet neatbilst valstī noteiktajam. Paldies!",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Lūgums sniegt atbildi par vidējo izpeļņu. Jautājumi par vidējo izpeļņu ir saprotami, ja persona ir strādājusi divus vai trīs mēnešus, tad vidējā izpeļņā tiek iekļauts viss nostrādātais laika periods līdz attaisnotās prombūtnes sākumam. Bet, piemēram, persona darba tiesiskās attiecības ir uzsākusi 20. maijā. No 11. novembra ir atvērta darbnespējas lapa A. Kāds ir vidējās izpeļņas periods? Ja skaita periodu no 20. maija līdz 11. novembrim, tad persona vēl nav nostrādājusi pilnus sešus mēnešus (pilni seši mēneši būtu 19. novembrī)?",
+            "answer": ""
+        },
+        {
+            "question": "Vai pareizi saprotu, ka cilvēkam, kurš saņem 2. grupas invalīda pensiju, kuram šī pensija ir vienīgais ienākumu avots un kuram pēc visiem pastāvošajiem normatīviem ir piešķirts maznodrošinātās personas statuss, kurš saņem mājas aprūpes un mājokļa pabalstus, zvērināts tiesu izpildītājs var atvilkt naudu no viņa pensijas, ja tā pārsniedz 350 eiro? Jo tad sanāk, ka sociālie dienesti cilvēkam izmaksā pabalstus, bet tajā pašā laikā ZTI atvelk naudu no viņa pensijas. Veidojas absurda situācija, ka vienlaikus vienā galā pieliek klāt, otrā galā – noņem. Vai tā nav juridiska “viltība”? Jo zināms, ka ZTI nedrīkst aiztikt pabalstus, bet drīkst noņemt no pensijas. Taču šajā gadījumā sanāk, ka tas ir viens un tas pats. Ņem, no kura gala gribi.",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Vai ir obligāti jādeklarē mantotie naudas līdzekļi, kas pārsniedz 10 000 EUR, un kādas būs sankcijas, ja šī prasība netiks izpildīta?",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Pagājušajā gadā man no azartspēlēm bija ienākumi vairāku tūkstošu eiro apmērā, bet nebiju iesniedzis gada ienākumu deklarāciju. Vai man tagad, kad VID ir atsūtījis vēstuli, ka gaida paskaidrojumu par naudas summām, būs jāmaksā IIN 23%? Jo laimējot jau tāpat maksājam nodokli par to. Paldies.",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Es esmu Latvijas pilsone, bet šobrīd dzīvoju ārzemēs (Portugālē). Tomēr esmu nodarbināta un sociāli apdrošināta Latvijā (strādāju attālināti Latvijas kompānijā un maksāju nodokļus Latvijas valstij). Tagad man ir 25. grūtniecības nedēļa. Dzemdēt bērnu plānoju šeit, Portugālē. Tā kā es maksāju visus nodokļus Latvijā, nevis Portugālē, rodas jautājums: ko man vajag izdarīt, lai saņemtu maternitātes pabalstu par visu grūtniecības un dzemdību atvaļinājuma laiku? Pēc bērna piedzimšanas es plānoju kādu laiku nestrādāt, līdz ar to gribu noformēt bērnu kopšanas atvaļinājumu. Kā man to vislabāk izdarīt? Zinu, ka manam ārstam Portugālē jāaizpilda forma E116: kur to var dabūt? Internetā tā ir pieejama tikai latviešu vai portugāļu valodā. Vai kopā ar šo formu vajag iesniegt vēl kādus dokumentus?",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Man ir 61 gads. Esmu strādājusi pirms 1996. gada un 15 gadus pēc šī gada Latvijā un maksājusi sociālās iemaksas. Pēc tam 10 gadus dzīvoju un strādāju Lielbritānijā. Vai pēc jaunā likumprojekta pieņemšanas nevarēšu saņemt vecuma pensiju? Jo no nākamā gada stāsies spēkā norma, ka jānostrādā 20 gadi. Es veselības stāvokļa dēļ nevaru strādāt, esmu 2. grupas invalīds.",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Vai Latvijas VID saņem informāciju par citā ES valstī (piemēram, Lietuvā) atvērtu bankas kontu? Vai, izmantojot Lietuvas bankas kontu, jāievēro tie paši Latvijas noteikumi par limitiem u. tml.?Paldies.",
+            "answer": ""
+        },
+        {
+            "question": "Decembrī uzņēmumā gaidāma darbinieku skaita samazināšana. Man ir noslēgts līgums uz noteiktu laiku, līdz septembrim. Esmu grūtniece. Zinu, ka darba devējam ir tiesības nepagarināt līgumu, bet vai viņam ir tiesības šobrīd uzteikt man darbu sakarā ar darbinieku skaita samazināšanu?",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Vēlos aiziet no darba, parakstot abpusējo vienošanos. Bija operācija, un 12 h darbu vairs nevaru strādāt. Slimības lapa ir jau 5 mēnešus. Ja darba devējs mani neatlaiž uz abpusējas vienošanās pamata, tad kā man rīkoties?",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Vai darba devējs var atlaist darbinieci, kura ir pieņemta darbā uz noteiktu laiku, bet uzzina, ka ir stāvoklī?",
+            "answer": ""
+        },
+        {
+            "question": "Es neesmu darba ņēmēja vai pašnodarbināta persona, esmu vidusskolniece. Pirmo reizi piedalīšos vienā pasākumā kā pārdevējs, kur man būs jāmaksā pasākuma organizatoram 10% no ietirgotās naudas un vēl dalības maksa. Vai ir vēl kādi nodokļi, kas man būs jāsamaksā, un vai ir noteikta summa, par kuru man nav jāmaksā nodoklis?",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Mans draugs, ar kuru esmu saderinājusies, pārskaitīja man 4000 eiro kā dāvinājumu jaunas automašīnas iegādei. Vai šī summa ir jādeklarē, un vai par to ir jāmaksā kāds nodoklis? Vai tad, ja es pārskaitītu šo pašu summu atpakaļ viņa kontā, viņam būtu nepieciešams šo summu atkal deklarēt un arī maksāt nodokļus? Paldies!",
+            "answer": ""
+        },
+        {
+            "question": "Vai mantojuma atstājēja māsa vai brālis ir neatraidāmie mantinieki?",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Šī gada septembrī es iegādājos dzīvokli. Namu pārvaldnieks atsūtīja jaunu rēķinu par oktobri, kurā iekļāva arī parādu par zemes nomu 2022./2023. gadā, pamatojoties uz tiesas lēmumu, kurš stājās spēkā septembra beigās. Vai es esmu atbildīga par parādu nomaksu, vai arī tas ir jāapmaksā iepriekšējiem īpašniekiem?",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Kā rīkoties, ja zemnieku saimniecība, nesaskaņojot ar īpašnieku, tas ir, mani (ne informējot, ne arī izsakot vēlmi nomāt zemi), negodprātīgi vairākas reizes ir pieteikusies uz subsīdiju maksājumiem par manā īpašumā esošu lauksaimniecības zemi? Kā rīkoties?",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Esmu iegādājusies īpašumu, kurā pirms 20 gadiem ir izveidots 3000 kvadrātmetru liels dīķis. Vai es varu un vai vajag to ierakstīt zemesgrāmatā?",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Vai es varu no pasta konta pārskaitīt naudu uz bankas kontu,  ja man ir pieslēgta mobilā lietotne?",
+            "answer": ""
+        },
+        {
+            "question": "Esmu pašnodarbināta persona. Kādā gadījumā man aug darba stāžs? Piemēram, es nopelnu 800 eiro un izdevumos aiziet 300 eiro, nomaksāju 10% nodokli pensijas uzkrājumam no 500 eiro, vai darba stāžs aug? Vai tomēr darba stāžs aug tikai tad, ja es nomaksāju iedzīvotāju ienākuma nodokli?",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Vēlos uzdot jautājumu par apgādājamajiem – laulāto, vecākiem, vecvecākiem un pilngadīgajiem bērniem –, ja šiem radiniekiem ir invaliditāte un ja viņi paši nestrādā. Vai meita var  uzlikt sev kā apgādājamo tēvu ar invaliditāti, kurš ir pensijā un nestrādā?",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Mana īpašuma teritorijā ir apgrūtinājums: elektrības kabelis, kas ir ierakts zemē (par to nav ieraksta zemesgrāmatā). Kad es iegādājos zemesgabalu, šis tīkls netika minēts zemesgrāmatā kā apgrūtinājums, par to uzzinājām tikai tad, kad pasūtījām topogrāfiju, lai uzsāktu celšanas darbus. Šobrīd, lai es savam īpašumam varētu uzstādīt žogu, man ir jāatkāpjas metru no elektrokabeļa (kas atrodas uz mana īpašuma), tādējādi zaudējot 2,5 m sava īpašuma. Vai šādā situācijā es varu pieprasīt, lai “Sadales tīkls” pārnes savu kabeli? Vai man tas ir jādara par saviem līdzekļiem, vai vismaz var izskatīt kompromisu apmaksai?",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Gribēju uzzināt, vai personām ar 3. invalīdes grupu pastāv iespēja palielināt pensijas izmaksas no minimuma, ja vēl nav sasniegta vecuma pensija un ir mēneša ienākumi virs 2000 eiro bruto pēdējos 5 gadus.",
+            "answer": ""
+        },
+        {
+            "question": "Kā rīkoties personai, ja tā vēlas no policijas izņemt aizgājušā tuvinieka mantas, taču persona fiziski nevar ierasties norādītajā policijas iecirknī? Vai viņa var pilnvarot citu personu mantu izņemšanai no policijas iecirkņa? Ja jā, tad kāda veida pilnvara ir vajadzīga?",
+            "answer": ""
+        },
+        {
+            "question": "Diennakts tumšajā laikā ar automašīnu pa savu joslu braucu garām vairākām brauktuves malā novietotām automašīnām, kad pēkšņi priekšā stāvošajai automašīnai atvērās vadītāja durvis un es tās nedaudz aizķēru ar savu auto. Pēc tam pabraucu nedaudz tālāk, ieslēdzu avārijas gaismas un apstājos. Izkāpu laukā, novērtēju savu auto, nekādu bojājumu nebija, vainīgais autovadītājs, kurš atvēra durvis, arī pie manis nenāca, kaut gan domāju, ka mana automašīna bija labi pamanāma ar ieslēgtām avārijas gaismām. Viss notika tik strauji, ka es īsti neievēroju, kurai tieši no visām stāvošajām automašīnām durvis tika atvērtas, tāpēc domāju: ja iešu meklēt, varu arī neatrast vainīgo, kā arī man automašīnā atradās pirmsskolas vecuma bērns, kuram tajā brīdī nebija piemērots apģērbs, lai aukstā lietus laikā nāktu man līdzi, un es viņu nevarēju arī vienu atstāt automašīnā, tāpēc pagaidīju kādas piecas, sešas minūtes un devos prom. Iela ir vienvirziena ar divām joslām, tāpēc nevarēju apgriezties un braukt atpakaļ, lai atrastu vadītāju, kurš atvēra durvis. Vai man var piemērot sodu par notikuma vietas pamešanu? Kā šobrīd būtu pareizāk rīkoties? Negadījuma brīdis ir fiksēts manā videoreģistratorā.",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Vai pastāv likums, kas noteic, cik atlīdzību var pieteikt par vienu un to pašu ceļojuma apdrošināšanas gadījumu? Ceļojuma laikā man aizkavējās koferis, man bija privāti iegādātas divas ceļojuma apdrošināšanas. Vai es varu iesniegt atlīdzību katrā apdrošināšanā un saņemt par to atlīdzību? Viena apdrošināšana ir izmaksājusi kompensāciju, bet otra pieprasa pirmās apdrošināšanas izmaksas aprakstu. Paldies!",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Šogad februārī nomira māte. Oktobrī es, māsa un tēvs saņēmām mantojumā mammas dzīvokli. Es dzīvoklī esmu deklarēta no februāra. Dzīvokļa vērtējums ir 50 000 EUR. Vai, pārdodot savu dzīvokļa daļu, man būs jāmaksā nodoklis valstij?",
+            "answer": ""
+        },
+        {
+            "question": "Kam un kā pieteikt kalendāram personvārdu? Portālā latvija.lv nevaru atrast iepriekš jūsu atbildēs minēto “Iesniegumu iestādei”.",
+            "answer": ""
+        },
+        {
+            "question": "Vai apsaimniekotājs ir tiesīgs paaugstināt apsaimniekošanas maksu, pamatojoties uz līgumu, ja vairāk nekā 50% mājas iedzīvotāju iepriekš ir noslēguši apsaimniekošanas līgumu ar apsaimniekotāju par to, ka vienreiz gadā drīkst paaugstināt apsaimniekošanas maksu atbilstoši inflācijai, bet mājā ir iedzīvotāji, kuri nav parakstījuši līgumu, un kopība pašlaik nevēlas celt apsaimniekošanas maksu. Un vai tas var būt saistoši tiem, kas nepiekrīt vai nav noslēguši šādu līgumu? Vai iedzīvotāji var pieprasīt apsaimniekotājam atskaiti par to, kā tas tērējis naudu, kuru saņēmis par apsaimniekošanu?",
+            "answer": ""
+        },
+        {
+            "question": "Daudzstāvu mājas dzīvokļa kaimiņš vairākkārt esot zvanījis Valsts policijai par to, ka tiek traucēts viņa miers. Valsts policija, protams, reaģē un atbrauc pat nakts vidū, kad reāli tam nav pamatojuma: ir ieslēgts televizors, tā skaņa ir saprāta robežās. Vai šādos gadījumos var ignorēt Valsts policiju, vai arī pret kaimiņu var iesniegt iesniegumu, tikai pamatojoties uz ko?",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Mums ar laulāto bija kopīgi iegādāts nekustamais īpašums, apbūves zemesgabals, kuram tika ņemts hipotekārais kredīts: es biju kredītņēmējs, sieva – galvotāja. Nekustamais īpašums tika iegādāts vēl pirms laulības noslēgšanas un piederēja mums līdzīgās daļās. Kredītmaksājumus veicu es viens no saviem līdzekļiem, vairāk nekādi ieguldījumi īpašumā netika veikti. Šogad īpašums tika pārdots, un gandrīz visa pārdošanas summa novirzīta hipotekārā kredīta dzēšanai, atlikums ieskaitīts manā kontā. Šobrīd abi esam nolēmuši laulību šķirt, kopēju bērnu un kopīgas mantas mums nav. Vai man ir tiesības prasīt no laulātā kompensāciju par saviem ieguldījumiem, kuri veikti kopīgajā īpašumā?",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Vai bērnam, dodoties uz obligāto sagatavošanas programmu PII, ir jāprot cipari, burti, rakstīt, lasīt, ja bērns līdz 5 gadu vecumam nav apmeklējis PII?  Kāds ir nepieciešamais zināšanu minimums?",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Kā jārīkojas, ja valsts iestāde (Rīgas valstspilsētas pašvaldības bāriņtiesa) nesniedz atbildi Iesniegumu likumā paredzēto 30 dienu laikā?",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Vai var vienlaikus strādāt par skolas direktora vietnieku audzināšanas jomā un sociālo pedagogu? Vai te nav interešu konflikta?",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! SIA “InCredit Group” nosūtīju pieteikumu auto kredīta izskatīšanai un salīdzināšanai ar citām aizdevumu firmām. Pieteikuma aizpildīšanas procesā man bija iespēja iepazīties ar maksājuma grafiku, ar vispārīgajiem noteikumiem, standartinformāciju un atteikuma tiesībām. Pieteikuma iesniegšanu https://www.incredit.lv/lv/submitRequest/ es apstiprināju ar SMART ID. Pēc tam uz sava tālruņa numuru saņēmu īsziņu ar lūgumu nosūtīt pieeju savam bankas kontam, lai uzņēmums varētu pārliecināties par maniem ienākumiem. Pēc pieejas apstiprināšanas pāris minūšu laikā saņēmu savā kontā pieteikumā norādīto naudas summu no SIA “InCredit Group”. Tad uz manu e-pastu tika atsūtīts aizdevuma līgums ar noteiktu numuru, kurā ir norādīti mani dati un specifiski noteikumi, t. sk. arī par to, kā mainās maksājuma grafiks, ja noteiktā laikā nav iesniegta iegādātā auto tehniskā pase. Kad sazinājos ar SIA “InCredit Group”, saņēmu atbildi, ka pieteikuma aizpildīšanas procesā es esot parakstījusi šo līgumu. Tomēr, vēlreiz izejot cauri pieteikuma aizpildīšanas procesam, ir redzams, ka šeit nav pieejams individuāls līgums: tikai iepriekš uzskaitītie dokumenti. Ieskaitīto naudas summu uzreiz atmaksāju kā nepamatotu maksājumu. Savukārt SIA “InCredit Group” man uz e-pastu atsūtīja iesniegumu, kas jāparaksta, lai atteiktos no līguma, ko es neiesniedzu, jo līgumu nebiju parakstījusi. Pēc laika secināju, ka SIA “InCredit Group” ir ievietojusi informāciju par man ieskaitīto naudas summu plus 10% AS “Kredītinformācijas birojs” tīmekļvietnē un šī informācija tajā atrodas jau vairāk nekā mēnesi, par spīti tam, ka tajā pašā dienā atdevu saņemto naudas summu. Par šo gadījumu informēju PTAC. Kādas man ir iespējas uzsākt tiesvedību pret SIA “InCredit Group” par morālā un finansiālā kaitējuma nodarīšanu, ievietojot nepatiesus datus par mani publiskajā reģistrā?",
+            "answer": ""
+        },
+        {
+            "question": "Sveiki! Kādu summu vienā mēnesī no manis drīkst ieturēt tiesu izpildītāji? Esmu pašnodarbināta persona un kontā varu izlietot tikai 700 eiro. Šajā mēnesi kontā ienāca 2800 eiro.",
+            "answer": ""
+        },
+        {
+            "question": "Šobrīd notiek tiesas process par uzturlīdzekļu palielināšanu. Faktiski uzturlīdzekļi tiek brīvprātīgi maksāti lielākā apmērā nekā valstī noteiktais uzturlīdzekļu minimums. Tā kā prasītāja savā pieteikumā tiesai ir pievienojusi čekus un attaisnojošos dokumentus tikai par vienu mēnesi, vai ir korekti, ka tiesa atsakās prasīt pamatojošo dokumentu iesniegšanu par vismaz 6 mēnešu periodu, kā tika lūdzis atbildētājs? Tiesas rezolūcijā tiesnesis aicina prasītājai izvērtēt nepieciešamību iesniegt pieprasīto informāciju par pamatojošajiem dokumentiem (čeki, rēķini utt.), ciktāl prasītāja uzskata, ka tā vajadzīga prasībā pieteikto izdevuma pamatošanai un pierādīšanai.",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Šobrīd studēju universitātē un saņemu studējošā kredītu ar valsts galvojumu. Man jau ir 3. invaliditates grupa, bet šogad ir jauna diagnoze un ārsts nosūtīja uz atkārtotu ekspertīzi, un ir iespējams, ka man noteiks smagāku invaliditātes pakāpi. Esmu informēta: ja tas notiks, tad mans studējošā kredīts varētu tikt “norakstīts”. Bet man nav skaidrs, kas notiks, ja man noteiks 2. invaliditātes grupu, kamēr es vēl studēju. Vai es varēšu turpināt saņemt kredītu arī pēc tam, kad iestājas šāds apstāklis? Esmu apņēmusies pabeigt studijas, bet nevaru apvienot tās ar darbu veselības stāvokļa dēļ, tāpēc kredīts ir būtisks. Nosūtījums uz komisiju man ir jau iedots, un tas ir derīgs divus mēnešus. Pēc tam man būs pienākums paziņot kredītiestādei, tiklīdz tiks piešķirta 2. invaliditātes grupa. Vai es varēšu turpināt saņemt ikmēneša kredīta summu arī pēc tam?",
+            "answer": ""
+        },
+        {
+            "question": "Kur var (vēlams neklātienē) apgūt speciālā pedagoga profesiju? Vai to var apgūt bez pedagoga profesijas?",
+            "answer": ""
+        },
+        {
+            "question": "Sveiki! Tēvam ir sākušās problēmas ar finansiālajiem līdzekļiem, nav ne darba, ne pabalstu. Tāpat ir arī veselības problēmas, un īsti nav nekādas vēlmes šo visu risināt, ja nu vienīgi viņam visu nepienes vai visu viņa vietā neizdara. Tēvam ir 56 gadi. Ja, labu gribot, es piesaku tēvu pansionātā vai citā aprūpes iestādē un naudu nevar piedzīt no tēva, vai šo naudu piedzīs no manis kā dēla? Ja pareizi esmu izlasījis likumu, tad jā. Mani satrauc tas, ka man personīgi nav ne laika, ne arī finansiālo līdzekļu, lai koptu un uzturētu tēvu. Tēvs nekad nav interesējies un rūpējies par mani kā bērnu, uzturlīdzekļi arī tika piedzīti piespiedu kārtā, pats tēvs uz tiesu nemaz neieradās. Man ir pieejams šis tiesas spriedums par uzturlīdzekļu piedzīšanu. Vai šajā gadījumā ar iestādi, kas uzturētu manu tēvu, es varu sākt tiesāties, lai atbrīvotu sevi no pienākuma maksāt iestādei par tēva uzturēšanu vai lai tēvs nevarētu no manis piedzīt uzturlīdzekļus? Uzskatu, ka man galīgi nekādā veidā nav jābūt pienākumam maksāt kaut ko tēvam vai iestādei, kas viņu uztur, ņemot vērā faktu, ka ir liecinieki un uzturlīdzekļu pieprasījums kā pierādījums, ka tēvs nekad mūžā nav rūpējies par mani.",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Vēlējos noskaidrot, kurš ir atbildīgs par pilošiem griestiem daudzdzīvokļu namā un kā iespējams risināt šo situāciju. Manā dzīvoklī, kas atrodas pēdējā stāvā, starp jumtu un dzīvokļa griestiem ir bēniņu telpa. Kad stipra lietus laikā pūš vējš, griesti sāk pilēt, taču tas nenotiek katru reizi. Iespējams, problēma ir saistīta ar vēja virzienu vai citiem faktoriem, kas apgrūtina cēloņa noteikšanu un pierādīšanu. Esmu vairākkārt vērsies pie mājas vecākā un apsaimniekotāja, taču problēma netiek risināta. Ir izteikts pieņēmums, ka iemesls varētu būt nepareizi novietots panelis, tomēr turpmākas darbības netiek veiktas. Šobrīd remontēt griestus un sienas no iekšpuses šķiet nepamatoti, jo tas neatrisinās problēmu ilgtermiņā.",
+            "answer": ""
+        },
+        {
+            "question": "Meklēju šajā portālā atbildi uz savu jautājumu, taču vienā no atrastajām atbildēm bija teikts, ka žoga būvniecība nav jāsaskaņo būvvaldē, bet citā atbildē – ka mājas durvju un žoga ierīkošana bez saskaņošanas būvvaldē ir uzskatāma par patvaļīgu būvniecību. Mans jautājums: vai žoga būvniecība (lauku teritorijā – ciems pagastā) ir jāsaskaņo būvvaldē, iesniedzot izstrādātu projektu un saņemot tā apstiprinājumu? Kāda likuma norma to nosaka?",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Vai man kā DzĪKS biedram ir jāmaksā par citu biedru balkonu remontu, ja viņiem īpašumā ir dzīvoklis ar balkonu (un attiecīgi domājamā zeme zem tā)? Un, ja mājas kopsapulcē nav panākta vienošanās (sapulcē piedalījās mazāk par 50% no dzīvokļu īpašniekiem), vai DzĪKS var jau šobrīd no visiem dzīvokļu īpašniekiem ieturēt naudas līdzekļus plānotajiem balkonu remontdarbiem Dzīvojamā māja sastāv no 60 dzīvokļiem, bet tikai 32 dzīvokļiem ir balkoni. Turklāt dzīvokļi ir iegādāti par pajām (1 paja – 1 dzīvoklis), privatizācijas ceļā iegūti īpašumā, kā arī domājamā zemes daļa zem mājas ir īpašumā.",
+            "answer": ""
+        },
+        {
+            "question": "Sveicināti! Vai var uzrakstīt iesniegumu policijai par notikušo pirms vairākiem gadiem, ja bijis kontakts ar pilngadīgu personu, bet otra persona vēl bija nepilngadīga?",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Ir dalītais īpašums. Dzīvokļu nama īpašnieki kā savai mājai funkcionāli nepieciešamo zemesgabalu vēlas atsavināt pašvaldības apstiprinātu zemesgabalu, uz kura zemes īpašniekam notiek būvniecības darbi: tiek celta būve (projekts ir saskaņots un apstiprināts, izbūvēts žogs). Ko tagad zemes īpašniekam darīt: vai viss jājauc nost?",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Dzīvokļa īpašnieks bez saskaņošanas vai arī pēc saskaņota projekta daudzdzīvokļu mājas jumta slīpajā daļā ir iebūvējis “Vellux” logus. Kas ir atbildīgs, ja caur logu pieslēgumiem nokrišņu ūdens iekļūst koplietošanas telpās vai arī paša dzīvokļa īpašnieka īpašumā?",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Vai, saņemot bezdarbnieka pabalstu un esot bezdarbniekos, šis laiks tiek iekļauts darba stāžā, vai arī tas skaitās kā tukšais laiks?",
+            "answer": ""
+        },
+        {
+            "question": "Sveiki! Vai tad, ja juridiskā persona sniedz nepatiesu informāciju un man kā fiziskajai personai šīs nepatiesās informācijas dēļ ir radušies zaudējumi (trīs dienas katru dienu 40 eiro), vai es varu šos zaudējumus piedzīt un vai juridiskajai personai ir jāuzņemas kāda atbildība? Juridiskā persona pēc tam zvanīja, un es atkārtoti norādīju, ka viņi teica: attiecīgā darbība netiks veikta. Uz to atbilde vai skaidrojums netika dots, tika veikta darbība: bloķēšana strādāt. Būtu pateicīgs uzzināt, kāds likuma pants nosaka atbildību juridiskajām personām par nepatiesas informācijas sniegšanu. Pieņemu, ka nevar taču pilnīgi atklāti melot, saprast to un turpināt darboties bez sekām.",
+            "answer": ""
+        },
+        {
+            "question": "2022. un 2023. gadā īrēju automašīnu no nomas uzņēmuma, kas ieturēja drošības naudu, bet līdz šim nav pilnībā atmaksājis atlikušo summu. Pēc pirmās īres 2022. gadā tika ieturēti 250 eiro, lai gan bojājumi tika novērtēti tikai 100 eiro apmērā, un 2023. gadā tika ieturēti vēl 100 eiro bez jebkāda skaidrojuma jau pēc īres. Visu informāciju par bojājumu izmaksām esmu saņēmusi tikai no uzņēmuma darbiniekiem, un man nekad nav bijuši iesniegti oficiāli dokumenti vai pierādījumi par faktiskajiem bojājumiem. Turpināju izmantot šī uzņēmuma pakalpojumus arī līdz 2023. gada beigām, un uzņēmums atzina, ka ir parādā šo summu, jo nākamajās reizēs, kad es īrēju automašīnu, depozītu vairs neiekasēja, izmantojot iepriekšējo parādu kā drošības naudu. Tagad uzņēmums vairs neatbild uz maniem pieprasījumiem. Kādi soļi man būtu jāveic, lai atgūtu kopējo summu 250 eiro, un kādas ir manas iespējas, ja viņi turpina izvairīties no komunikācijas?",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Novietojot savu auto stāvvietā pie veikala, pēc 10 minūtēm izdzirdēju blīķški. Kad izgāju no veikala, konstatēju, ka uz mana auto ir uzkritis ēkas fragmenta gabals (apmetums) un bojājis mana auto motora pārsegu. Uzreiz fiksēju to ar foto, izsaucu policiju, un reģistrējām negadījumu. Manam auto nav “Kasko” apdrošināšanas. Ēkas apsaimniekotājs norādīja, ka neuzņemas atbildību par bojājumu. Kā rīkoties tālāk? Vai tiešam šajā gadījumā neko nevaru darīt un zaudējumi jāsedz pašai?",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Ņemot vērā Satversmes tiesas spriedumu lietā Nr. 2021-07-01, vai piemaksas noteikšana un darba samaksas pārrēķins bija veicams tikai tām personām, kuras bija uzsākušas savu tiesību aizsardzību, pirms Satversmes tiesas spriedums stājās spēkā? Vai tomēr cilvēki var pretendēt uz samaksas pārrēķinu pēc tā spēkā stāšanās par pēdējiem diviem gadiem, atbilstoši Darba likuma 31. pantam?",
+            "answer": ""
+        },
+        {
+            "question": "Vai es varu pieprasīt audio/video ierakstus, kuros es figurēju un kuri kaut kādā veidā ir saistīti tieši ar mani? Piemēram, visus telefona zvanus, kuri tiek ierakstīti, braukšanas eksāmenu ierakstus u. c.?",
+            "answer": ""
+        },
+        {
+            "question": "Persona tika notiesāta pēc KL  253. p. 2. d., piespriestais sods: 5 g. 1 mēn. Persona apcietinājumā šobrīd ir pavadījusi 3 gadus. 16.09.2024. tika piespriests vēl viens sods (pēc 262. p. 1. d.) ar īslaicīgu brīvības atņemšanu uz 2 mēnešiem, atņemot TL vadīšanas tiesības uz 5 g. Tiesa nosprieda saskaņā ar KL 51. p. jau noteiktajam sodam daļēji pievienot neizciesto sodu un galīgo sodu, noteikt brīvības atņemšanu uz 2 g. 2 mēn. un TL vadīšanas tiesību atņemšanu uz 5 g. 1. No kura brīža sāk skaitīt 2 g. 2 mēn., ja persona tiesas brīdī jau atradās apcietinājumā? 2. Lai apcietinātā persona varētu prasīt pirmstermiņa atbrīvošanu, vai cietumā ir jāpavada 3/4 vai 2/3 no piespriestā cietumsoda? 3. No kura brīža tiek aprēķinātas šīs 3/4 vai 2/3? Vai no brīža, kad persona atrodas apcietinājumā, vai no 16.09.2024., kad tika noteikts galīgais sods (2 g. 2 mēn.)?",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Šobrīd atrodos BKA, darbā jāatgriežas ar 1. janvāri. Vēlos mainīt darbavietu, bet pagaidām neesmu atradusi citu vakanci. Ja, atgriežoties darbā, pēc 2– 3 mēnešiem saprotu, ka tomēr nevēlos tajā vairs strādāt, vai man būs izdevīgi iestāties bezdarbniekos, kamēr atrodu citu darbu? Vai es kaut ko zaudēšu naudas izteiksmē? Kā šajā gadījumā tiks aprēķināts bezdarbnieka pabalsts, ņemot vērā, ka pirms BKA bija vairākas B slimības lapas un, visticamāk, arī atgriežoties darbā, būs jāņem B slimības lapas, jo bērni ziemā bieži slimo.",
+            "answer": ""
+        },
+        {
+            "question": "Dzīvoju laukos, un manai privātajai teritorijai apkārt ir sēta: teritorija ir norobežota, slēgta citām personām. Vai tad, ja šādā teritorijā braucu tikai es pats, traktoram ir nepieciešama OCTA polise?  Praktiski nav iespējams sabojāt trešās personas mantu. Vai traktoram izmantošanai slēgtā, privātā teritorijā obligāti ir nepieciešams numurs (reģistrēts uzskaitē) un izieta tehniskā apskate?",
+            "answer": ""
+        },
+        {
+            "question": "Kādi dokumenti ir nepieciešami, lai reģistrētu un piedalītos ceļu satiksmē ar elektromotociklu, kurš ir ražots un nopirkts Ķīnā? Ko būtu nepieciešams pieprasīt no pārdevēja?",
+            "answer": ""
+        },
+        {
+            "question": "Vai tiesu izpildītājiem, aprēķinot savus 40% no algas starpības, būtu jāņem vērā ne tikai man atstātos 350 eiro un 105 par apgādībā esošu bērnu, bet arī tas, ka maksāju uzturlīdzekļus 341 eiro apmērā? Vai var būt tā, ka viņi uzturlīdzekļus neņem vērā, jo bērni neatrodas apgādībā?",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Es esmu bez vecāku apgādības palicis bērns. Pirms deviņiem gadiem saņēmu pašvaldības palīdzību: dzīvokli. Līgums ir bez termiņa, bet līdz 2026. gada beigām jānoslēdz jauns līgums saistībā ar jauniem noteikumiem. Vai es varu nopirkt citu dzīvokli un turpināt dzīvot pašvaldības dzīvoklī? Paldies!",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Bērnudārzā aizvietoju saslimušos skolotāju palīgus. Darba līgums ir noslēgts uz konkrēta darbinieka slimošanas laiku. Citus darba pienākumus attiecīgajā iestādē neveicu. Esmu “SOS” darbinieks. Ja es pati saslimstu, aizvietojot citu darbinieku, vai man ir tiesības izmantot darba nespējas lapu A? Paldies!",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Mums darbā ir gaidāma darbinieku skaita samazināšana. Vai likums nenoteic, ka pirmais būtu jāatbrīvo darbinieks, kurš darbā pieņemts pēdējais, un vai var atbrīvot ilgstoši strādājošo, kuram līdz pensijai palicis strādāt nepilnus divus gadus?",
+            "answer": ""
+        },
+        {
+            "question": "Esmu dežurante skolas garderobē. Pēc skolas saimnieces sacītā, es neatbilstu prasībām, pieļāvu kļūdas (neievēroju skolas iekšējās kārtības noteikumus, atļāvu skolēniem starpbrīžos uzturēties garderobē, sēdēt starp skapīšiem, un bija arī citi pārkāpumi). Tā rezultātā notika dežurantu rotācija. Mans postenis nu bija pie ieejas skolā. Sapratu. Pēc nedēļas atkal notika rotācija, un esmu atpakaļ garderobē. Vai tas nozīmē, ka pēc nedēļas es “atbilstu” prasībām? Vai, veicot rotāciju, nav noteikts kāds rotācijas ilgums? Citādi tā jocīgi sanāk.",
+            "answer": ""
+        },
+        {
+            "question": "Ir garāžu īpašnieku sabiedrība, kuras kopīpašums sadalīts vienādās domājamās daļās starp īpašniekiem. Katram īpašniekam, dibinot sabiedrību, ar izpirkumu tika piešķirts bokss, un vēlāk vienādās daļās tika izpirkta zeme,  kuru organizēja kooperatīva valde par īpašnieku naudu. Katra īpašnieka zemes domājamā daļa tika nostiprināta zemesgrāmatā. Pēc tam par katra īpašnieka personīgo naudu tika celtas garāžas. Garāžu platības nebija katram īpašniekam vienādas.\nVēlāk, laika gaitā, daudzi īpašnieki savus boksus pārdeva. Katru gadu visi īpašnieki valdei maksāja biedru naudu par pakalpojumiem un arī zemes nodokli valstij. Pēc valdes nomaiņas un sabiedrības kopsapulces tika izveidoti jauni noteikumi gada budžeta noteikšanai. Ar nelielu balsu pārsvaru pieņēma jaunos noteikumus, kas paredzēja, ka tiem, kuriem pieder boksi,  jāmaksā lielāka biedra gada maksa, neskatoties uz to, ka daudzu garāžas bez boksiem pēc kvadratūras pārsniedz to garāžu kopējo platību, kurās ir arī boksi.\nVai garāžu īpašnieku sabiedrības valdei bija tiesības pēc balsošanas rezultātiem noteikt maksājumus ne tikai par saviem pakalpojumiem, bet arī par boksiem? Mana zemes domājamā daļa ir ierakstīta zemesgrāmatā kā izpirkts privātīpašums.",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Esmu 1. grupas invalīds. Zinu, ka sabiedriskajā transportā (“Rīgas satiksmē” noteikti) mani pavadošajai personai arī nav jāmaksā par braucienu. Izņēmu divus talonus. Vai, makšķerējot publiskā ūdenskrātuvē, mani pavadošajai personai ir jāmaksā tās dienas maksa (mēneša vai gada karte) par attiecīgo laika periodu, dienu? Paldies!",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Bērns studē un strādā nepilnu slodzi. Vai viņš neskaitās apgādībā vienam no vecākiem? Paldies!",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Mans bērns ir sasniedzis 18 gadu vecumu un mācās tālmācības vidusskolā. Līdz šim bērna mātei maksāju 210 eiro ikmēneša uzturlīdzekļus. Vai bērnam, sasniedzot 18 gadu vecumu, mainās uzturlīdzekļu summa, ņemot vērā, ka bērns mācās tālmācības skolā?",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Uz manas (kā privātpersonas) zemes īpašuma daļas kopš padomju laikiem ir uzcelts daudzstāvu dzīvojamais nams. Ir noslēgts zemes nomas līgums ar ēkas apsaimniekotāju (SIA). Bet kopš š. g. jūlija šo namu apsaimnieko cita sabiedrība. Vai ir jāslēdz jauns nomas līgums ar šo SIA, un vai ir noteikti nomas maksas griesti, kas jāņem vērā, aprēķinot zemes nomas maksu? Vai kaut kur ir pieejams paraugs zemes nomas līgumam?",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Kā mainīt bērnudārzu, ja vēlas mainīt dārziņu tai pašā Rīgas rajonā, kurā pašlaik atrodas?",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Adoptētājus pārstāvošā bāriņtiesa ir pieņēmusi lēmumu par adopcijas uzsākšanu. Audžuğimene nav saņēmusi bāriņtiesas informatīvo vēstuli, un tai nav iespēja iepazīties ar bāriņtiesas lēmumu. Kā audžuģimene var pārsūdzēt bāriņtiesas lēmumu?",
+            "answer": ""
+        },
+        {
+            "question": "Labdien. Gribētu uzzināt, kā pareizi aprēķina algu pēc 1. oktobra, ja man ir vairākas izpildu lietas. Bruto alga 1217 eiro.",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Ceturtdien, 7. novembrī, Saeimas deputāti otrajā lasījumā atbalstīja grozījumus likumā “Par fizisko personu atbrīvošanu no parādsaistībām”. Grozījumi palīdzēs atjaunot fizisko personu maksātspēju. Kur atrast pilnu informāciju?",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Kādai informācijai no mājas lietas par daudzdzīvokļu dzīvojamo māju jābūt norādītai Būvniecības informācijas sistēmā? Vai tas ir obligāti, vai arī mājas lieta joprojām varētu būt tikai papīra formātā? Es, dzīvokļa īpašnieks, rēķinos redzu, ka ir iztērēta uzkrājuma fonda nauda, jāmaksā par papildu pozīcijām. Pārbaudīju informāciju Būvniecības informācijas sistēmā, bet mājas lietā bis.gov.lv nav pievienots neviens e-dokuments.",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! No pārtikas veikala ratos tika izvesta manta, un to pamanīja apsargs, kad pati piefiksēju, bija par vēlu apmaksāt. Tika izsaukta policija, sastādīja protokolu, es sniedzu paskaidrojumu. Pēc tam man lika doties prom. Cik ilgi tagad būs tas ķeksītis dzīvē, ka it kā esmu izdarījusi zādzību? Neesmu nekad veikusi kaut ko tādu, visu dzīvi esmu bijusi tīra no visādām krimināllietām.",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Kur es varu redzēt visas ar mani saistītās krimināllietas, kas ir bijušas vai arī ir tagad ir uzsāktas?",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Vai bērna kopšanas pabalstu 171 eiro apmērā maksā mammai, kura nav strādājusi/nestrādā?",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Vai var iesniegt čekus par vecvecāku medicīniskajiem izdevumiem, ja jau savā deklarācijā iesniedzu čekus par saviem bērniem? Vai ir kāds limits tam, par cik personām varu pievienot attaisnotos dokumentus un kas ir izmaksu ierobežojošie faktori (vai ietekmē tas, cik no manas algas tiek samaksāts nodokļos)?",
+            "answer": ""
+        },
+        {
+            "question": "Man no 2023. gada jūlija tika piešķirts bezdarbnieka pabalsts, bet ar 05.02.2024. es uzsāku darba attiecības, un tās joprojām turpinās. Vai, pārtraucot darba attiecības šī gada decembrī, man būs tiesības atkārtoti pieprasīt bezdarbnieka statusu, un vai man to piešķirs? Pēdējā darbavietā esmu nostrādājusi vairāk nekā deviņus mēnešus.",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Dzīvoju deviņstāvu mājā, katrā stāvā ir laukums ar četriem dzīvokļiem. Mainījām apsaimniekotāju. Līgumā par uzkopšanas darbiem minēts, ka sētniece slaucīs un mazgās kāpņu telpu reizi mēnesī. Man ir jautājums: kura zona tad jākopj sētniecei, vai tikai kāpnes? Vai tomēr arī laukumi, kur atrodas dzīvokļi? Es saprotu, ka kāpņu telpa ir zona, kur atrodas kāpnes, bet deviņstāvu mājās pie kāpnēm katrā stāvā vēl ir laukumi.",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Vēlos noskaidrot, kādas sekas var būt, ja vadu B kategorijas transportlīdzekli 16 gadu vecumā, kad man ir tikai mācību atļauja (t. s. baltās tiesības). Kāds sods var tikt piemērots šādā situācijā? Vai Valsts policijai ir tiesības konfiscēt transportlīdzekli, ja viņi mani aptur par braukšanu bez pilnvērtīgas vadītāja apliecības? Paldies par palīdzību!",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Vēlos noskaidrot, kādas sekas var rasties, ja vadu transportlīdzekli, kam nepieciešama B kategorijas vadītāja apliecība, bet man ir tikai traktortehnikas vadītāja apliecība ar TR2 kategoriju. Kāds sods var tikt piemērots šādā situācijā? Vai Valsts policijai ir tiesības konfiscēt transportlīdzekli, ja viņi mani aptur par braukšanu bez atbilstošās kategorijas vadītāja apliecības, vai arī viņiem šādu tiesību nav? Paldies par palīdzību!",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Ja cilvēkam Latvijā uz gadu ir atņemtas autovadītāja tiesības, bet šī gada laikā viņš kļūst par citas valsts rezidentu un nokārto autovadītāja tiesības tur, vai viņš ar šīs valsts tiesībām var vadīt automašīnu Latvijā?",
+            "answer": ""
+        },
+        {
+            "question": "Kurš ir atbildīgs par nodokļu nemaksāšanu? Nereti kāda pakalpojuma sniedzējs vai preču pārdevējs un preču/pakalpojumu pircējs (privātpersona) vienojas par norēķiniem skaidrā naudā, lai izvairītos no pievienotās vērtības nodokļa nomaksas un tādējādi samazinātu preču/pakalpojuma izmaksas. Kura no pusēm šādā situācijā ir atbildīga un potenciāli varētu tikt sodīta par pievienotās vērtības nodokļa nemaksāšanu: vai tikai pakalpojuma sniedzējs/pārdevējs, kurš atbilstoši pievienotās vērtības nodokļa likumam ir atbildīgs par nodokļa nomaksu, vai arī pircējs/pakalpojuma saņēmējs, kurš apzināti iesaistās darījumā ar mērķi izvairīties no nodokļa nomaksas?",
+            "answer": ""
+        },
+        {
+            "question": "Sveiki! Šobrīd atrodos bērna kopšanas atvaļinājumā (BKA). Decembra vidū jāatgriežas darbā. Esmu stāvoklī ar nākamo bērnu. Nākamā bērna dzimšanas diena ir plānota jūnija beigās. Kā tiks aprēķināts jaunais BKA pabalsts?",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Kas izstrādā pašvaldības dzīvokļu īres līguma formu, ietver līgumā Dzīvojamo telpu īres likuma, Civillikuma noteikumus? Vai tā ir pašvaldības juridiskā nodaļa? Tālāk šo formu izmanto pašvaldības kapitālsabiedrība, kas pašvaldības vārdā slēdz īres līgumus ar īrniekiem.",
+            "answer": ""
+        },
+        {
+            "question": "Kāds sods gaidāms vadītājam, ja viņš bija pie stūres bez autovadītāja apliecības (nav tiesību) un iekļuva autoavārijā (vainīgs otrs vadītājs), un pēc avārijas aizbēga no notikuma vietas?",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Manā dzīvoklī ir deklarēts radinieks. Radinieks ir miris. Kā es varu izdeklarēt viņu no sava dzīvokļa? Maksa par apsaimniekošanas pakalpojumiem tiek aprēķināta pēc īpašumā deklarētajām personām. Kā man rīkoties? Kur vērsties?",
+            "answer": ""
+        },
+        {
+            "question": "Sveiki! Ir atņemtas auto vadīšanas tiesības dzēruma laikā, bija krimināllieta, sods – tiesības atņemtas uz pieciem gadiem. Kopš tā laika ir pagājis tikai viens gads. Kāds sods pienākas par auto vadīšanu lieguma laikā? Vai par to nebūs 312. pants krimināllietā?",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Kādēļ pēc uzvārda maiņas tiek anulēts e-paraksta sertifikāts? Kāds likums to regulē?",
+            "answer": ""
+        },
+        {
+            "question": "Kas man jādara, lai varu iesniegt tiesā prasību par manu autortiesību pārkāpšanu? Mans bijušais darba devējs neievēro manas autortiesības. Esmu lūgusi nodrošināt manu vārdu pie maniem darbiem. Uz e-pastiem neatbild. Kas man jādara, lai uzsāktu procesu? Kur varu iegūt informāciju par šī procesa virzīšanu? Kāds varētu būt paredzamais rezultāts?",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Vēlos precizēt, kur var vērsties, lai vakcinētu zīdaini pret gripu par valsts naudu, ja ģimenes ārsta praksē informēja, ka gripas vakcīnu nav? Vai ir informācija, kurās vietās ir pieejamas bērnu gripas vakcīnas? Cik efektīvi ir vakcinēties pret gripu novembrī, decembrī?",
+            "answer": ""
+        },
+        {
+            "question": "Vērsos pie bāriņtiesas saistībā ar radušos sarežģīto situāciju attiecībā uz tēva tiesībām un pienākumiem pret savu bērnu.\nJau aptuveni divus gadus bērns nedzīvo pie savas mātes, bet gan pie vecmāmiņas. Mans tēvs regulāri maksā alimentus bērna mātei, kā arī sniedz papildu finansiālu atbalstu bērna vajadzībām, piemēram, apmaksājot skolas pusdienas, telefonsakarus, drēbes un kabatas naudu. Viņš arī piedalās bērna audzināšanā, cik tas ir iespējams, piemēram, vedot bērnu ekskursijās un citos izklaides pasākumos.\nTēvs ir noraizējies par to, vai bērna māte atbilstoši izmanto uzturlīdzekļus bērna vajadzībām, jo bērns faktiski pie mātes nedzīvo, dzīvo pie vecmāmiņas. Nav arī skaidrs, kāda būs bērna turpmākā dzīvesvieta un labklājība. Šajā situācijā mans tēvs vēlas būt pārliecināts, ka tiek nodrošinātas bērna intereses un ka uzturlīdzekļi tiek izmantoti tieši bērna labā. Es lūdzu bāriņtiesu izvērtēt šo situācijas aprakstu un sniegt ieteikumus/konsultāciju par tālākajām darbībām, taču bāriņtiesa atteicās man sniegt konsultāciju e-pastā. Vēlos uzsvērt, ka es neprasīju konkrētu informāciju, jo esmu trešā persona, taču, ja es piezvanītu un pateiktu, ka esmu tieši saistīta persona (bez pierādījumiem), tad man sniegtu konsultāciju. Kādēļ bāriņtiesa atsakās sniegt konsultāciju e-pastā, lai es varētu palīdzēt savam gados vecākajam tēvam, kuram nav piekļuves internetam un sapratnes par to, kā rīkoties? Kā arī pašvaldība, kurā dzīvo gan bērns, gan tēvs, atrodas aptuveni 100 km no pašvaldības, kurā dzīvo māte. Vai tiešām ir tik grūti (vai nedrīkst) sniegt ieteikumus e-pastā, lai precīzi būtu zināms, kā rīkoties un pie kā vērsties?",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! No 2003. gada esmu vērsies pašvaldībā ar lūgumu (2003., 2004., 2005., 2006., 2007., 2008., 2009., 2010., 2011. gada iesniegumi par privatizāciju) atļaut privatizēt viendzīvokļa māju, kurā es uz īres līguma pamatu dzīvoju un kura ir pašvaldības īpašums. Uz visiem šiem iesniegumiem tika saņemts atteikums, 2016. gadā tika iesniegts iesniegums par mājas atsavināšanu, uz kuru tika saņemta pozitīva atbilde, ka īpašumu var atsavināt. Lūdzu sniegt skaidrojumu, vai un kāpēc man nav tiesības šo īpašumu iegūt privatizācijas kārtā.",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Vai zemnieku saimniecības īpašnieks var noformēt savu sievu kā palīgstrādnieku vai slaucēju? Kā ir jāmaksā nodokļi, lai sievai šis darbs ieskaitītos darba stāžā? Kādus nodokļus ir jāmaksā pašam īpašniekam, lai darbs savā zemnieku saimniecībā būtu iekļauts darba stāžā?",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Ja fiziska persona izīrē savu dzīvokli īrniekam un noslēdz par to īres līgumu, vai izīrētājs no īrnieka drīkst saņemt samaksu un drošības naudu skaidrā naudā? Paldies!",
+            "answer": ""
+        },
+        {
+            "question": "Sveiki! Jaunā māmiņa, kas ir darba ņēmēja, atrodas bērna kopšanas atvaļinājumā un saņem bērna kopšanas pabalstu, vēlas dibināt biedrību. Vai šajā situācijā persona vēl joprojām kvalificēsies pabalsta saņemšanai, nu jau kā biedrības dibinātāja?",
+            "answer": ""
+        },
+        {
+            "question": "Sveiki! Man nav skaidrs, kā pašnodarbinātajam, kas paralēli saimnieciskajai darbībai saņem algu valsts darbā, jāmaksā nodokļi. Vai nodokļi jāmaksā no kopējiem ienākumiem (saimnieciskā darbība + “parastais” darbs) vai tikai no ienākumiem kā pašnodarbinātajam, tas ir, no saimnieciskās darbības? Kāda ir nodokļu apmēra starpība vienā un otrā darbā? Paldies par atbildi jau iepriekš.",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Brālis un māsa saņem mantojumu (nekustamais īpašums: māja un zeme) no māsas. Pirmais solis ir noteikt (vienoties starp mantiniekiem) mantojuma masas vērtību. Viens no radiniekiem uzskata, ka mantojuma masa atbilst kadastrālajai vērtībai, bet otrs uzskata, ka tirgus vērtībai. Kura mantojuma masas vērtība tiks fiksēta mantojuma apliecībā? Vai tirgus vērtība ir kaut kā jāpierāda? Šajā gadījumā nav ne mantojuma līguma, ne testamenta. Kura summa būs par pamatu kapitāla pieauguma vai iedzīvotāju ienākuma nodokļa aprēķināšanai? Vai tā summa, kas ierakstīta mantojuma dokumentos, vai nekustamā īpašuma kadastrālā vērtība? Paldies jums!",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Manai meitai ar bāriņtiesas lēmumu uz laiku tika apturētas aizgādības tiesības par bērniem. Tagad šīs tiesības ir atjaunotas. Kāpēc par aizgādības pārtraukšanas laiku meitai netika izmaksāts vecāku pabalsts, ja bērni visu laiku atradās pie viņas un tika baroti? Brauca taču pārbaudes. Paldies.",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Vectēvs vēlas dāvināt man māju/īpašumu, taču viņam ir arī dēls un meita. Esmu vienīgais mazbērns. Vai dēls/meita var apstrīdēt šo dāvinājumu? Vai ir iespējams dāvinājuma līgumā iekļaut teikumu, ka īpašums tiek dāvināts man, bet, ja tas tiks pārdots, tad iegūtie līdzekļi man ir jādala uz visiem?",
+            "answer": ""
+        },
+        {
+            "question": "2004. gadā mantoju no tēva nekustamo īpašumu, toreiz neaizdomājos, ka ir vēl kustamā manta, motocikls.  Vēlos pārdot motociklu. Notārs paskaidroja: 2004. gada mantojuma apliecībā ir ierakstīts, ka mantojums attiecas uz visu atstāto mantu. Sapratu, ka ar to pietiek. CSDD skaidroja, ka man tomēr nav mantojuma tiesību uz kustamo mantu, jo mantojuma apliecībā ir ieraksts “(..) uz visu atstāto mantu. Mantiniece mantojumu ir pieņēmusi, un iesniegumā norādīts šāds atstātās mantas sastāvs: 1. Nekustamais īpašums (..)”. Līdz ar to ir jākārto kaut kas vēl atsevišķi. Civillikumā ir norādīts, ka mantojums ir kopība. Kas man būtu jādara, lai šo jautājumu varētu likumīgi sakārtot?",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Man pieder māja. Plānoju to uzdāvināt savai mazmeitai. Vai pēc manas nāves, kad mājas īpašniece būs mazmeita, mani bērni varēs jebkādi vērsties pret mazmeitu un izprasīt daļu? “Tiesības prasīt un saņemt neatņemamo daļu ietekmē vienīgi tas, vai neatņemamās daļas tiesīgais patiešām nav saņēmis (nevar saņemt) pat savu neatņemamo daļu.” Ko tieši nozīmē “sava neatņemamā daļa” un “patiešām nav vai ir saņēmis”? Vai tā ir kāda nemainīga, likumā noteikta summa, vai to aprēķina no kopējās mantojuma masas? Vai to aprēķina no miršanas brīdī zemesgrāmatā ierakstītajiem īpašumiem vai no visa, kas dzīves laikā cilvēkam ir piederējis? Kādās situācijās neatņemamās daļas tiesīgais patiešām saņemtu savu daļu un pirms miršanas dāvinātais īpašums netiktu aiztikts, no tā vērtības nekas nebūtu jāizmaksā? Vai un kā atšķirtos situācijas, proti, vai no dāvinājuma saņēmēja kaut kas tiktu pieprasīts?\n1. Dzīves laikā ir māja, to dāvina, pēc nāves nav vairs neviena īpašuma.\n2. Dzīves laikā ir māja un dzīvoklis, māju dāvina, pēc nāves paliek dzīvoklis.",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Vai Pilsonības un migrācijas lietu pārvaldes nodaļā personai ar universālpilnvaru izsniegs citas personas eID kartes pinkodu aploksni, ja iepriekšējā ir pazaudēta un pati persona to nevar izdarīt veselības stāvokļa dēļ?",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Dzīvoju ar vīru un trijiem bērniem privātmājā. Īpašums ir uz mana vārda. Pirms pāris gadiem iegādājāmies šo īpašumu no mana tēva un māsām. Esam atdalījuši atsevišķu ēkas pusi tēvam. Viņš par savu ēkas pusi nerūpējas. Telpā, kur atrodas kurināmais katls, tiek lietots alkohols un smēķētas cigaretes. Telpa ir pievilkta pilna ar viegli uzliesmojošām lietām, ir grūti tikt cauri viņa dzīvojamajai daļai. Kā man rīkoties, lai neapdraudētu savu un ģimenes locekļu dzīvību un veselību? Kas var izvērtēt šādas situācijas? Vai man ir tiesības likumīgi tēvu izrakstīt no īpašuma?",
+            "answer": ""
+        },
+        {
+            "question": "Vai PMLP un Latvijas vēstniecības ārzemēs, izdodot pasi vai ID karti, redz, ka dokumentu saņēmējs atrodas meklēšanā?",
+            "answer": ""
+        },
+        {
+            "question": "Esmu nekustamā īpašuma īpašnieks (valdītājs vai lietotājs) daudzdzīvokļu mājā, kurai pašvaldība, balstoties uz saistošajiem noteikumiem, pieprasa noslēgt vienu kopēju atkritumu apsaimniekošanas līgumu visai mājai. Tomēr saskaņā ar pašvaldības saistošo noteikumu 17. punktu “nekustamā īpašuma īpašniekam (valdītājam, lietotājam), pārvaldniekam vai citai īpašnieka pilnvarotai personai, papildus šo saistošo noteikumu III nodaļā noteiktajam, ir šādi pienākumi: 17.1. noslēgt līgumu ar atkritumu apsaimniekotāju par atkritumu apsaimniekošanu. Atkritumu apsaimniekošanas līgums ir jāslēdz par katru īpašumā, valdījumā vai lietošanā esošo nekustamo īpašumu, ja tas tiek apdzīvots”.\nŅemot vērā šo noteikumu, vai man ir tiesības vienpersoniski noslēgt atkritumu apsaimniekošanas līgumu par savu dzīvokli, neskatoties uz pašvaldības prasību par kopēju līgumu visai mājai? Vai pašvaldības prasība par vienu kopīgu līgumu visam namam ierobežo manas tiesības uz individuālu līguma slēgšanu, un vai šāda prasība ir tiesiski pamatota?",
+            "answer": ""
+        },
+        {
+            "question": "Kas jādara pensionāram, lai Rīgā ar sabiedrisko transportu brauktu bez maksas? Vai pietiek ar pensionāra apliecību? Vai arī ir vajadzīga kāda bezmaksas biļete?",
+            "answer": ""
+        },
+        {
+            "question": "Es gribēju reģistrēties kāzām 16. novembrī.",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Man ar bankas kredītu bija nopirkts dzīvoklis. Šo dzīvokli galvotājs pārdeva bez mana paraksta. Vai tas ir likumīgi? Palika parāds par komunālajiem maksājumiem, un tiesa piespieda man tos samaksāt. Galvotājs ir miris. Dzīvoklī dzīvo ģimene.",
+            "answer": ""
+        },
+        {
+            "question": "Sveicināti! Dzīvokļa iegādei 2018. gadā tika paņemts hipotekārais kredīts ar “Altum” programmu. Kredīts izsniegts “Luminor” bankā uz 20 gadiem. Es esmu kredīta līdzaizņēmējs. Kopā vairs nedzīvojam. Tagad īpašnieks dzīvokli grib pārdot. Vai viņš to drīkst darīt bez manas piekrišanas un paraksta?",
+            "answer": ""
+        },
+        {
+            "question": "Sveiki! 2008. gada finanšu krīzes laikā tika paņemts kredīts mājas būvniecībai. Nespējot tālāk maksāt, īpašums tika atsavināts, pārdots izsolē. Dēls bija kredīta līdzaizņēmējs. 2022. gadā stājoties spēkā likumam par krīzes laikā ņemto kredītu, man kredīts tika norakstīts 100% apjomā, jo atbildu visiem vajadzīgajiem kritērijiem. Savukārt dēlam tas tika uzlikts Latvijas Bankas Kredītu reģistrā kā parāds 100% apmērā. To viņš uzzināja, aizbraucot un izņemot izziņu. Vai tas ir likumīgi, ja bankā tas ir norakstīts 100%? Nekādas vēstules vai paziņojumi šo divu gadu laikā dēlam nav sūtīti. Dēls devās uz konkrēto banku, jautāja, vai ir ko parādā. Bankas darbiniece atbildēja, ka neko neatrod. Kad dēls uzrakstīja iesniegumu un lūdza, lai viņu izņem no Latvijas Bankas reģistra, banka atbildēja, lai maksā kredītu, jo viņam tas neesot norakstīts. Kā to izprast? Vai ir vajadzīgs tiesas lēmums, lai banka varētu prasīt šo kredītu maksāt? Vai šajā gadījumā ir kāds noilgums vai laika periods brīdinājuma vēstulēm? Dēls dzīvo ārpus Latvijas, vēlas atgriezties mājās, bet diemžēl parāds ir liels, tuvu 100 000 EUR, un nav reāli to atdot. Ļoti vēlētos izprast un atrisināt šo situāciju par kredītu bankā, kurš sen ir norakstīts.",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Mazmeita, vairs nespējot aprūpēt savu vecmammu, ar vecmammas piekrišanu ir viņu ievietojusi ilgstošas sociālās aprūpes iestādē. Sociālās aprūpes sniedzējs (SIA) noslēdza trīspusēju līgumu, vecmāmiņu norādot kā pakalpojuma saņēmēju, savukārt mazmeitu – kā maksātāju, lai arī sākotnēji bija pārrunāts, ka pati vecmamma būs gan maksātājs, gan pakalpojuma saņēmējs. Vecmammai ir savi iekrātie naudas līdzekļi, kas pašreiz tiek lietoti, lai segtu izmaksas par uzturēšanos sociālās aprūpes iestādē, kā arī viņai pieder nekustamais īpašums. Šai seniorei visi bērni ir miruši, palikuši tikai mazbērni. Vai noslēgtais trīspusējais līgums par ilgstošas sociālās aprūpes piešķiršanu seniorei nozīmē, ka mazmeitai būs pienākums segt visas izmaksas par vecmammas uzturēšanos minētajā iestādē, ja seniorei būtu beigušies iekrājumi un ar valsts pensiju nepietiks?",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Vai iestādei ir tiesības atteikt fiziskai personai pakalpojumu tāpēc, ka nav iesniegts dokumenta oriģināls? Konkrētais dokuments, par kuru ir strīds, ir ārsta atzinums, un tas personai ir izsniegts papīra formātā. Attiecīgajā iestādē šis ārsta atzinums tika iesniegts kopā ar personas iesniegumu elektroniskā dokumenta veidā. Ārsta atzinums iesniegumam tika pievienots kā dokumenta atvasinājums (kopija), noformējot to atbilstoši Dokumentu elektroniskā spēka likumā un Ministru kabineta 2018. gada 4. septembra noteikumos Nr. 558 “Dokumentu izstrādāšanas un noformēšanas kārtība” noteiktajam. Iestāde uzskata, ka persona nedrīkst iesniegt pašas atvasinātu ārsta atzinumu un viņai ir obligāti jāiesniedz oriģināls. Attiecībā uz konkrēto atzinumu speciālais normatīvais regulējums neparedz, ka būtu iesniedzams tikai un vienīgi oriģināls. Vai iestādei vispār ir tiesības noteikt, ka iesniedzams tikai oriģināls un līdz ar to atvasinājumi nav derīgi? Un kāda ir rīcība tad, ja šāda prasība ir iekļauta speciālajā regulējumā (MK noteikumos atsevišķos gadījumos ir norāde “ārstniecības personas novērtējumu (oriģinālu)”. Veidojas pretruna: likums atļauj personai apliecināt atvasinājumus, bet MK noteikumi noteic, ka tie nav derīgi un ir iesniedzams tikai un vienīgi oriģināls. Šajā gadījumā nerunājam par prasību iesniegt notariāli apliecinātus dokumentus, runa ir par medicīniskiem dokumentiem: ārsta izziņām, atzinumiem, slēdzieniem u. tml.",
+            "answer": ""
+        },
+        {
+            "question": "Mūsu ģimenei piederēja māja, kuru 60. gadu beigās atsavināja rūpnīcas būvniecībai, un tās vietā tika piešķirts dzīvoklis Rīgā, daudzdzīvokļu namā. Dzīvoklis joprojām atrodas mūsu lietošanā, taču bez īpašuma tiesībām, jo 90. gados privatizācija netika veikta. Vai mūsu ģimenei ir kāds tiesisks pamats dzīvokli no pašvaldības pārrakstīt savā īpašumā, ņemot vērā, ka atsavinātā māja bija īpašumā?",
+            "answer": ""
+        },
+        {
+            "question": "Mani interesē Autortiesību likuma regulējums šādai situācijai. Kā fotogrāfs es veicu fotosesiju un bilžu apstrādi privātpersonai bez rakstveidā noslēgta līguma. Bildes tika nodotas klientam jpg formātā. Klients saņemtās bildes gribēja nedaudz citādākas un apstrādāja pa savam. Es kā fotogrāfs norādīju, ka nevēlos, lai bildes tiek pārveidotas. Vai fotogrāfam ir tiesības pieprasīt, lai to nedara? Klientam liekas normāli tā darīt, jo viņš par fotogrāfu darbu ir samaksājis un uzskata, ka bildes ir viņa īpašums. Vai šis ir sodāms pārkāpums?",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Ar mammu dzīvojam īpašumā, kuram kopā ir četri īpašnieki: mamma, es, brālis, māsa. Brālis un māsa par mammu, kura ir 2. grupas invalīde, un par īpašumu neliekas ne zinis, prasa no manis, lai maksāju īri un atpērku viņu daļas, draud, ka metīs ārā un visu slēgs ciet. Mamma grib visu atstāt man, jo es par visu rūpējos. Esam lasījuši informāciju par uztura līgumu. Vai pārējie kopīpašnieki var apstrīdēt starp mani un mammu noslēgtu uztura līgumu? Vai pēc mammas nāves brālim un māsai no viņas kopīpašuma daļas pienākas neatņemamā daļa?",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Mana bērna tēvs maksā uzturlīdzekļus nepilnā apmērā (no bērna 7 gadiem bija jāmaksā 120 eiro, bet tēvs turpināja maksāt 70 eiro). Tas ir pēc vienošanas pie notāra, kad izšķīrāmies 2012. gadā. Tagad bērnam ir 16 gadi. Bērns mācās 10. klasē attālināti, un par mācībām ir jāmaksā. Tēvs atteicās maksāt vairāk par 70 eiro. Es iesniedzu iesniegumu par uzturlīdzekļu piedziņu no bērna tēva. Bērna tēvs piezvanīja un draudēja, ka iesniegs iesniegumu par uzturlīdzekļu piedziņu no sava bērna, kad viņš kļūs pilngadīgs. Vai tas ir likumīgi? Bērna tēvs šobrīd nedzīvo Latvijā. Viņš dzīvo un strādā citā valstī.",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Vēlos strādāt par aukli bērniņam, ir iegūts aukles sertifikāts. Vai man ir jāreģistrējas kā pašnodarbinātajai personai, vai par mani tiks maksāti nodokļi? Vai auklei slimības gadījumā apmaksās slimības lapu? Ar kādiem nosacījumiem aukle var saņemt pašvaldības līdzfinansējumu?",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Ēka ir kopīpašums ar privātiem dzīvokļiem. Ēku apsaimnieko fiziska persona, kurai īpašumā nav neviens no dzīvokļiem, tātad sniedz nama apsaimniekošanas pakalpojumu.\nVai ēkas noteku iztīrīšana ietilpst apsaimniekošanas izmaksās? Savstarpēji noslēgtajā līgumā par nama apsaimniekošanu apsaimniekotājs ir ielicis punktu: nodrošināt dzīvojamās mājas kopīpašumā esošo kopīgo komunikāciju (jumts, lietus ūdens notekcaurules, kopīgais ūdensvada un kanalizācijas pievads) pienācīgu darbību.\nVai par noteku iztīrīšanu apsaimniekotājs var sagatavot izmaksu tāmi, kas jāsedz dzīvokļu īpašniekiem?\nVai apsaimniekotāja izrakstītie rēķini dzīvokļu īpašniekiem drīkst atšķirties? Piemēram, 2. dzīvoklis maksā par apdrošināšanu koplietošanas telpām, bet 3. dzīvoklim šāda maksājuma nav rēķinā.\nVai sniega izvešanu ziemas periodā rēķinā var definēt kā “atkritumu izvešanu”?\nVai apsaimniekotājs var prasīt samaksu par mājas lietā ietvertās informācijas sniegšanu dzīvokļu īpašniekiem?",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Vai ir kāds likums, kas nosaka to, ka bezsaimnieka kaķi nedrīkst barot mājas koplietošanas telpās, kā arī ko darīt, ja tā saucamie “humānisti” laiž kaķi pagrabā, nevis ņem pie sevis dzīvoklī? Vai netiek pārkāptas citu mājas iedzīvotāju tiesības uz drošību? Kaķis nav sterilizēts, bet pašvaldības policija neko nedara lietas labā.",
+            "answer": ""
+        },
+        {
+            "question": "Vai Iesniegumu likumu piemēro jebkādai elektroniskai saziņai ar valsts iestādi, piemēram, ja tiek uzdots vienkāršs jautājums vai lūgts izskaidrot normatīvo aktu, sniedzot nelielu konsultāciju? Iepriekš uzskatīju, ka Iesniegumu likums piemērojams situācijās, kad tiek iesniegts oficiāls iesniegums, nevis uzdots jautājums. Vai man ir kādas iespējas rīkoties situācijā, kad valsts iestāde atsaucas uz Iesniegumu likumu, noraidot atbildes sniegšanu uz vienkārši uzdotu jautājumu?",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Vai ziedojumus kaut kā apliek ar nodokli? Ja naudu pārskaita, piemēram, uz ārzemju kontu labdarībai?",
+            "answer": ""
+        },
+        {
+            "question": "Sveiki! 1. Vai Latvijā ir atļauts tirgot binārās opcijas? 2. Vai Latvijā var tirgot darījumu līgumu par cenu atšķirību (CDF)? 3. Vai Latvijā var darboties IQ Option brokeris? 4. Ja es ar to nodarbotos, vai man ir jādeklarē ienākumi? Paldies par atbildi!",
+            "answer": ""
+        },
+        {
+            "question": "Labvakar! Daudzdzīvokļu mājā kaimiņi virs mana dzīvokļa izbūvēja nojumi savai terasei, kas izmainīja mājas fasādes izskatu. Vai tas ir likumīgi, vai šīs izmaiņas nebija jāsaskaņo ar pārējiem dzīvokļu īpašniekiem?",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Bērnam tika noteikta diagnoze celiakija. Gastroenterologs uzrakstīja izziņu, lai pabalsts tiktu maksāts līdz 04.09.2024., un pie ārsta pēc nākamās izziņas bija jāvēršas 2024. gada oktobrī. Vērsos ātrāk, 21.09.2024. Protams, ārsts celiakijas diagnozi pagarināja un izziņā ierakstīja: “pagarināt celiakijas atbalstu līdz 2026. gada oktobrim”. Izziņa tika nodota VSAA. Bet VSAA nolēma, ka pabalstu par periodu no 04.09.2024. līdz 21.09.2024. neizmaksās. Vai tas ir pareizi? Ārsts jaunajā izziņā norādīja “pagarināt celiakijas pabalstu”, jo celiakija nekur nav pazudusi.",
+            "answer": ""
+        },
+        {
+            "question": "Kāda summa paliks parādniekam uz rokas pēc 1. oktobra, ja ir vairāki tiesu izpildītāji? Neto alga ir aptuveni 1200 eiro. Apgādībā ir viens bērns un vēl par diviem tiek maksāti uzturlīdzekļi 341 eiro apmērā.",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Man ir kredītu parādu lietas pie trīs tiesu izpildītājiem un ir viens apgādājamais. Paskaidrojiet, lūdzu, kā starp tiesu izpildītājiem tiks sadalīta piedzenamā summa?",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Pirms 19 gadiem, būdams nepilngadīgs, izdarīju noziegumu, kas klasificējās kā sevišķi smags. Vai ir iespēja tik senu krimināllietu izskatīt atkārtoti, lai samazinātu nozieguma smaguma pakāpi? Ir saglabāti visi krimināllietas materiāli.",
+            "answer": ""
+        },
+        {
+            "question": "DUS tika veikts kriminālpārkāpums pēc KL 180. panta pirmās daļas (zādzība par 1,50 eiro), zagļi aizbēga, tika izsaukta Valsts policija. Policija iesniegumu atteicās pieņemt, jo DUS kasierei neesot pilnvaras ziņot par nodarīto kaitējumu un iesniegt iesniegumu par materiālajiem zaudējumiem. Policija apgalvoja, ka no šādiem iesniegumiem nav jēgas, jo persona netiks saukta pie atbildības, ja netika veikta zādzība lielā apmērā (ja pareizi sapratu, minimālās mēnešalgas apmērā). Vai policija ir tiesīga nepieņemt iesniegumus, pat ja nav šīs pilnvaras? Vai personas netiek sauktas pie kriminālās atbildības pat tad, ja ar vairākām zādzību epizodēm tiek sasniegta šī minimālā mēnešalga? Kādi sodi ir paredzēti, piemēram, tikai par vienu šo zādzību?",
+            "answer": ""
+        },
+        {
+            "question": "Man pieder zemnieku saimniecība, kura ir reģistrēta Uzņēmumu reģistrā. Izskatās, ka z/s vārdā būs jāiesniedz pieteikums administratīvajā tiesā. Kā noformēt dokumentu, lai es varu savu z/s pārstāvēt tiesā? Vai man kā fiziskai personai pie notāra būtu jāraksta pilnvara savas z/s pārstāvībai tiesā?",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Jautājums par auto ekspluatācijas nodokli. Auto jau 1,5 gadus stāv, un ir uzkrājies nodoklis par šo gadu. Ja auto tiek norakstīts un saņemts sertifikāts, vai būs jāmaksā nodoklis par šo gadu?",
+            "answer": ""
+        },
+        {
+            "question": "Vasaras mājas ceļam nav servitūta, kaimiņi ceļu izmanto, pārvadājot kokmateriālus ar smago tehniku lietavās, ceļš nav uz kaimiņu zemes. Kādas ir manas tiesības tiesāties par nodarītajiem zaudējumiem un liegto piekļuvi īpašumam?",
+            "answer": ""
+        },
+        {
+            "question": "Pašnodarbināta persona, kas sniedz juridiskas konsultācijas un veic vienkāršā ieraksta grāmatvedību, iegādājās automašīnu. Automašīna tiek izmantota arī saimnieciskajā darbībā. Vai to var uzskaitīt kā pamatlīdzekli, nolietojumu aprēķinot reizi 5 gados, un izdevumos iekļaut gada beigās, izdevumus precizējot? Kādas darbības vēl nepieciešamas, lai automašīnu lietotu saimnieciskajā darbībā?",
+            "answer": ""
+        },
+        {
+            "question": "Vai pilsētas daudzdzīvokļu mājā privatizētā dzīvokļa īpašniekam ir obligāti jāveic zemes atsavināšana? Kam konkrēti maksāt naudu?",
+            "answer": ""
+        },
+        {
+            "question": "Lūdzu konsultāciju par kopības lēmuma pieņemšanu. Ēkā ir 120 dzīvokļi. Nepieciešams veikt ūdens skaitītāju maiņu. 2016. gadā tika pieņemts kopības lēmums, ka ēkā jāuzstāda vienādi skaitītāji ar attālinātu nolasīšanas sistēmu. Tā kā nebija ūdens korekcijas, kopība pagarināja ūdens skaitītāju izmantošanas termiņu. Pienāca laiks nomainīt ūdens skaitītājus. Pēc dzīvokļu īpašnieku prasības aptaujā, kas notika no 20.09.2024. līdz 07.10.2024., bija iekļauti mehāniskie, hibrīda un ultraskaņas ūdens skaitītāji. Pēc aptaujas noslēgšanās apkopoti šādi rezultāti: balsoja 77 dzīvokļu īpašnieki (DĪ) no 120 (64%). Par mehāniskajiem skaitītājiem nobalsoja 19 DĪ (16% no kopējā DĪ skaita un 25% no tiem, kas piedalījās balsojumā); par hibrīda skaitītājiem nobalsoja 15 DĪ (13% no kopējā DĪ skaita un 19% no tiem, kas piedalījās balsojumā); par ultraskaņas skaitītājiem nobalsoja 43 DĪ (36% no kopējā DĪ skaita un 56% no tiem, kas piedalījās balsojumā). Vai biedrība, kas apsaimnieko māju, pamatojoties uz balsošanas rezultātiem, var slēgt līgumu par ultraskaņas ūdens skaitītāju uzstādīšanu?",
+            "answer": ""
+        },
+        {
+            "question": "Pilngadīgs dēls no vecāku dzīvesvietas, viņiem klāt neesot, izveda daudzas vērtīgas mantas, ko savulaik iegādājās māte. Mātei ir saglabāti preču iegādes dokumenti. Dēls nevēlas atdot paņemto tehniku un mantas. Tāpat dēls bija lūdzis aizdot naudu studijām RTU. Vairāk nekā četrus gadus uz dēla kontu tika pārskaitīta nauda. Uz jautājumu, kad tiks atdots aizņēmums, atbildes nebija, un tika nobloķēti abu vecāku telefonu numuri, nekādu sakaru ar dēlu nav. Dēlam ir pastāvīgs darbs, un viņš īrē dzīvokli. Kā risināt šo nejauko situāciju?",
+            "answer": ""
+        },
+        {
+            "question": "Sveiki! Ja ar tiesas lēmumu bērnu dzīvesvieta ir noteikta pie tēva un bērnu mātei netiek piemērota uzturlīdzekļu piedziņa diviem bērniem 350 EUR apmērā, vai bērnu mātei tas dod lielākas tiesības pārsūdzēt bērnu dzīvesvietas noteikšanu? Bērnu māte ir krimināli sodīta, šobrīd nav stabilu ienākumu, un viņa ir bāriņtiesas uzraudzībā, jo apdraud bērnu drošību, tāpēc bērni nevar dzīvot pie mātes. Bērnu tēvs patlaban nevēlas sniegt prasību par uzturlīdzekļu piedziņu. Vai to var izdarīt citādi vai vēlāk, nevis uzreiz ar tiesas lēmumu? Piemēram, kopīgi audzinot un aprūpējot bērnus? Izskaidrojiet, lūdzu, no visiem aspektiem, lai būtu saprotams, kā bērnu tēvam labāk rīkoties. Paldies!",
+            "answer": ""
+        },
+        {
+            "question": "Ko darīt pēc “vienošanās par zemesgabala nodošanu bez atlīdzības” saņemšanas? Kādi dokumenti un nodevas nepieciešami īpašuma tiesību reģistrēšanai zemesgrāmatā? Kāda ir mana darbību secība?",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Vai mājas pārvaldnieks ir tiesīgs no dzīvokļu īpašniekiem pieprasīt apmaksāt ūdens starpību, ja šī starpība radās pēc trešās personas nelikumīgas pieslēgšanās pie dzīvojamās mājas ūdensvada? Pārvaldnieks šo faktu konstatēja pats, apsekojot ūdensapgādes sistēmu. Vai ir jābūt konstatētiem vēl kādiem citiem apstākļiem, lai noteiktu, vai pārvaldnieka rīcība (pieprasīt īpašniekiem apmaksāt ūdens starpību) ir tiesiska? Paldies.",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Vēršos pie jums ar jautājumu par balsošanas protokoliem. Mums ir izveidotas anketas aptaujai ar mērķi mainīt namu apsaimniekotāju. Anketēšana nenotiek kopsapulcē, anketas paredzēts individuāli nosūtīt pa e-pastu vai ievietot pastkastītēs. Vai balsošanas protokolā ir jānorāda, kuri dzīvokļu īpašnieki ir balsojuši “par” un kuri – “pret”? Balsošanas anketā ir minēts, ka dzīvokļu īpašnieki ir pilnvarojuši noteiktas personas viņus pārstāvēt, parakstīt līgumus, tāmes un citus dokumentus, kas saistīti ar namu pārņemšanu. Oficiāla balsošana par pilnvarotajām personām nav bijusi, es nevēlos uzticēt parakstīt sev saistošus līgumus svešiem cilvēkiem. Ja 51% nobalsos par pāriešanu pie cita namu apsaimniekotāja, tad mums vairs nebūs teikšanas par līgumiem, tāmēm, jo būsim pilnvarojuši to darīt citiem. Vai sākotnēji būtu jābūt balsošanai par pilnvarotajām personām, pirms tās tiek iekļautas balsojuma anketā kā pilnvarotās personas?",
+            "answer": ""
+        },
+        {
+            "question": "Kam pieder daudzdzīvokļu dzīvojamā māja, ja tā nav pārņemta pārvaldībā? Vai šī māja ir uzskatāma par pašvaldībai piederošu, pašvaldībai valdījumā esošu, vai tomēr tās īpašnieks ir dzīvokļu īpašnieku kopība?",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Es kā privātpersona esmu aizdevusi naudu privātpersonai. Aizdevuma līgums ir noslēgts 2006. gadā. Aizdevums noteiktā laikā (līdz 2007. gada decembrim) netika atmaksāts. Tas tika aizskaitīts no bankas konta uz aizņēmēja bankas kontu, ir maksājuma uzdevuma kopija, kuru apstiprinājusi banka. Kā es no aizņēmēja varu piedzīt savu naudu ar kavējuma procentiem, kas tika nolīgti aizdevuma līgumā? Vai man ir jāvēršas ar prasību tiesā? Paldies.",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Man pieder dzīvoklis, kurā es nedzīvoju, dzīvoklis arī netiek izīrēts, stāv tukšs. Pati dzīvoju īrētā mājoklī, jo tā man ir ērtāk (aprūpēju 1. grupas invalīdu). Īres līguma nav. Vai es varu saņemt maznodrošinātas mājsaimniecības statusu un mājokļa pabalstu?",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Vai varu iegūt bezdarbnieka pabalstu, ja pirms darba attiecību izbeigšanas atrados uz slimības lapas? Kā tas tiks aprēķināts?",
+            "answer": ""
+        },
+        {
+            "question": "Vai var celt prasību tiesā pret ārstniecības iestādi, ja Veselības inspekcijas atzinums par ārstniecības pārkāpumiem ir bijis pirms 12 gadiem?",
+            "answer": ""
+        },
+        {
+            "question": "Labdien! Šogad iegādājāmies dzīvokli jaunuzceltā mājā, un tika noslēgts līgums ar apsaimniekotāju. Gandrīz pusgadu pēc pakalpojumu nodrošināšanas apsaimniekotājs mūs informē, ka mājai ir izveidojies parāds 8017,99 eiro apmērā, kas sevī iekļauj maksu par siltumenerģiju, ūdeni un kanalizāciju, elektroenerģiju, liftu apkalpošanu, atkritumu apsaimniekošanu, pārvaldības atlīdzību, uzkrājuma fondu, kavējuma naudu u. c. Parāda summu veido sniegtie pakalpojumi trijiem vēl nepārdotajiem dzīvokļiem, kas joprojām pieder attīstītājam. Attīstītājs atsakās maksāt parāda summu, jo tādu līdzekļu neesot. Viņš pieprasa parādu segt pārējiem mājas iedzīvotājiem (pārējie iedzīvotāji maksājumus ir veikuši laikus)! Draud, ka tikšot atslēgts ūdens un elektrība. Pēc atkārtotiem lūgumiem apsaimniekotājs atsakās iesniegt prasību tiesā pret attīstītāju, lai tiesas ceļā piedzītu iztrūkstošo summu. Vai šajā situācijā ir pieļaujams, ka no pārējiem mājas iedzīvotājiem pieprasa apmaksāt attīstītāja parādu par nepārdotajiem dzīvokļiem? Parāda summa tikai augs līdz brīdim, kad tie tiks pārdoti. Vai šajā situācijā apsaimniekotāja draudi par elektrības un ūdens atslēgšanu ir adekvāti? Kā rīkoties, ja mājas attīstītājs nespēj samaksāt parāda summu par savu dzīvokļu apsaimniekošanu un audzē mājas parādu?",
+            "answer": ""
+        },
+        {
+            "question": "Man pieder dzīvoklis, kurā dzīvo īrnieki ar beztermiņa līgumu, kas ir no 1995. gada. Tagad jaunā likuma 9. pants paredzot, ka jābūt īres līguma beigu termiņam. Īrnieks apgalvo, ka grib maksimālo termiņu, tas ir, līdz 2036. gadam. Es nevēlos, lai tur kāds tik ilgi dzīvo, – piedāvāju līdz 2026. gadam. Ko darīt, ja nevaram vienoties par līguma beigu termiņu? Vai tiešām atliek tikai tiesa? Paldies!",
+            "answer": ""
+        }
+    ]
+}
