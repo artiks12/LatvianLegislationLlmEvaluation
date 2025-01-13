@@ -1,6 +1,6 @@
 # Modeļu novērtējumi kursa darbā "Lielo valodas modeļu novērtēšana un pielāgošana jautājumu atbildēšanai par Latvijas likumdošanu"
 
-Tabulā ir norādītas atsauces uz rakstiem, kuru dati tika izmantoti vērtēšanai. N.P.K norāda secību, kādā dati tika izgūti no datu avotiem. Instrukcijas garuma secība norāda atbilstošo avotu datu secību failā "ChatbotInstructions/chatbotEvaluation.txt".
+Tabulā ir norādītas atsauces uz rakstiem, kuru dati tika izmantoti vērtēšanai. N.P.K norāda secību, kādā dati tika izgūti no datu avotiem. Instrukcijas garuma secība norāda atbilstošo avotu datu secību failā "ChatbotInstructions/chatbotEvaluation.txt". Tie jautājumi, kuriem šajā kolonnā ir skaitlis no 275-277 nav sastopami, jo to uzvednes bija pārāk lielas.
 |N.P.K|Instrukcijas garuma secība|Atsauce|
 |-|-|-|
 |1|50|Nataļja Sergačova, “Tieslietas”, LV portāls, 26 nov. 2024. Pieejams: https://lvportals.lv/e-konsultacijas/e-konsultacijas/34606-sods-par-darba-liguma-nenoslegsanu-rakstveida-forma-2024|
