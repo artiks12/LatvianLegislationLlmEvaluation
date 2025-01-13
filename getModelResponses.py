@@ -12,8 +12,7 @@ def WriteFile():
 def ReadQuestionsFromFolder(path: str):
     if not os.path.exists(path):
         os.makedirs(path)
-    # onlyfiles = [f for f in listdir(path) if isfile(join(path, f))]
-    onlyfiles = ['dati_2024_11.json']
+    onlyfiles = [f for f in listdir(path) if isfile(join(path, f))]
     questions = []
     gold = []
 

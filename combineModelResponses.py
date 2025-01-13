@@ -8,9 +8,6 @@ def GetHypothesisAndReference(path: str, file):
         os.makedirs(path)
     model = ''
 
-    
-    
-
     hyps = []
     refsROUGE = []
     refsBERT = []
@@ -21,7 +18,6 @@ def GetHypothesisAndReference(path: str, file):
         refsBERT.append(d['gold'])
             
     return hyps, refsROUGE, refsBERT, model
-
 
 path = 'modelResponses'
 
@@ -41,6 +37,6 @@ for file in onlyfiles:
         result[d]['question'] = data['Qs&As'][d]['question']
         result[d][model] = data['Qs&As'][d]['answer']
 
-with open(f'combined_responses.json', 'wt', encoding='utf-8') as f:
+with open(f'ModelResponses/Combined/combined_responses.json', 'wt', encoding='utf-8') as f:
     json.dump(result, f, ensure_ascii=False, indent=4)
     

@@ -51,11 +51,21 @@ def GetROUGEforSeparateSentences(hyps, refs):
             if finalScores['ROUGE-L'] > 0.2:
                 print(i, finalScores)
 
+def GetTrueRougeScores(scores):
+    return {
+        'ROUGE-1': round(scores['rouge-1']['r'], 4),
+        'ROUGE-2': round(scores['rouge-2']['f'], 4),
+        'ROUGE-4': round(scores['rouge-4']['f'], 4),
+        'ROUGE-L': round(scores['rouge-l']['f'], 4),
+        'ROUGE-W': round(scores['rouge-w-1.2']['f'], 4),
+        'ROUGE-S': round(scores['rouge-s4']['f'], 4),
+        'ROUGE-SU': round(scores['rouge-su4']['f'], 4)
+    }
+
 
 path = 'modelResponses'
 
 onlyfiles = [f for f in listdir(path) if isfile(join(path, f))]
-# onlyfiles = ['results_llama3.2.json']
 rouge = PyRouge(rouge_n=(1, 2, 4), rouge_l=True, rouge_w=True,
     rouge_w_weight=1.2, rouge_s=True, rouge_su=True, skip_gap=4)
 bert = BERTScorer(lang='lv')
@@ -64,14 +74,11 @@ for file in onlyfiles:
     hyps, refsROUGE, refsBERT, model = GetHypothesisAndReference(path, file)
     print(model)
     ROUGEscores = rouge.evaluate(hyps, refsROUGE)
-    FixRougeScores(ROUGEscores)
-    P_bert, R_bert, F1_bert = score(hyps, refsBERT, lang='lv',verbose=True)
+    P_bert, R_bert, F1_bert = bert.score(hyps, refsBERT, verbose=False)
     result = {
         'model': model,
-        'ROUGE': ROUGEscores,
+        'ROUGE': GetTrueRougeScores(ROUGEscores),
         'BERTScore': {
-            'p': round(P_bert.mean().item(),4),
-            'r': round(R_bert.mean().item(),4),
             'f': round(F1_bert.mean().item(),4)
         }
     }
