@@ -13,8 +13,8 @@ Direktīvu struktūra:
 Faili:
 - ChatBotEvaluations.xlsx - glabājas vērtējumi, kurus lielie LLM sniedza mazajiem LLM un cilvēku atbildēm.
 - ChatBotReferences - glabājas sarakstes no lielajiem LLM par vērtējumiem un atbildēm, izņemot Gemini 2.0 Flash Experimental. Tās sarakstes atrodas direktīvā Gemini 2.0 references.
-- chatbotEvaluation.py - Python skripts, kas sagatavo instrukcijas lielajiem LLM, lai vērtētu cilvēku atbildes un mazo LLM atbildes. Izejas fails atrodas ChatBotInstructions/chatbotEvaluation.txt.
-- chatbotQuestioning.py - Python skripts, kas sagatavo instrukcijas lielajiem LLM, lai atbildētu uz jautājumiem par likumdošanu. Izejas fails atrodas ChatBotInstructions/chatbotQuestioning.txt.
+- chatbotEvaluation.py - Python skripts, kas sagatavo instrukcijas lielajiem LLM, lai vērtētu cilvēku atbildes un mazo LLM atbildes. Izejas fails atrodas ChatBotInstructions/chatbotEvaluation.txt. Jautājumu secība ir norādīta tabulas otrajā kolonnā.
+- chatbotQuestioning.py - Python skripts, kas sagatavo instrukcijas lielajiem LLM, lai atbildētu uz jautājumiem par likumdošanu. Izejas fails atrodas ChatBotInstructions/chatbotQuestioning.txt. Jautājumu secība ir norādīta tabulas pirmajā kolonnā.
 - combineModelResponses.py - Python skripts, kas apvieno visu mazo LLM un cilvēku atbildes vienā failā. Izejas fails atrodas ModelResponses/Combined/combined_reponses.json
 - evaluateModels.py - Python skripts, kas vērtē mazo LLM sniegtās atbildes, izmantojot ROUGE un BERTScore. Izejas faili atrodas direktīvā scores.
 - getChatbotResponses.py - Python skripts, kas paņem HTML failus, kas atrodas direktīvā ChatBotHtmlFiles, izgūst no tiem lielo LLM atbildes uz jautājumiem par likumdošanu un izveido failu, kuru saglabā ModelResponses/References direktīvā .
