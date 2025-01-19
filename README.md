@@ -1,5 +1,26 @@
 # Modeļu novērtējumi kursa darbā "Lielo valodas modeļu novērtēšana un pielāgošana jautājumu atbildēšanai par Latvijas likumdošanu"
 
+Direktīvu struktūra:
+- ChatBotHtmlFiles - glabājas HTML faili ar komerciālo LLM atbildēm uz jautājumiem par likumdošanu.
+- ChatBotInstructions - glabājas teksta faili ar uzvednēm, kuri tika padoti komerciālajiem LLM, lai veiktu mazo LLM vērtēšanu un lai lielie LLM atbildētu uz jautājumiem par likumdošanu.
+- Gemini 2.0 references - glabājas HTML faili ar Gemini 2.0 Flash Experimental modeļa sarakstēm
+- ModelResponses - glabājas mazo un lielo LLM modeļu atbildes uz jautājumiem par likumdošanu. Galvenajā direktīvā glabājas mazo LLM atbildes. Šajā direktīvā ir apakšdirektīvas:
+  -   References - glabājas lielo LLM modeļu atbildes uz jautājumiem par likumdošanu
+  -   Combined - glabājas JSON fails, kas satur gan cilvēku, gan mazo LLM atbildes uz jautājumiem par likumdošanu
+- lvportāls - glabājas faili ar datiem no LV portāls e-konsultācijām. Ir dati par 2024. gada novembri. Atsauces uz datu avotiem skatīties zemāk.
+- scores - glabājas JSON faili ar modeļu atbilžu ROUGE un BERTScore vērtējumiem
+
+Faili:
+- ChatBotEvaluations.xlsx - glabājas vērtējumi, kurus lielie LLM sniedza mazajiem LLM un cilvēku atbildēm.
+- ChatBotReferences - glabājas sarakstes no lielajiem LLM par vērtējumiem un atbildēm, izņemot Gemini 2.0 Flash Experimental. Tās sarakstes atrodas direktīvā Gemini 2.0 references.
+- chatbotEvaluation.py - Python skripts, kas sagatavo instrukcijas lielajiem LLM, lai vērtētu cilvēku atbildes un mazo LLM atbildes. Izejas fails atrodas ChatBotInstructions/chatbotEvaluation.txt.
+- chatbotQuestioning.py - Python skripts, kas sagatavo instrukcijas lielajiem LLM, lai atbildētu uz jautājumiem par likumdošanu. Izejas fails atrodas ChatBotInstructions/chatbotQuestioning.txt.
+- combineModelResponses.py - Python skripts, kas apvieno visu mazo LLM un cilvēku atbildes vienā failā. Izejas fails atrodas ModelResponses/Combined/combined_reponses.json
+- evaluateModels.py - Python skripts, kas vērtē mazo LLM sniegtās atbildes, izmantojot ROUGE un BERTScore. Izejas faili atrodas direktīvā scores.
+- getChatbotResponses.py - Python skripts, kas paņem HTML failus, kas atrodas direktīvā ChatBotHtmlFiles, izgūst no tiem lielo LLM atbildes uz jautājumiem par likumdošanu un izveido failu, kuru saglabā ModelResponses/References direktīvā .
+- getHumanResponses.py - Python skripts, kas paņem datus no lvportāls direktīvas, izgūst no tiem cilvēku atbildes uz jautājumiem par likumdošanu un izveido failu, kuru ieraksta ModelResponses direktīvā. 
+- getHumanResponses.py - Python skripts, kas paņem datus no lvportāls direktīvas, izgūst no tiem jautājumus par likumdošanu, darbina mazos LLM, padodot tiem jautājumus, un no iegūtajām atbildēm izveido failu, kuru saglabā ModelResponses direktīvā. 
+
 Tabulā ir norādītas atsauces uz rakstiem, kuru dati tika izmantoti vērtēšanai. N.P.K norāda secību, kādā dati tika izgūti no datu avotiem. Instrukcijas garuma secība norāda atbilstošo avotu datu secību failā "ChatbotInstructions/chatbotEvaluation.txt". Tie jautājumi, kuriem šajā kolonnā ir skaitlis no 275-277 nav sastopami, jo to uzvednes bija pārāk lielas.
 |N.P.K|Instrukcijas garuma secība|Atsauce|
 |-|-|-|
