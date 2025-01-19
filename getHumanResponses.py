@@ -43,6 +43,6 @@ for i in range(len(questions)):
         'answer': gold[i]
     })
 
-fullpath = 'modelResponses/' + f'results_0_human.json'
+fullpath = 'ModelResponses/' + f'results_0_human.json'
 with open(fullpath, 'wt', encoding='utf-8') as f:
     json.dump(results, f, ensure_ascii=False, indent=4)

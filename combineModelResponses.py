@@ -19,7 +19,7 @@ def GetHypothesisAndReference(path: str, file):
             
     return hyps, refsROUGE, refsBERT, model
 
-path = 'modelResponses'
+path = 'ModelResponses'
 
 onlyfiles = [f for f in listdir(path) if isfile(join(path, f))]
 

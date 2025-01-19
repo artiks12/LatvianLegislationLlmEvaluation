@@ -49,6 +49,6 @@ for i in range(len(questions)):
     })
 
 modelName = model.replace('/',';').replace(':','_')
-fullpath = 'modelResponses/' + f'results_{modelName}.json'
+fullpath = 'ModelResponses/' + f'results_{modelName}.json'
 with open(fullpath, 'wt', encoding='utf-8') as f:
     json.dump(results, f, ensure_ascii=False, indent=4)

@@ -63,7 +63,7 @@ def GetTrueRougeScores(scores):
     }
 
 
-path = 'modelResponses'
+path = 'ModelResponses'
 
 onlyfiles = [f for f in listdir(path) if isfile(join(path, f))]
 rouge = PyRouge(rouge_n=(1, 2, 4), rouge_l=True, rouge_w=True,

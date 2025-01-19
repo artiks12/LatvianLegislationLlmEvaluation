@@ -2,7 +2,7 @@ from pyquery import PyQuery as pq
 import json
 
 HTML_FOLDER = 'WebChatHtmlFiles/'
-QUESTION_FOLDER = 'modelResponses/References/'
+QUESTION_FOLDER = 'MmodelResponses/References/'
 
 def GetSpecificQuestions(ids, HtmlFile, ModelFile, startElement, answerElement, questionElement = '', last = False):
     with open(HTML_FOLDER + HtmlFile, 'r', encoding='utf-8') as f:
