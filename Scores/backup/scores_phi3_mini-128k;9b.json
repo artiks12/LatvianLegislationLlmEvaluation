@@ -9,9 +9,7 @@
         "ROUGE-S": 0.0,
         "ROUGE-SU": 0.0005
     },
-    "BERTScore": {
-        "p": 0.4763,
-        "r": 0.4215,
-        "f": 0.4466
-    }
+    "BERTScore": 0.4466,
+    "BARTScore": -5.5764,
+    "MoverScore": -0.1075
 }

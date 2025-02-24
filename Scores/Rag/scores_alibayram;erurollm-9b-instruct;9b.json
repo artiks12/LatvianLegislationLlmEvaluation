@@ -1,0 +1,33 @@
+{
+    "model": "alibayram/erurollm-9b-instruct;9b",
+    "OriginalScores": {
+        "ROUGE": {
+            "ROUGE-1": 0.1708,
+            "ROUGE-2": 0.0196,
+            "ROUGE-4": 0.001,
+            "ROUGE-L": 0.122,
+            "ROUGE-W": 0.0416,
+            "ROUGE-S": 0.0158,
+            "ROUGE-SU": 0.045
+        },
+        "BERTScore": 0.6791,
+        "BARTScore": -4.254,
+        "UniEval": 0.5862,
+        "MoverScore": 0.2203
+    },
+    "RagScores": {
+        "ROUGE": {
+            "ROUGE-1": 0.2637,
+            "ROUGE-2": 0.0785,
+            "ROUGE-4": 0.0333,
+            "ROUGE-L": 0.219,
+            "ROUGE-W": 0.0882,
+            "ROUGE-S": 0.0602,
+            "ROUGE-SU": 0.0941
+        },
+        "BERTScore": 0.7167,
+        "BARTScore": -3.93,
+        "UniEval": 0.5705,
+        "MoverScore": 0.2819
+    }
+}

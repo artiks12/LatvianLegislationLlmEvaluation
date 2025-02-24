@@ -9,27 +9,55 @@ from os import listdir
 from os.path import isfile, join
 import json
 
-def GetHypothesisAndReference(path: str, file):
-    if not os.path.exists(path):
-        os.makedirs(path)
+def GetHypothesisAndReference(pathToRag: str, pathToOriginal: str, file):
+    if not os.path.exists(pathToRag):
+        os.makedirs(pathToRag)
     model = ''
 
-    fullPath = path + '/' + file
-    with open(fullPath, encoding='utf-8') as f:
-        data = json.load(f)
+    fullPathToRag = pathToRag + '/' + file
+    with open(fullPathToRag, encoding='utf-8') as f:
+        dataRag = json.load(f)
     
-    model = data['model'] + ';' + str(data['params']) + 'b'
+    model = dataRag['model'] + ';' + str(dataRag['params']) + 'b'
 
     hyps = []
     refsROUGE = []
     refsBERT = []
 
-    for d in data['Qs&As']:
+    for d in dataRag['Qs&As']:
         hyps.append(d['answer'])
         refsROUGE.append([d['gold']])
         refsBERT.append(d['gold'])
+
+    RagData = {
+        'hyps': hyps,
+        'refsROUGE':refsROUGE,
+        'refsBERT':refsBERT
+    }
+
+    fullPathToOriginal = pathToOriginal + '/' + file
+    with open(fullPathToOriginal, encoding='utf-8') as f:
+        dataOriginal = json.load(f)
+
+    hyps = []
+    refsROUGE = []
+    refsBERT = []
+
+    RagIds = [d['id'] for d in dataRag['Qs&As']]
+    print(RagIds)
+    for d in range(len(dataOriginal['Qs&As'])):
+        if d in RagIds:
+            hyps.append(dataOriginal['Qs&As'][d]['answer'])
+            refsROUGE.append([dataOriginal['Qs&As'][d]['gold']])
+            refsBERT.append(dataOriginal['Qs&As'][d]['gold'])
+
+    OriginalData = {
+        'hyps': hyps,
+        'refsROUGE':refsROUGE,
+        'refsBERT':refsBERT
+    }
             
-    return hyps, refsROUGE, refsBERT, model
+    return RagData, OriginalData, model
 
 def FixRougeScores(ROUGEscores: dict):
     for metric in ROUGEscores.keys():
@@ -106,36 +134,49 @@ def GetMoverScore(hyps, refs):
     MoverScores = word_mover_score(refs, hyps, idf_dict_hyp, idf_dict_ref, batch_size=128)
     return round(sum(MoverScores)/len(MoverScores),4)
 
-if __name__ == '__main__':
-    path = 'ModelResponses/References'
+def GetScores(data):
+    hyps, refsROUGE, refsBERT = data['hyps'], data['refsROUGE'], data['refsBERT']
+    print('Calculating ROUGE')
+    ROUGEscores = GetRougeScores(hyps, refsROUGE)
+    print('Calculating BARTScore')
+    BARTscore = GetBartScore(hyps, refsROUGE)
+    print('Calculating BERTScore')
+    BERTscore = GetBertScore(hyps, refsBERT)
+    print('Calculating MoverScore')
+    MoverScore = GetMoverScore(hyps, refsBERT)
+    # print('Calculating UniEval')
+    # UniEvalScores = GetUniEvalScores(hyps, refsBERT)
 
-    onlyfiles = [f for f in listdir(path) if isfile(join(path, f))]
+    return {
+        'ROUGE': ROUGEscores,
+        'BERTScore': BERTscore,
+        'BARTScore': BARTscore,
+        # 'UniEval': UniEvalScores,
+        'MoverScore': MoverScore
+    }
+
+
+if __name__ == '__main__':
+    pathToRag = 'ModelResponses/RagTest'
+    pathToOriginal = 'ModelResponses'
+
+    onlyfiles = [f for f in listdir(pathToRag) if isfile(join(pathToRag, f))]
 
     for file in onlyfiles:
         # refsROUGE - liist of lists, refsBERT - list of strings
-        hyps, refsROUGE, refsBERT, model = GetHypothesisAndReference(path, file)
+        RagData, OriginalData, model = GetHypothesisAndReference(pathToRag, pathToOriginal, file)
         print(model)
         
-        print('Calculating ROUGE')
-        ROUGEscores = GetRougeScores(hyps, refsROUGE)
-        print('Calculating BARTScore')
-        BARTscore = GetBartScore(hyps, refsROUGE)
-        print('Calculating BERTScore')
-        BERTscore = GetBertScore(hyps, refsBERT)
-        print('Calculating MoverScore')
-        MoverScore = GetMoverScore(hyps, refsBERT)
-        # print('Calculating UniEval')
-        # UniEvalScores = GetUniEvalScores(hyps, refsBERT)
+        RagScores = GetScores(RagData)
+        OriginalScores = GetScores(OriginalData)
+
         result = {
             'model': model,
-            'ROUGE': ROUGEscores,
-            'BERTScore': BERTscore,
-            'BARTScore': BARTscore,
-            # 'UniEval': UniEvalScores,
-            'MoverScore': MoverScore
+            'OriginalScores': OriginalScores,
+            'RagScores': RagScores
         }
         model = model.replace(':','_').replace('/',';')
-        with open(f'scores/scores_{model}.json', 'wt', encoding='utf-8') as f:
+        with open(f'scores/Rag/scores_{model}.json', 'wt', encoding='utf-8') as f:
             json.dump(result, f, ensure_ascii=False, indent=4)
         # GetROUGEforSeparateSentences(hyps, refsROUGE)
     

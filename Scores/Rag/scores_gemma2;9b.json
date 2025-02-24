@@ -1,0 +1,33 @@
+{
+    "model": "gemma2;9b",
+    "OriginalScores": {
+        "ROUGE": {
+            "ROUGE-1": 0.171,
+            "ROUGE-2": 0.0147,
+            "ROUGE-4": 0.0006,
+            "ROUGE-L": 0.0895,
+            "ROUGE-W": 0.0324,
+            "ROUGE-S": 0.0129,
+            "ROUGE-SU": 0.0398
+        },
+        "BERTScore": 0.6689,
+        "BARTScore": -4.2836,
+        "UniEval": 0.6705,
+        "MoverScore": 0.2147
+    },
+    "RagScores": {
+        "ROUGE": {
+            "ROUGE-1": 0.2356,
+            "ROUGE-2": 0.0615,
+            "ROUGE-4": 0.0243,
+            "ROUGE-L": 0.2074,
+            "ROUGE-W": 0.0816,
+            "ROUGE-S": 0.0472,
+            "ROUGE-SU": 0.0801
+        },
+        "BERTScore": 0.7026,
+        "BARTScore": -4.0507,
+        "UniEval": 0.6379,
+        "MoverScore": 0.2698
+    }
+}
